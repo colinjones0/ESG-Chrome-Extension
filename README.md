@@ -70,7 +70,7 @@ A: You can choose your favorite songs but recent songs will be auto-generated ba
 
 **HTA Approval (crusch):** Rejected — cool idea, but lacks the amount of algorithmic complexity + specification we're looking for.
 
-**Mentor TA:** _Put your mentor TA's name and email here once you're assigned one!_
+**Mentor TA:** Milanca Wang
 
 ## Meetings
 _On your first meeting with your mentor TA, you should plan dates for at least the following meetings:_
