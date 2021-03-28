@@ -1,0 +1,19 @@
+{
+  "name": "ESG",
+  "description": "Claire, Jaden, Colin, Ria CS32 Final Project!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "main.html",
+    "default_icon": "initial_earth_icon.png"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "MacCtrl+Shift+F"
+      },
+      "description": "Opens main.html"
+    }
+  }
+}
