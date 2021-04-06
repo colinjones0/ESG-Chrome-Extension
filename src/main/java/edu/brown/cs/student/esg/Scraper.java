@@ -19,12 +19,13 @@ public class Scraper {
    * Finds the company of the page that the user is on.
    * @param url - url taken from url.
    */
-  public void findCompany(String url) {
+  public String findCompany(String url) {
     try {
       Document doc = Jsoup.connect(url).get();
       Elements test = doc.select("div.masthead");
     } catch (IOException e) {
       System.out.println("Caught IOexcepction"); // fix handling later
     }
+
   }
 }

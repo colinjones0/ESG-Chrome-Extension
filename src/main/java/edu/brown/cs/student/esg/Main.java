@@ -29,6 +29,8 @@ import java.util.Map;
  */
 public final class Main {
   private static final int DEFAULT_PORT = 4567;
+  private static final Gson GSON = new Gson();
+  //private static Scraper scrape = new Scraper();
 
 
 
@@ -58,7 +60,6 @@ public final class Main {
     if (options.has("gui")) {
       runSparkServer((int) options.valueOf("port"));
     }
-
   }
 
   private static FreeMarkerEngine createEngine() {
@@ -94,6 +95,7 @@ public final class Main {
     });
     Spark.before((request, response) -> response.header("Access-Control-Allow-Origin", "*"));
     Spark.exception(Exception.class, new ExceptionPrinter());
+    Spark.post("/findCompany", new CompanyNameHandler());
   }
 
   /**
@@ -113,4 +115,21 @@ public final class Main {
       res.body(stacktrace.toString());
     }
   }
+
+  /**
+   * Handles getting a company name from a website.
+   */
+  private static class CompanyNameHandler implements Route {
+    @Override
+    public Object handle(Request request, Response response) throws Exception {
+      JSONObject data = new JSONObject(request.body());
+      String url = data.getString("currPage");
+//      String companyName = scrape.findCompany(url);
+      String companyName = "hello";
+      Map<String, Object> variables = ImmutableMap.of("name", companyName);
+      return GSON.toJson(variables);
+    }
+  }
+
+
 }
