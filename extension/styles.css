@@ -48,4 +48,50 @@ t1 {
     border-bottom: 1px solid lightgrey;
 }
 
+#score-header {
+    overflow: hidden;
+    position: absolute;
+    bottom: 500px;
+    left: 10px;
+    font-family: Titillium Web, sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    letter-spacing: 0.05em;
 
+    color: #000000;
+}
+
+#score {
+    position: absolute;
+    font-family: Titillium Web, sans-serif;
+    bottom: 450px;
+    left: 10px;
+    font-weight: 100;
+    font-size: 32px;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #333333;
+}
+
+#risk-rating {
+    position: absolute;
+    font-family: Titillium Web, sans-serif;
+    bottom: 464px;
+    left: 95px;
+    font-size: 16px;
+    color: #6FCF97;
+}
+
+#score-range {
+    position: absolute;
+    bottom: 395px;
+    left: 10px;
+    width: 207px;
+    height: 40px;
+}
+
+a {
+    position: absolute;
+    bottom: 375px;
+    left: 15px;
+}
