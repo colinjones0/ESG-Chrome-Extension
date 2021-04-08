@@ -7,7 +7,7 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 
 /**
- * Class that hanldes webscraping.
+ * Class that handles web-scraping.
  */
 public class Scraper {
 

@@ -1,0 +1,40 @@
+html {
+    width: 400px;
+    height: 590px;
+}
+
+h1 {
+    /*position: absolute;*/
+    width: 400px;
+    height: 35px;
+    left: 0;
+    border-bottom: 1px solid grey;
+    /*bottom: 500px;*/
+    /*left: 40px;*/
+
+    /*font-family: Titillium Web;*/
+    /*font-style: normal;*/
+    /*font-weight: normal;*/
+    /*font-size: 20px;*/
+    /*line-height: 50px;*/
+    /* or 33% */
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*letter-spacing: 0.1em;*/
+    /*font-feature-settings: 'tnum' on, 'lnum' on, 'cpsp' on;*/
+
+    /*color: black;*/
+}
+
+t1 {
+    position: absolute;
+    bottom: 520px;
+    left: 40px;
+    font-family: Titillium Web;
+    font-size: 20px;
+    line-height: 50px;
+    letter-spacing: 0.1em;
+    color: black;
+
+}
+
