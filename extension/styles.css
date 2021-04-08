@@ -7,9 +7,9 @@ html {
 h1 {
     /*position: absolute;*/
     width: 400px;
-    height: 35px;
+    height: 45px;
     left: 0;
-    border-bottom: 1px solid grey;
+    /*border-bottom: 1px solid grey;*/
     /*bottom: 500px;*/
     /*left: 40px;*/
 
@@ -28,15 +28,24 @@ h1 {
 }
 
 t1 {
+    overflow: hidden;
     position: absolute;
-    bottom: 530px;
-    left: 40px;
+    bottom: 535px;
+    left: 70px;
     font-family: Titillium Web, sans-serif;
     font-style: normal;
+    font-weight: 100;
     font-size: 20px;
     line-height: 30px;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.05em;
     color: black;
-
 }
+
+.top-border {
+    position: absolute;
+    left: 0;
+    width: 420px;
+    border-bottom: 1px solid grey;
+}
+
 
