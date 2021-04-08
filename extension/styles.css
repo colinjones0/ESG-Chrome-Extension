@@ -1,3 +1,4 @@
+@import "src/fonts/fonts.css";
 html {
     width: 400px;
     height: 590px;
@@ -28,11 +29,12 @@ h1 {
 
 t1 {
     position: absolute;
-    bottom: 520px;
+    bottom: 530px;
     left: 40px;
-    font-family: Titillium Web;
+    font-family: Titillium Web, sans-serif;
+    font-style: normal;
     font-size: 20px;
-    line-height: 50px;
+    line-height: 30px;
     letter-spacing: 0.1em;
     color: black;
 
