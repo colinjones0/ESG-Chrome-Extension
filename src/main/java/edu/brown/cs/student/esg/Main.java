@@ -2,7 +2,6 @@ package edu.brown.cs.student.esg;
 
 import com.google.common.collect.ImmutableMap;
 import com.google.gson.Gson;
-import org.json.JSONArray;
 import org.json.JSONObject;
 import joptsimple.OptionParser;
 import joptsimple.OptionSet;
@@ -17,10 +16,6 @@ import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.StringWriter;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Map;
 
 /**
@@ -30,9 +25,6 @@ import java.util.Map;
 public final class Main {
   private static final int DEFAULT_PORT = 4567;
   private static final Gson GSON = new Gson();
-  //private static Scraper scrape = new Scraper();
-
-
 
   /**
    * The initial method called when execution begins.
@@ -43,7 +35,7 @@ public final class Main {
     new Main(args).run();
   }
 
-  private String[] args;
+  private final String[] args;
 
   private Main(String[] args) {
     this.args = args;
@@ -60,6 +52,9 @@ public final class Main {
     if (options.has("gui")) {
       runSparkServer((int) options.valueOf("port"));
     }
+
+    Scraper scraper = new Scraper();
+    scraper.findCompany("https://www.nike.com/");
   }
 
   private static FreeMarkerEngine createEngine() {
@@ -76,26 +71,32 @@ public final class Main {
   }
 
   private void runSparkServer(int port) {
-    /* Taken largely from the React lab's server. */
-
+//    /* Taken largely from the React lab's server. */
+//
+//    Spark.port(port);
+//    Spark.externalStaticFileLocation("src/main/resources/static");
+//
+//    /* Access control. */
+//    Spark.options("/*", (request, response) -> {
+//      String accessControlRequestHeaders = request.headers("Access-Control-Request-Headers");
+//      if (accessControlRequestHeaders != null) {
+//        response.header("Access-Control-Allow-Headers", accessControlRequestHeaders);
+//      }
+//      String accessControlRequestMethod = request.headers("Access-Control-Request-Method");
+//      if (accessControlRequestMethod != null) {
+//        response.header("Access-Control-Allow-Methods", accessControlRequestMethod);
+//      }
+//      return "OK";
+//    });
+//    Spark.before((request, response) -> response.header("Access-Control-Allow-Origin", "*"));
+//    Spark.exception(Exception.class, new ExceptionPrinter());
+//    FreeMarkerEngine freeMarker = createEngine();
+//    //Spark.post("/findCompany", new CompanyNameHandler());
     Spark.port(port);
     Spark.externalStaticFileLocation("src/main/resources/static");
-
-    /* Access control. */
-    Spark.options("/*", (request, response) -> {
-      String accessControlRequestHeaders = request.headers("Access-Control-Request-Headers");
-      if (accessControlRequestHeaders != null) {
-        response.header("Access-Control-Allow-Headers", accessControlRequestHeaders);
-      }
-      String accessControlRequestMethod = request.headers("Access-Control-Request-Method");
-      if (accessControlRequestMethod != null) {
-        response.header("Access-Control-Allow-Methods", accessControlRequestMethod);
-      }
-      return "OK";
-    });
-    Spark.before((request, response) -> response.header("Access-Control-Allow-Origin", "*"));
     Spark.exception(Exception.class, new ExceptionPrinter());
-    Spark.post("/findCompany", new CompanyNameHandler());
+
+    FreeMarkerEngine freeMarker = createEngine();
   }
 
   /**
