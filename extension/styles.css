@@ -116,9 +116,15 @@ a {
     bottom: 200px;
     left: 10px;
     width: 115px;
+    height: 40px;
     background: rgba(256, 256, 256, 0.7);
     text-align: center;
     border-radius: 10px;
+    transition: height 2s;
+}
+
+#environment-article:hover {
+    height: 115px;
 }
 
 #social-image {
@@ -162,9 +168,15 @@ a {
     bottom: 200px;
     left: 275px;
     width: 115px;
+    height: 40px;
     background: rgba(256, 256, 256, 0.7);
     text-align: center;
     border-radius: 10px;
+    transition: height 2s;
+}
+
+#governance-article:hover {
+    height: 115px;
 }
 
 .third-border {
