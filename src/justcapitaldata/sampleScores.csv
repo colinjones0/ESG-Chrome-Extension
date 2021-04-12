@@ -1,0 +1,409 @@
+Company Perm ID,Ticker,Company Name,Industry Name,Taxonomy Type,Taxonomy Perm ID,Taxonomy Name,Score
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,RANK,18a8d4f3fb7b7e63b4fffc362721ff4e,RANK,258.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,INDUSTRY_RANK,18a8d4f3fb7b7e63b4fffc362721ff4e,INDUSTRY_RANK,12.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,WEIGHTED_SCORE,18a8d4f3fb7b7e63b4fffc362721ff4e,Weighted Score ,55.36
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,STAKEHOLDER,0abe3d1d4c7e88552c35a3a3b3fa46cf,Communities,48.71
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,STAKEHOLDER,f87b196ed3bb2e90cb0957120e99434a,Customers,49.05
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,STAKEHOLDER,3c59f75b642202423390cb724fd1126d,Environment,49.36
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,STAKEHOLDER,b71cb1b88d2a81035be0b8c0ef6bb016,Shareholders,49.97
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,STAKEHOLDER,9815d1f90c28664e06ad058c687c17b6,Workers,58.27
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,1867b0947ebb399945edaa2fa3b3afce,Benefits & Work-Life Balance,77.80
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,87d6ff273d55ca122e82247fd61d4cd9,Climate Change,59.35
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,cd067e93c7f1d7da998e44555a08b212,Community Development,55.69
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,a8091ff308177c00204dee0cd4a7d438,Community Support,43.44
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,666947ba2837ce266a34ab12aafaa843,Customer Privacy,71.07
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,38e05b63c770a3082f8a103989141167,Customer Treatment,41.53
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,1bc3511350ae224da44d7f659d331d51,"Diversity, Equity, & Inclusion",62.85
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,1b8d3e3660858fb499816dfbbfb6e70b,Ethical Leadership ,44.93
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,27b0a3c4f9cac80e27656157213d9041,Human Rights,51.93
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,68ecfd06bcaffeb44a34f51ab0707fca,Livable Wage,78.11
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,922cfffc942178f9edf8a5ca5a26d20e,Local Job Creation,29.38
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,d6595c7a1018160778b620445d695ec0,Non-Harmful Products,49.29
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,10481e130541a5a1f419db6ea20f3648,Pollution Reduction,37.48
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,2751c4ee209f09d47d289a7460cfc317,Profit Generation,54.61
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,bbd04de8ba71e2a8f6f043b172059c5c,Stakeholder Value Creation,56.57
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,a744595b75e75cb304e0101ecfcc4098,Sustainable Products,32.54
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,bdaf28133f7f04d995996122674630b6,Transparent Communication,-25.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,401ef805b3ddb1453391102a24c18d1d,Workforce Investment & Training,79.29
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,ISSUE,8f99897277e6ad6f87525e378ed1a14e,Workplace Safety,49.91
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,89f5489df0741ac40344be1eb5509937,Actions to Support Human Rights Commitment,40.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,cda050c2590ead0df07bcec984e20b88,Additional Compensation During COVID-19,74.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,033bbf5acc826b287f27753d0f06bec8,Air Pollution,50.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,8752262bfb472735f98914dc8f46b71c,Anti-Competitive Practices Controversies,-17.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,ef143e75cbad4135f8bee797de51b82a,Avoidance of Exploitative Businesses and Governments,52.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,bcedf56f42785dac82ccd220405b7d98,Benefits and 401k Quality,77.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,229b1fcbafd616945cde554fe5b794a1,Benefits Eligibility,26.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,d9d843b6e6dbc96999f8171bfb256e21,Board Diversity,43.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,be63c900e4349c14ff77bdc14030779a,Board Independence,92.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,e577ac242d0c516c478d83b57fa40df7,Board Oversight of JUST Issues,35.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,2ae14aa62f16c502b7c49ded10930cf8,Career Development,68.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,f6ea0f41113689ee9d03c3fa6b537b91,Charitable Giving Ratio,46.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,b41a208e9aef40c23faf7e83a57ce55b,Commitment to Following Laws & Regulations,58.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,c3516d47dc0a965e3613305adafb1c13,Community Impacts Controversies,55.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,14d2835de7fadd60bf6fd728da04c897,Consumer Protection Fines,51.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,81a4a73359285d27d24b5cdf9b42c3c8,Cross-Stakeholder Controversies,36.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,d98c05da5c401b7ce94df7b8961d573e,Customer Accommodations During COVID-19,53.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,2620e6a1d9415f352c190a870930d3a3,Customer Discrimination Controversies,51.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,968b589c36009c591b460bf6bed3e1e8,Customer Service Rating,33.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,cc18c447cc03e009442db4f339db2368,Data Privacy Controversies,51.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,2fb0baa8f2a25dd776dd37f71e473603,Discrimination Controversies,52.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,7921411b335e73157394eefb09c56472,"Diversity, Equity, and Inclusion Policies",44.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,f853763b0b87d18936f1b86cadaed34f,Donations in Response to COVID-19,65.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,55241c5c2b3b120f2120efe65f02b573,EEOC Violations and Worker Grievance Fines,52.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,2cdb8137807cda3ac0c9c76174caf46e,Employee-Led Giving and Volunteering,37.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,993d5a2cd2fa21b9c8aa835ecc873fae,Engages with Local Communities,39.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,ea3d1c04d916e6b13dc572b04bba10cd,Executive Compensation,41.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,e61c60264e4b01e9246be87467c62b54,Fair Pay Rating,67.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,b5f913b982e593905deb85cd1cd8b232,Fair Pay Score,76.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,9a09e6e6214bcd0e3200f202a87d2d9c,Federal Trade Commission Fines,51.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,e671e2a7b2823bb7d3d60eec5269f66f,Financial Management,54.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,60990d6ce967344f5aec603a073a82bf,Five-Year Alpha,51.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,c22c88c93904610e2b353f9d0a6c1aec,Five-Year Return-on-Equity,7.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,7e1a86f1b3ba71e364f0eee04186f4f2,Free Cash Flow,98.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,48914b4de70ee4f74e424632bc048486,Health and Safety Controversies,52.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,0bbd8114398c3def41819b61255d7025,Health and Safety During COVID-19,23.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,f101e0d9e7f970919b4f30d685f13e68,Health and Safety Fines,54.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,a31c440e92c56577794a29f95e7b166b,Health and Safety Performance,42.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,3e635aa7db7b46bf7b85b1dc89120fd7,Health and Safety Policies,79.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,4b7c420d90921a56b809c7d0e6a609e9,Job Quality,75.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,21e4947d6b897887ec7564b336b2518f,Job Stability During COVID-19,61.17
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,2f1e53694df28fddee92ffaf0e74671f,Labor & Human Rights Commitment,81.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,8e617ae0dfd63260c84b76475492ae14,Labor & Human Rights Controversies,53.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,e21eb2c5e96ba9b8e761fe3450ff8c4f,Legal Fines and Violations,27.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,b1f16a75d6a578e80eb0fd9874c66414,Living Wage,59.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,544a7bcf077fe6b89563975690784797,Local Employment Pipeline,47.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,5bbffdb3fca9936bf25dbcbc8795c5f7,Median Worker Pay,49.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,ee6ac41e20094af5ae96c76a5983e401,Misleading Communication Controversies,1.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,961f7eeb937ff5b890dc76d4c17417af,Number of U.S. Jobs,46.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,8f1c897987833abf264e0dde5e10ee85,Number of U.S. Jobs Created,49.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,0e28159ee613543840f4bec2f5f6dc18,Opportunities for Local Businesses,72.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,84cf1ebde17e44205e0c51db28622d31,Percent of U.S. Jobs Created,44.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,3093da0ee61a2c41eadd728682730f1b,Privacy Policies,70.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,12fcdeee2d70e6b282849ccea39b702f,Product Benefit Assessment,53.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,bf8c1744438adea390cb683c328d8275,Product Health and Environment Controversies,30.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,54f504703d3118f1f05d87b3010c7954,Product Recall Disclosure,51.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,70a36c9f960061b7e3681f8145248bb4,Product Safety Fines,50.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,18bce12365ffcfabea5f4a70f5d98d47,"Production, Distribution, or Logistical Support During COVID-19",64.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,929fc399fa54f39d7b7a681dba70c605,Ratio of U.S. to Global Jobs,23.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,5319f0955ebc363016ec7a6717022830,Reductions in Compensation During COVID-19,57.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,13d53515935a0efb85f6022f5db0b132,Related-Party Transactions,60.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,c23dbed88c604671832d691dadaf73d8,Renewable Energy Percentage,41.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,8f70f13ef6a527ddc9f7b06c05c7bdf5,Resource Use,37.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,0f31d731039c21d6e4df413e0ed64e56,Scope 1 Plus 2 Greenhouse Gas Emissions,57.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,df032906d3f6bcf80ea0b79e21a1c15e,SEC Filings Review,58.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,5cbb7ba696197dadffbde18228436309,Supplier Requirements on Labor & Human Rights,77.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,3423e743fdc34948effda4462780bdb3,Supply Chain Management Reporting,38.50
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,4e086b69f887883d34afb2380fb59d5e,Sustainable Products and Services,33.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,5ccc7f0dac0677412a14c91b1050e40b,Transparent Charitable Giving,33.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,a0748703138d3004f2115ff8df41706e,Wage Violations,50.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,b62d2eed908b3c503fa180aeb01defa4,Work-Life Balance,91.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,9dceab38112d44d13369d575ae29bdae,Work-Life Balance During COVID-19,49.75
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,48fffdd576a1babf159ed737a21ed843,Worker Benefits During COVID-19,52.25
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,7f42e68b40dab90e7e85701135d03486,Worker Benefits Package,88.00
+726734047024aaee78f5f8437,ABBV,AbbVie Inc,Pharmaceuticals & Biotech,METRIC,a3fe7f19e3126f3d97cd57e028ddb468,Workforce Demographics,75.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,RANK,18a8d4f3fb7b7e63b4fffc362721ff4e,RANK,37.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,INDUSTRY_RANK,18a8d4f3fb7b7e63b4fffc362721ff4e,INDUSTRY_RANK,2.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,WEIGHTED_SCORE,18a8d4f3fb7b7e63b4fffc362721ff4e,Weighted Score ,73.16
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,STAKEHOLDER,0abe3d1d4c7e88552c35a3a3b3fa46cf,Communities,59.77
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,STAKEHOLDER,f87b196ed3bb2e90cb0957120e99434a,Customers,54.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,STAKEHOLDER,3c59f75b642202423390cb724fd1126d,Environment,51.89
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,STAKEHOLDER,b71cb1b88d2a81035be0b8c0ef6bb016,Shareholders,51.90
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,STAKEHOLDER,9815d1f90c28664e06ad058c687c17b6,Workers,55.35
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,1867b0947ebb399945edaa2fa3b3afce,Benefits & Work-Life Balance,102.05
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,87d6ff273d55ca122e82247fd61d4cd9,Climate Change,58.54
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,cd067e93c7f1d7da998e44555a08b212,Community Development,107.63
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,a8091ff308177c00204dee0cd4a7d438,Community Support,114.45
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,666947ba2837ce266a34ab12aafaa843,Customer Privacy,59.43
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,38e05b63c770a3082f8a103989141167,Customer Treatment,100.78
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,1bc3511350ae224da44d7f659d331d51,"Diversity, Equity, & Inclusion",32.67
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,1b8d3e3660858fb499816dfbbfb6e70b,Ethical Leadership ,52.67
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,27b0a3c4f9cac80e27656157213d9041,Human Rights,125.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,68ecfd06bcaffeb44a34f51ab0707fca,Livable Wage,52.34
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,922cfffc942178f9edf8a5ca5a26d20e,Local Job Creation,53.70
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,d6595c7a1018160778b620445d695ec0,Non-Harmful Products,95.49
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,10481e130541a5a1f419db6ea20f3648,Pollution Reduction,81.95
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,2751c4ee209f09d47d289a7460cfc317,Profit Generation,39.79
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,bbd04de8ba71e2a8f6f043b172059c5c,Stakeholder Value Creation,95.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,a744595b75e75cb304e0101ecfcc4098,Sustainable Products,71.28
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,bdaf28133f7f04d995996122674630b6,Transparent Communication,55.73
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,401ef805b3ddb1453391102a24c18d1d,Workforce Investment & Training,41.53
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,ISSUE,8f99897277e6ad6f87525e378ed1a14e,Workplace Safety,92.81
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,89f5489df0741ac40344be1eb5509937,Actions to Support Human Rights Commitment,125.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,cda050c2590ead0df07bcec984e20b88,Additional Compensation During COVID-19,39.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,033bbf5acc826b287f27753d0f06bec8,Air Pollution,50.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,8752262bfb472735f98914dc8f46b71c,Anti-Competitive Practices Controversies,53.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,ef143e75cbad4135f8bee797de51b82a,Avoidance of Exploitative Businesses and Governments,52.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,bcedf56f42785dac82ccd220405b7d98,Benefits and 401k Quality,59.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,229b1fcbafd616945cde554fe5b794a1,Benefits Eligibility,36.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,d9d843b6e6dbc96999f8171bfb256e21,Board Diversity,74.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,be63c900e4349c14ff77bdc14030779a,Board Independence,44.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,e577ac242d0c516c478d83b57fa40df7,Board Oversight of JUST Issues,74.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,2ae14aa62f16c502b7c49ded10930cf8,Career Development,69.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,f6ea0f41113689ee9d03c3fa6b537b91,Charitable Giving Ratio,71.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,b41a208e9aef40c23faf7e83a57ce55b,Commitment to Following Laws & Regulations,58.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,c3516d47dc0a965e3613305adafb1c13,Community Impacts Controversies,55.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,14d2835de7fadd60bf6fd728da04c897,Consumer Protection Fines,51.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,81a4a73359285d27d24b5cdf9b42c3c8,Cross-Stakeholder Controversies,58.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,d98c05da5c401b7ce94df7b8961d573e,Customer Accommodations During COVID-19,74.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,2620e6a1d9415f352c190a870930d3a3,Customer Discrimination Controversies,51.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,968b589c36009c591b460bf6bed3e1e8,Customer Service Rating,99.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,cc18c447cc03e009442db4f339db2368,Data Privacy Controversies,51.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,2fb0baa8f2a25dd776dd37f71e473603,Discrimination Controversies,48.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,7921411b335e73157394eefb09c56472,"Diversity, Equity, and Inclusion Policies",72.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,f853763b0b87d18936f1b86cadaed34f,Donations in Response to COVID-19,86.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,55241c5c2b3b120f2120efe65f02b573,EEOC Violations and Worker Grievance Fines,-25.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,2cdb8137807cda3ac0c9c76174caf46e,Employee-Led Giving and Volunteering,102.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,993d5a2cd2fa21b9c8aa835ecc873fae,Engages with Local Communities,111.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,ea3d1c04d916e6b13dc572b04bba10cd,Executive Compensation,102.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,e61c60264e4b01e9246be87467c62b54,Fair Pay Rating,64.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,b5f913b982e593905deb85cd1cd8b232,Fair Pay Score,71.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,9a09e6e6214bcd0e3200f202a87d2d9c,Federal Trade Commission Fines,51.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,e671e2a7b2823bb7d3d60eec5269f66f,Financial Management,54.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,60990d6ce967344f5aec603a073a82bf,Five-Year Alpha,27.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,c22c88c93904610e2b353f9d0a6c1aec,Five-Year Return-on-Equity,53.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,7e1a86f1b3ba71e364f0eee04186f4f2,Free Cash Flow,45.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,48914b4de70ee4f74e424632bc048486,Health and Safety Controversies,46.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,0bbd8114398c3def41819b61255d7025,Health and Safety During COVID-19,87.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,f101e0d9e7f970919b4f30d685f13e68,Health and Safety Fines,54.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,a31c440e92c56577794a29f95e7b166b,Health and Safety Performance,56.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,3e635aa7db7b46bf7b85b1dc89120fd7,Health and Safety Policies,79.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,4b7c420d90921a56b809c7d0e6a609e9,Job Quality,57.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,21e4947d6b897887ec7564b336b2518f,Job Stability During COVID-19,8.19
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,2f1e53694df28fddee92ffaf0e74671f,Labor & Human Rights Commitment,81.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,8e617ae0dfd63260c84b76475492ae14,Labor & Human Rights Controversies,51.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,e21eb2c5e96ba9b8e761fe3450ff8c4f,Legal Fines and Violations,58.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,b1f16a75d6a578e80eb0fd9874c66414,Living Wage,41.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,544a7bcf077fe6b89563975690784797,Local Employment Pipeline,94.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,5bbffdb3fca9936bf25dbcbc8795c5f7,Median Worker Pay,33.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,ee6ac41e20094af5ae96c76a5983e401,Misleading Communication Controversies,53.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,961f7eeb937ff5b890dc76d4c17417af,Number of U.S. Jobs,73.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,8f1c897987833abf264e0dde5e10ee85,Number of U.S. Jobs Created,63.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,0e28159ee613543840f4bec2f5f6dc18,Opportunities for Local Businesses,72.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,84cf1ebde17e44205e0c51db28622d31,Percent of U.S. Jobs Created,44.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,3093da0ee61a2c41eadd728682730f1b,Privacy Policies,58.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,12fcdeee2d70e6b282849ccea39b702f,Product Benefit Assessment,74.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,bf8c1744438adea390cb683c328d8275,Product Health and Environment Controversies,49.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,54f504703d3118f1f05d87b3010c7954,Product Recall Disclosure,51.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,70a36c9f960061b7e3681f8145248bb4,Product Safety Fines,50.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,18bce12365ffcfabea5f4a70f5d98d47,"Production, Distribution, or Logistical Support During COVID-19",97.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,929fc399fa54f39d7b7a681dba70c605,Ratio of U.S. to Global Jobs,21.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,5319f0955ebc363016ec7a6717022830,Reductions in Compensation During COVID-19,57.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,13d53515935a0efb85f6022f5db0b132,Related-Party Transactions,27.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,c23dbed88c604671832d691dadaf73d8,Renewable Energy Percentage,43.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,8f70f13ef6a527ddc9f7b06c05c7bdf5,Resource Use,82.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,0f31d731039c21d6e4df413e0ed64e56,Scope 1 Plus 2 Greenhouse Gas Emissions,56.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,df032906d3f6bcf80ea0b79e21a1c15e,SEC Filings Review,58.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,5cbb7ba696197dadffbde18228436309,Supplier Requirements on Labor & Human Rights,77.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,3423e743fdc34948effda4462780bdb3,Supply Chain Management Reporting,125.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,4e086b69f887883d34afb2380fb59d5e,Sustainable Products and Services,82.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,5ccc7f0dac0677412a14c91b1050e40b,Transparent Charitable Giving,100.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,a0748703138d3004f2115ff8df41706e,Wage Violations,52.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,b62d2eed908b3c503fa180aeb01defa4,Work-Life Balance,103.25
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,9dceab38112d44d13369d575ae29bdae,Work-Life Balance During COVID-19,49.75
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,48fffdd576a1babf159ed737a21ed843,Worker Benefits During COVID-19,125.00
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,7f42e68b40dab90e7e85701135d03486,Worker Benefits Package,86.50
+3328cef38019f230da12681dc,F,Ford Motor Company,Automobiles & Parts,METRIC,a3fe7f19e3126f3d97cd57e028ddb468,Workforce Demographics,75.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,RANK,18a8d4f3fb7b7e63b4fffc362721ff4e,RANK,2.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,INDUSTRY_RANK,18a8d4f3fb7b7e63b4fffc362721ff4e,INDUSTRY_RANK,1.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,WEIGHTED_SCORE,18a8d4f3fb7b7e63b4fffc362721ff4e,Weighted Score ,93.40
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,STAKEHOLDER,0abe3d1d4c7e88552c35a3a3b3fa46cf,Communities,57.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,STAKEHOLDER,f87b196ed3bb2e90cb0957120e99434a,Customers,55.91
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,STAKEHOLDER,3c59f75b642202423390cb724fd1126d,Environment,53.13
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,STAKEHOLDER,b71cb1b88d2a81035be0b8c0ef6bb016,Shareholders,54.58
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,STAKEHOLDER,9815d1f90c28664e06ad058c687c17b6,Workers,72.05
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,1867b0947ebb399945edaa2fa3b3afce,Benefits & Work-Life Balance,110.29
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,87d6ff273d55ca122e82247fd61d4cd9,Climate Change,59.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,cd067e93c7f1d7da998e44555a08b212,Community Development,78.39
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,a8091ff308177c00204dee0cd4a7d438,Community Support,104.93
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,666947ba2837ce266a34ab12aafaa843,Customer Privacy,125.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,38e05b63c770a3082f8a103989141167,Customer Treatment,51.23
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,1bc3511350ae224da44d7f659d331d51,"Diversity, Equity, & Inclusion",95.88
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,1b8d3e3660858fb499816dfbbfb6e70b,Ethical Leadership ,72.99
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,27b0a3c4f9cac80e27656157213d9041,Human Rights,125.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,68ecfd06bcaffeb44a34f51ab0707fca,Livable Wage,125.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,922cfffc942178f9edf8a5ca5a26d20e,Local Job Creation,38.11
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,d6595c7a1018160778b620445d695ec0,Non-Harmful Products,123.86
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,10481e130541a5a1f419db6ea20f3648,Pollution Reduction,78.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,2751c4ee209f09d47d289a7460cfc317,Profit Generation,109.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,bbd04de8ba71e2a8f6f043b172059c5c,Stakeholder Value Creation,82.05
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,a744595b75e75cb304e0101ecfcc4098,Sustainable Products,119.90
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,bdaf28133f7f04d995996122674630b6,Transparent Communication,55.73
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,401ef805b3ddb1453391102a24c18d1d,Workforce Investment & Training,103.80
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,ISSUE,8f99897277e6ad6f87525e378ed1a14e,Workplace Safety,77.76
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,89f5489df0741ac40344be1eb5509937,Actions to Support Human Rights Commitment,108.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,cda050c2590ead0df07bcec984e20b88,Additional Compensation During COVID-19,125.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,033bbf5acc826b287f27753d0f06bec8,Air Pollution,50.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,8752262bfb472735f98914dc8f46b71c,Anti-Competitive Practices Controversies,53.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,ef143e75cbad4135f8bee797de51b82a,Avoidance of Exploitative Businesses and Governments,52.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,bcedf56f42785dac82ccd220405b7d98,Benefits and 401k Quality,72.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,229b1fcbafd616945cde554fe5b794a1,Benefits Eligibility,82.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,d9d843b6e6dbc96999f8171bfb256e21,Board Diversity,74.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,be63c900e4349c14ff77bdc14030779a,Board Independence,92.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,e577ac242d0c516c478d83b57fa40df7,Board Oversight of JUST Issues,59.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,2ae14aa62f16c502b7c49ded10930cf8,Career Development,89.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,f6ea0f41113689ee9d03c3fa6b537b91,Charitable Giving Ratio,48.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,b41a208e9aef40c23faf7e83a57ce55b,Commitment to Following Laws & Regulations,77.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,c3516d47dc0a965e3613305adafb1c13,Community Impacts Controversies,55.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,14d2835de7fadd60bf6fd728da04c897,Consumer Protection Fines,51.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,81a4a73359285d27d24b5cdf9b42c3c8,Cross-Stakeholder Controversies,58.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,d98c05da5c401b7ce94df7b8961d573e,Customer Accommodations During COVID-19,53.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,2620e6a1d9415f352c190a870930d3a3,Customer Discrimination Controversies,51.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,968b589c36009c591b460bf6bed3e1e8,Customer Service Rating,47.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,cc18c447cc03e009442db4f339db2368,Data Privacy Controversies,51.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,2fb0baa8f2a25dd776dd37f71e473603,Discrimination Controversies,52.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,7921411b335e73157394eefb09c56472,"Diversity, Equity, and Inclusion Policies",72.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,f853763b0b87d18936f1b86cadaed34f,Donations in Response to COVID-19,86.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,55241c5c2b3b120f2120efe65f02b573,EEOC Violations and Worker Grievance Fines,52.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,2cdb8137807cda3ac0c9c76174caf46e,Employee-Led Giving and Volunteering,102.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,993d5a2cd2fa21b9c8aa835ecc873fae,Engages with Local Communities,111.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,ea3d1c04d916e6b13dc572b04bba10cd,Executive Compensation,41.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,e61c60264e4b01e9246be87467c62b54,Fair Pay Rating,80.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,b5f913b982e593905deb85cd1cd8b232,Fair Pay Score,93.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,9a09e6e6214bcd0e3200f202a87d2d9c,Federal Trade Commission Fines,51.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,e671e2a7b2823bb7d3d60eec5269f66f,Financial Management,54.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,60990d6ce967344f5aec603a073a82bf,Five-Year Alpha,99.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,c22c88c93904610e2b353f9d0a6c1aec,Five-Year Return-on-Equity,76.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,7e1a86f1b3ba71e364f0eee04186f4f2,Free Cash Flow,98.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,48914b4de70ee4f74e424632bc048486,Health and Safety Controversies,52.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,0bbd8114398c3def41819b61255d7025,Health and Safety During COVID-19,55.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,f101e0d9e7f970919b4f30d685f13e68,Health and Safety Fines,54.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,a31c440e92c56577794a29f95e7b166b,Health and Safety Performance,57.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,3e635aa7db7b46bf7b85b1dc89120fd7,Health and Safety Policies,79.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,4b7c420d90921a56b809c7d0e6a609e9,Job Quality,100.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,21e4947d6b897887ec7564b336b2518f,Job Stability During COVID-19,61.17
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,2f1e53694df28fddee92ffaf0e74671f,Labor & Human Rights Commitment,99.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,8e617ae0dfd63260c84b76475492ae14,Labor & Human Rights Controversies,53.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,e21eb2c5e96ba9b8e761fe3450ff8c4f,Legal Fines and Violations,58.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,b1f16a75d6a578e80eb0fd9874c66414,Living Wage,83.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,544a7bcf077fe6b89563975690784797,Local Employment Pipeline,71.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,5bbffdb3fca9936bf25dbcbc8795c5f7,Median Worker Pay,87.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,ee6ac41e20094af5ae96c76a5983e401,Misleading Communication Controversies,53.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,961f7eeb937ff5b890dc76d4c17417af,Number of U.S. Jobs,44.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,8f1c897987833abf264e0dde5e10ee85,Number of U.S. Jobs Created,52.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,0e28159ee613543840f4bec2f5f6dc18,Opportunities for Local Businesses,28.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,84cf1ebde17e44205e0c51db28622d31,Percent of U.S. Jobs Created,51.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,3093da0ee61a2c41eadd728682730f1b,Privacy Policies,125.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,12fcdeee2d70e6b282849ccea39b702f,Product Benefit Assessment,87.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,bf8c1744438adea390cb683c328d8275,Product Health and Environment Controversies,52.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,54f504703d3118f1f05d87b3010c7954,Product Recall Disclosure,51.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,70a36c9f960061b7e3681f8145248bb4,Product Safety Fines,50.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,18bce12365ffcfabea5f4a70f5d98d47,"Production, Distribution, or Logistical Support During COVID-19",125.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,929fc399fa54f39d7b7a681dba70c605,Ratio of U.S. to Global Jobs,30.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,5319f0955ebc363016ec7a6717022830,Reductions in Compensation During COVID-19,57.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,13d53515935a0efb85f6022f5db0b132,Related-Party Transactions,60.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,c23dbed88c604671832d691dadaf73d8,Renewable Energy Percentage,87.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,8f70f13ef6a527ddc9f7b06c05c7bdf5,Resource Use,78.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,0f31d731039c21d6e4df413e0ed64e56,Scope 1 Plus 2 Greenhouse Gas Emissions,57.50
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,df032906d3f6bcf80ea0b79e21a1c15e,SEC Filings Review,58.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,5cbb7ba696197dadffbde18228436309,Supplier Requirements on Labor & Human Rights,77.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,3423e743fdc34948effda4462780bdb3,Supply Chain Management Reporting,125.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,4e086b69f887883d34afb2380fb59d5e,Sustainable Products and Services,102.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,5ccc7f0dac0677412a14c91b1050e40b,Transparent Charitable Giving,100.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,a0748703138d3004f2115ff8df41706e,Wage Violations,52.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,b62d2eed908b3c503fa180aeb01defa4,Work-Life Balance,125.00
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,9dceab38112d44d13369d575ae29bdae,Work-Life Balance During COVID-19,49.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,48fffdd576a1babf159ed737a21ed843,Worker Benefits During COVID-19,52.25
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,7f42e68b40dab90e7e85701135d03486,Worker Benefits Package,104.75
+81733c2bdcda385e8f2b87cda,NVDA,NVIDIA Corp,Semiconductors & Equipment,METRIC,a3fe7f19e3126f3d97cd57e028ddb468,Workforce Demographics,104.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,RANK,18a8d4f3fb7b7e63b4fffc362721ff4e,RANK,236.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,INDUSTRY_RANK,18a8d4f3fb7b7e63b4fffc362721ff4e,INDUSTRY_RANK,15.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,WEIGHTED_SCORE,18a8d4f3fb7b7e63b4fffc362721ff4e,Weighted Score ,56.29
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,STAKEHOLDER,0abe3d1d4c7e88552c35a3a3b3fa46cf,Communities,57.56
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,STAKEHOLDER,f87b196ed3bb2e90cb0957120e99434a,Customers,50.91
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,STAKEHOLDER,3c59f75b642202423390cb724fd1126d,Environment,51.78
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,STAKEHOLDER,b71cb1b88d2a81035be0b8c0ef6bb016,Shareholders,52.82
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,STAKEHOLDER,9815d1f90c28664e06ad058c687c17b6,Workers,43.22
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,1867b0947ebb399945edaa2fa3b3afce,Benefits & Work-Life Balance,-9.97
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,87d6ff273d55ca122e82247fd61d4cd9,Climate Change,59.35
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,cd067e93c7f1d7da998e44555a08b212,Community Development,75.77
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,a8091ff308177c00204dee0cd4a7d438,Community Support,40.67
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,666947ba2837ce266a34ab12aafaa843,Customer Privacy,26.04
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,38e05b63c770a3082f8a103989141167,Customer Treatment,76.77
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,1bc3511350ae224da44d7f659d331d51,"Diversity, Equity, & Inclusion",62.85
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,1b8d3e3660858fb499816dfbbfb6e70b,Ethical Leadership ,58.47
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,27b0a3c4f9cac80e27656157213d9041,Human Rights,68.07
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,68ecfd06bcaffeb44a34f51ab0707fca,Livable Wage,14.29
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,922cfffc942178f9edf8a5ca5a26d20e,Local Job Creation,125.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,d6595c7a1018160778b620445d695ec0,Non-Harmful Products,78.47
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,10481e130541a5a1f419db6ea20f3648,Pollution Reduction,70.09
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,2751c4ee209f09d47d289a7460cfc317,Profit Generation,72.67
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,bbd04de8ba71e2a8f6f043b172059c5c,Stakeholder Value Creation,88.18
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,a744595b75e75cb304e0101ecfcc4098,Sustainable Products,80.78
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,bdaf28133f7f04d995996122674630b6,Transparent Communication,55.73
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,401ef805b3ddb1453391102a24c18d1d,Workforce Investment & Training,32.29
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,ISSUE,8f99897277e6ad6f87525e378ed1a14e,Workplace Safety,72.49
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,89f5489df0741ac40344be1eb5509937,Actions to Support Human Rights Commitment,40.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,cda050c2590ead0df07bcec984e20b88,Additional Compensation During COVID-19,39.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,033bbf5acc826b287f27753d0f06bec8,Air Pollution,50.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,8752262bfb472735f98914dc8f46b71c,Anti-Competitive Practices Controversies,53.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,ef143e75cbad4135f8bee797de51b82a,Avoidance of Exploitative Businesses and Governments,52.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,bcedf56f42785dac82ccd220405b7d98,Benefits and 401k Quality,3.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,229b1fcbafd616945cde554fe5b794a1,Benefits Eligibility,-3.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,d9d843b6e6dbc96999f8171bfb256e21,Board Diversity,77.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,be63c900e4349c14ff77bdc14030779a,Board Independence,44.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,e577ac242d0c516c478d83b57fa40df7,Board Oversight of JUST Issues,56.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,2ae14aa62f16c502b7c49ded10930cf8,Career Development,38.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,f6ea0f41113689ee9d03c3fa6b537b91,Charitable Giving Ratio,46.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,b41a208e9aef40c23faf7e83a57ce55b,Commitment to Following Laws & Regulations,39.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,c3516d47dc0a965e3613305adafb1c13,Community Impacts Controversies,55.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,14d2835de7fadd60bf6fd728da04c897,Consumer Protection Fines,51.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,81a4a73359285d27d24b5cdf9b42c3c8,Cross-Stakeholder Controversies,58.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,d98c05da5c401b7ce94df7b8961d573e,Customer Accommodations During COVID-19,31.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,2620e6a1d9415f352c190a870930d3a3,Customer Discrimination Controversies,51.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,968b589c36009c591b460bf6bed3e1e8,Customer Service Rating,106.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,cc18c447cc03e009442db4f339db2368,Data Privacy Controversies,51.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,2fb0baa8f2a25dd776dd37f71e473603,Discrimination Controversies,52.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,7921411b335e73157394eefb09c56472,"Diversity, Equity, and Inclusion Policies",44.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,f853763b0b87d18936f1b86cadaed34f,Donations in Response to COVID-19,23.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,55241c5c2b3b120f2120efe65f02b573,EEOC Violations and Worker Grievance Fines,52.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,2cdb8137807cda3ac0c9c76174caf46e,Employee-Led Giving and Volunteering,37.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,993d5a2cd2fa21b9c8aa835ecc873fae,Engages with Local Communities,39.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,ea3d1c04d916e6b13dc572b04bba10cd,Executive Compensation,102.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,e61c60264e4b01e9246be87467c62b54,Fair Pay Rating,35.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,b5f913b982e593905deb85cd1cd8b232,Fair Pay Score,57.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,9a09e6e6214bcd0e3200f202a87d2d9c,Federal Trade Commission Fines,51.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,e671e2a7b2823bb7d3d60eec5269f66f,Financial Management,54.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,60990d6ce967344f5aec603a073a82bf,Five-Year Alpha,51.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,c22c88c93904610e2b353f9d0a6c1aec,Five-Year Return-on-Equity,99.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,7e1a86f1b3ba71e364f0eee04186f4f2,Free Cash Flow,45.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,48914b4de70ee4f74e424632bc048486,Health and Safety Controversies,52.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,0bbd8114398c3def41819b61255d7025,Health and Safety During COVID-19,87.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,f101e0d9e7f970919b4f30d685f13e68,Health and Safety Fines,45.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,a31c440e92c56577794a29f95e7b166b,Health and Safety Performance,58.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,3e635aa7db7b46bf7b85b1dc89120fd7,Health and Safety Policies,47.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,4b7c420d90921a56b809c7d0e6a609e9,Job Quality,44.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,21e4947d6b897887ec7564b336b2518f,Job Stability During COVID-19,35.22
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,2f1e53694df28fddee92ffaf0e74671f,Labor & Human Rights Commitment,81.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,8e617ae0dfd63260c84b76475492ae14,Labor & Human Rights Controversies,53.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,e21eb2c5e96ba9b8e761fe3450ff8c4f,Legal Fines and Violations,58.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,b1f16a75d6a578e80eb0fd9874c66414,Living Wage,-18.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,544a7bcf077fe6b89563975690784797,Local Employment Pipeline,71.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,5bbffdb3fca9936bf25dbcbc8795c5f7,Median Worker Pay,31.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,ee6ac41e20094af5ae96c76a5983e401,Misleading Communication Controversies,53.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,961f7eeb937ff5b890dc76d4c17417af,Number of U.S. Jobs,121.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,8f1c897987833abf264e0dde5e10ee85,Number of U.S. Jobs Created,125.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,0e28159ee613543840f4bec2f5f6dc18,Opportunities for Local Businesses,94.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,84cf1ebde17e44205e0c51db28622d31,Percent of U.S. Jobs Created,48.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,3093da0ee61a2c41eadd728682730f1b,Privacy Policies,25.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,12fcdeee2d70e6b282849ccea39b702f,Product Benefit Assessment,109.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,bf8c1744438adea390cb683c328d8275,Product Health and Environment Controversies,52.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,54f504703d3118f1f05d87b3010c7954,Product Recall Disclosure,51.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,70a36c9f960061b7e3681f8145248bb4,Product Safety Fines,50.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,18bce12365ffcfabea5f4a70f5d98d47,"Production, Distribution, or Logistical Support During COVID-19",32.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,929fc399fa54f39d7b7a681dba70c605,Ratio of U.S. to Global Jobs,49.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,5319f0955ebc363016ec7a6717022830,Reductions in Compensation During COVID-19,57.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,13d53515935a0efb85f6022f5db0b132,Related-Party Transactions,60.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,c23dbed88c604671832d691dadaf73d8,Renewable Energy Percentage,66.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,8f70f13ef6a527ddc9f7b06c05c7bdf5,Resource Use,70.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,0f31d731039c21d6e4df413e0ed64e56,Scope 1 Plus 2 Greenhouse Gas Emissions,57.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,df032906d3f6bcf80ea0b79e21a1c15e,SEC Filings Review,58.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,5cbb7ba696197dadffbde18228436309,Supplier Requirements on Labor & Human Rights,77.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,3423e743fdc34948effda4462780bdb3,Supply Chain Management Reporting,61.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,4e086b69f887883d34afb2380fb59d5e,Sustainable Products and Services,72.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,5ccc7f0dac0677412a14c91b1050e40b,Transparent Charitable Giving,68.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,a0748703138d3004f2115ff8df41706e,Wage Violations,48.75
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,b62d2eed908b3c503fa180aeb01defa4,Work-Life Balance,36.25
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,9dceab38112d44d13369d575ae29bdae,Work-Life Balance During COVID-19,15.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,48fffdd576a1babf159ed737a21ed843,Worker Benefits During COVID-19,10.00
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,7f42e68b40dab90e7e85701135d03486,Worker Benefits Package,52.50
+edb4dbdb3733d5e3e9eda6d75,TJX,"The TJX Companies, Inc.",Retail,METRIC,a3fe7f19e3126f3d97cd57e028ddb468,Workforce Demographics,75.25
