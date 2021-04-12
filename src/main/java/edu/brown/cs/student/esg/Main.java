@@ -16,6 +16,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.StringWriter;
+import java.sql.SQLException;
 import java.util.Map;
 
 /**
@@ -31,7 +32,7 @@ public final class Main {
    *
    * @param args An array of command line arguments
    */
-  public static void main(String[] args) {
+  public static void main(String[] args) throws SQLException, IOException, ClassNotFoundException {
     new Main(args).run();
   }
 
@@ -41,7 +42,7 @@ public final class Main {
     this.args = args;
   }
 
-  private void run() {
+  private void run() throws SQLException, IOException, ClassNotFoundException {
     // Parse command line arguments
     OptionParser parser = new OptionParser();
     parser.accepts("gui");
@@ -52,7 +53,8 @@ public final class Main {
     if (options.has("gui")) {
       runSparkServer((int) options.valueOf("port"));
     }
-
+    REPL repl = new REPL();
+    repl.readUserInput();
     Scraper scraper = new Scraper();
     scraper.findCompany("https://www.nike.com/");
   }

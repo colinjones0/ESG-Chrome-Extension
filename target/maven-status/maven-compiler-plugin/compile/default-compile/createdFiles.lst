@@ -1,4 +1,7 @@
+edu/brown/cs/student/esg/REPL.class
+edu/brown/cs/student/esg/Main$ExceptionPrinter.class
+edu/brown/cs/student/esg/Company.class
 edu/brown/cs/student/esg/Scraper.class
+edu/brown/cs/student/esg/Parser.class
 edu/brown/cs/student/esg/Main.class
 edu/brown/cs/student/esg/Main$CompanyNameHandler.class
-edu/brown/cs/student/esg/Main$ExceptionPrinter.class
