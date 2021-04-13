@@ -20,13 +20,6 @@
   <!-- Dependencies section for libraries put all of your libraries in here -->
   <dependencies>
 
-    <dependency>
-      <!-- jsoup HTML parser library @ https://jsoup.org/ -->
-      <groupId>org.jsoup</groupId>
-      <artifactId>jsoup</artifactId>
-      <version>1.13.1</version>
-    </dependency>
-
     <!--
         jopt-simple is a command line parser.
         https://pholser.github.io/jopt-simple/.
@@ -128,6 +121,14 @@
           <artifactId>android-json</artifactId>
           <version>0.0.20131108.vaadin1</version>
       </dependency>
+
+    <dependency>
+      <!-- jsoup HTML parser library @ https://jsoup.org/ -->
+      <groupId>org.jsoup</groupId>
+      <artifactId>jsoup</artifactId>
+      <version>1.13.1</version>
+    </dependency>
+
   </dependencies>
 
   <!-- Build section -->

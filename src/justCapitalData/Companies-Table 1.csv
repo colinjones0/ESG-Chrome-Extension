@@ -1,0 +1,1117 @@
+perm_id,name,ticker,jc_industry_perm_id,industry_name,ranked_in_2021,ranked_in_2020,ranked_in_2019,ranked_in_2018
+04ff52b74197a5f7cfc5c45a8,Agilent Technologies Inc,A,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+a118eb9fa457fae708634dc43,Alcoa Corporation,AA,b9a140691b80e2a764a04b14a3d816b9,Basic Resources,0,1,1,1
+b579359732f568bd7c2bcc1cd,American Airlines Group Inc,AAL,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+4f643692d9379ba7cd0e4df9a,Advance Auto Parts Inc,AAP,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+f6ef657587a4357a5959fe575,Apple Inc,AAPL,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+740269abe3d031b9713c01329,"Axon Enterprise, Inc. ",AAXN,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,0,0,0
+726734047024aaee78f5f8437,AbbVie Inc,ABBV,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+2cbc57886849d685a0240fd48,AmerisourceBergen Corp,ABC,6b1d375c47f362d90b6f5791dd1775be,Food & Drug Retailers,1,1,1,1
+4302c02d719bb395a1101824e,Abiomed Inc,ABMD,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+9024c8369021ad1dc0ece9345,Abbott Laboratories,ABT,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+47dd7348bc5656182b72a7f5c,Arcosa,ACA,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,0,0,0,0
+868e3003fd48fd586253a716d,ACADIA Pharmaceuticals Inc. ,ACAD,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,0,0,1
+50faf6df23c31e2516858282e,American Campus Communities Inc,ACC,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+310d42131bf1adf60356a0652,Arch Capital Group Ltd,ACGL,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+a035896360efe56b2f1c3923b,Acadia Healthcare Co Inc,ACHC,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,1
+8e2a345616113e0bdbcdf1794,AECOM ,ACM,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+666f0c07c66e61998ee55b77d,Accenture PLC,ACN,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+68c06ba472f982598d3dcb95e,Adobe Inc,ADBE,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+f1833fc5c2e9484cafb005c29,Analog Devices Inc,ADI,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+495d01656e036b23f5dd8d174,Archer-Daniels-Midland Company,ADM,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+0c2affe9caaad783410a7e437,Adient PLC,ADNT,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,0,0,1,1
+98eaad383b5fa477a728a43ed,Automatic Data Processing Inc,ADP,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+88e604ba75c761a2293f651fc,ADAPTIVE BIOTECHNOLOGIES,ADPT,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,0,0
+5126827a3a5e050bd75d778f0,Alliance Data Systems Corp,ADS,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+5bab9f36298c2d1302ccf3414,Autodesk Inc,ADSK,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+d954a1dd0193b385e9e33e26a,ADT Inc.,ADT,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,0
+838723a947af57d67f92dd76d,Ameren Corp,AEE,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+fc15e0a1d32bd9dadd55577df,"American Electric Power Company,",AEP,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+42b01311f2268433ec6c224a1,AES Corp,AES,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+9818daf9981b934013dbb4669,Aetna Inc,AET,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,0,0,1,1
+fcb26dae358ba49842676891d,American Financial Group Inc,AFG,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+bbff208dbd678e8e159dde140,Aflac Incorporated,AFL,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+b57a7e0420644834a397f67ea,AGCO Corp,AGCO,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+862a946d4f29d3d69fc4aceb7,Agios Pharmaceuticals Inc,AGIO,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+be572f96cbc2e53d943d4a24a,Allergan Inc,AGN,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,1,1,1
+bcfa6dbb48b5a5f803067c7f2,Assured Guaranty Ltd,AGO,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+39ec535ecdbced4b3203ad83b,Avangrid Inc,AGR,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+5121baa2ca16cbdf75276cbd2,Aspen Insurance Holdings Ltd,AHL,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,0,0,1,1
+59148f5a42fb0c240d999a6cd,"American International Group, Inc.",AIG,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+039e8be7237824eb51f4dba79,Apartment Investment and Management Company,AIV,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+25daee967875b9f1513246d2d,Assurant Inc,AIZ,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+ebf20e14410afa04af8df5985,Arthur J. Gallagher & Co,AJG,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+3220722fa07618c545abf7401,Akamai Technologies Inc,AKAM,c8205c7636e728d448c2774e6a4a944b,Internet,1,1,1,1
+b3d2921ccfa478f325580b6f2,Akorn,AKRX,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,0,1
+64cd43a46eb7f55deeff2a81d,Air Lease Corp,AL,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+d035269a915d1e6a942d4e3d2,Albemarle Corp,ALB,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+7b8dec6fa3b70a60dc9a77da9,Align Technology Inc,ALGN,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+2a2e59bd0dda00b39ed50f10a,Alaska Air Group Inc,ALK,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+a7a0a174cdf4a6d9b04451009,Alkermes PLC,ALKS,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+f3448424518da4bcb608e1deb,The Allstate Corporation ,ALL,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+01d832d5263a87d1ab656df0e,Allegion PLC,ALLE,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+9f3f7c5e7ee0886cebd72b434,Ally Financial Inc ,ALLY,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+d88bae711dc9c4032500e4975,Alnylam Pharmaceuticals Inc,ALNY,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+d8aeaca99939750afb6ca864a,Allison Transmission Holdings Inc,ALSN,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+b36a858aeb4da14220d4beb59,Alexion Pharmaceuticals Inc,ALXN,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+60bae88a51ebcc8c5cfcfe71b,Antero Midstream Corporation,AM,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,1,1,0,0
+ae277ed64a6afd4bc7dfe628c,Applied Materials Inc,AMAT,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+f055f0af55cdee7a8891c8d06,Amcor,AMCR,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,0,0,0
+422c22bf0fa50b8024a7fd110,AMC Networks Inc,AMCX,3b563524fdb17b4a86590470d40bef74,Media,0,1,1,1
+fe291a93126df6da63de84f6f,"Advanced Micro Devices, Inc.",AMD,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+a47ef282233ee4567a9fb2cc2,AMETEK Inc,AME,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+417ff4c33b3942d7709ec229d,Amedisys Inc,AMED,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,0,0,0
+b9b6e99393b654bcde0dfa7a2,Affiliated Managers Group Inc,AMG,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+1f89e979bd88496a86b5331e6,Amgen Inc,AMGN,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+c1ec8577f698b71be697f452e,American Homes 4 Rent,AMH,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+a9ebab09f473f8a0b60d5f247,Ameriprise Financial Inc,AMP,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+4da6dfbe63094e3f89e201724,American Tower Corp,AMT,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+e9653ba6c26d957e73469d804,TD Ameritrade Holding Corp,AMTD,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+7044d0afb2309b33b51272e90,"Amazon.com, Inc ",AMZN,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+b58279cd4b8b241336dfaeb28,AutoNation Inc,AN,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+27aa9a0b1a751d2b1208ac7a3,American National Insurance Co,ANAT,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+ef09aea7cb03935bb5dcda6e3,Andeavor Corp,ANDV,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,1,0
+48dc2cf6e930b224aa2726e88,Arista Networks Inc,ANET,c8205c7636e728d448c2774e6a4a944b,Internet,1,1,1,1
+373d741fa401b3757ecabce48,ANSYS Inc,ANSS,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+69b2cac4a43a0cf5751a76929,"Anthem, Inc",ANTM,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,1
+99f335799aaa41b802919ba2a,Aon PLC,AON,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+a847ce09aeb7e7de47faf30af,AO Smith Corp,AOS,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+2e1af83aac3be5ddb6bd248eb,Apache Corp,APA,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+c16f2acd865d084460400c2a0,Anadarko Petroleum Corp,APC,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,1,1
+0d286c94912c19c5a8f277aca,Air Products & Chemicals Inc,APD,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+0e3710674bac451e8218a0536,Amphenol Corp,APH,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+d60d573239c5481bb70a437a0,Apollo Global,APO,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,0,0,0
+94dfbf1d7f1f05879d7281f6e,Aptiv PLC,APTV,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,1,1,1,0
+01a5aaf579367e0e5e8d61c46,Apergy Corp,APY,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,0,1,1,0
+c851a0649d5f96d16ebe5ef6d,Antero Resources Corp,AR,5186f581089f313773b32576818b79fe,Oil & Gas,0,1,1,1
+273a627e088701926389ef87d,Ares Management Corporation ,ARES,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,0,0,0
+343d051a03b94b8cc87f3aaad,Aramark Holdings,ARMK,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+c69eb9c6745c1f46d53687b2b,Arconic Inc,ARNC,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,0,1,1,1
+3c2be2c6ba9cafe8b8061a5a9,Arris International PLC,ARRS,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,0,0,1,1
+57c15629ff331fbeed3551b93,Array Biopharma,ARRY,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,0,0
+281fff2528f01e61af7e7447a,Arrow Electronics Inc,ARW,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+2fee2078b56d5af97a044f2a3,Associated Banc-Corp,ASB,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+2386aa1d389812327e2589551,Ashland Global Holdings Inc.,ASH,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+c65a416abb08525378d560f86,Athene Holding Ltd,ATH,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+b91484c00db2e3d98bbb38dce,Athenahealth Inc,ATHN,719d067b229178f03bcfa1da4ac4dede,Software,0,0,1,1
+ba7b6cf8e6a0bdcb750038aef,Atmos Energy Corp,ATO,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+f75574e0964ac53fae8754240,"AptarGroup, Inc. ",ATR,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+c81e3b58b0c43db0b7e582260,Altice USA Inc,ATUS,3b563524fdb17b4a86590470d40bef74,Media,1,1,0,0
+0f3035a60ae9292f51cf1d307,"Activision Blizzard, Inc.",ATVI,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+67156264271277f5749190019,AvalonBay Communities Inc,AVB,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+9d40361f324ccbf138d3ae32e,Broadcom Ltd,AVGO,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+aa9d7604a25e757740746b0cd,Avalara Inc,AVLR,719d067b229178f03bcfa1da4ac4dede,Software,1,1,0,0
+b61e669e69a65cb0ed64c9fb7,Avnet Inc,AVT,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+57ce55722f3e9b3d2194f9d44,"Avantor, Inc. ",AVTR,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,0,0,0
+10f8bdc9ab0ac6b71da529d7b,Avery Dennison Corp,AVY,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+9cf14b3d3b8781c2b6dab79ab,Armstrong World Industries Inc,AWI,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+2610f1ae1dda272ceecfdc966,American Water Works Company Inc,AWK,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+841ac7f7b2414455a1e848e2d,American Express Company,AXP,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+f1f407e34a6734a879536dbee,Axis Capital Holdings Ltd,AXS,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+8c298e0b918b2bc77090563dc,Axalta Coating Systems Ltd,AXTA,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+278383fa2c87dcdc6b220bdf9,Acuity Brands Inc,AYI,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+222d4e18a04c7a7cba9b09fa7,"Alteryx, Inc.",AYX,719d067b229178f03bcfa1da4ac4dede,Software,1,1,0,0
+2203f6c7398e56f46014c174b,"AutoZone, Inc.",AZO,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+5b52f77da228e808d24c38c2e,Aspen Technology Inc,AZPN,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+b188c738f1a3322434a74341d,The Boeing Company,BA,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+f427c9aedfd9e2b39a6a347b3,Bank of America Corporation,BAC,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+6d9d265c083ff1c52445f144b,Booz Allen Hamilton Holding Corp,BAH,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+ed71b8e86c91e55e7e7cffed3,Baxter International Inc,BAX,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+0537c8d5cb5d464f9084cbca0,Bed Bath & Beyond,BBBY,053e0bc8b9627b28e2ed8029a34b35bd,Retail,0,0,0,1
+36a3b92f057a6987f0aa96748,"Best Buy Co., Inc.",BBY,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+1873ff52703373f6c3ecd854a,Brunswick Corp,BC,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+591cafe646b4c36fd82db2f90,"Becton, Dickinson and Company",BDX,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+2b3f0a6a943081a2d1d3431af,"Franklin Resources, Inc.",BEN,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+6fd4775376a57619d28720e36,"Berry Global Group, Inc.",BERY,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+41d0580b09246b34f35ef0057,Brown-Forman Corp,BF.B,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+a13d17c0cbc26a98c9e446395,Bright Horizons Family Solutions Inc,BFAM,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+0d97cc8ec5acdd48ee617da24,Bunge Ltd,BG,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+a9fcb1dd5addba8f08e1a9e7d,BGC Partners Inc,BGCP,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,0,1,1,1
+1143e21cc2608bac187b5e9de,Brighthouse Financial Inc,BHF,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,0
+07e4fe76c982f879b3d404240,Baker Hughes Inc,BHGE,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,0,0,1,0
+11f3ccab2c3c31705f8e32a38,Biogen Inc.,BIIB,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+29a930d7da1e7aa5aaefc66b0,"Bill.com Holdings, Inc. ",BILL,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,0,0,0
+effc87fea7487a9393ca11a4b,Bio-Rad Laboratories Inc,BIO,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+c4f6f0abf7153e5591463bb7d,Bioverativ,BIVV,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,0,1
+fe210c796d2e3ee644b7c141e,The Bank of New York Mellon Corporation,BK,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+51952f4065ca6bcbc8c44f73d,Brookdale Senior Living,BKD,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,0,0,0,1
+16bfaa4956c8e200dfa4f1a50,"Black Knight, Inc.",BKI,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+9a7a454a9daef49957efa9df4,Booking Holdings Inc.,BKNG,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,0
+07e4fe76c982f879b3d404241,Baker Hughes Company,BKR,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,1,1,0,0
+d58a862bdc9aed86c9b07dc03,BankUnited Inc,BKU,0927b0b8a7a95b5f02808e24b954e3e3,Banks,0,1,1,1
+fbf3f710f35e09ec00a307449,BlackRock Inc,BLK,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+526c4ee2e546e5a372540100d,Ball Corp,BLL,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+6e6ccfd00610d50a8fad3b56f,bluebird bio Inc,BLUE,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,0
+45e985c3fdc8f703a9d4ac4c9,BioMarin Pharmaceutical Inc,BMRN,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+78a64a188ef35c66c16ec250f,Bemis Company Inc,BMS,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,0,0,1,1
+d406efc91ebb945389119cbb8,Bristol-Myers Squibb Co,BMY,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+4b8fd532d6f50b506cabdb8c8,Bank of Hawaii Corp,BOH,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+9b042ff4a0f84e08f143af62a,BOK Financial Corp,BOKF,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+a79c99825749ac94a2b1a1015,Popular Inc.,BPOP,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+f308815f2b448def2f4ee3b07,Brookfield Property REIT Inc.,BPR,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,0,0
+21d2fc9afe4b1b0ef6099c3a2,Broadridge Financial Solutions,BR,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+3796f97cd2075311b5f99383d,Berkshire Hathaway Inc,BRK.B,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+6a4afb0445808680b308fa9cf,Bruker Corp,BRKR,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+1f7665401b6ade12912ea6c73,Brown & Brown Inc,BRO,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+a71455a0a75355118ca533967,Boston Scientific Corp,BSX,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+1f439ea7ba1baa7f37f42a343,Blue Buffalo Pet Products,BUFF,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",0,0,0,1
+e860413f1748c561da1582ca4,Burlington Stores Inc,BURL,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+cf9ecf074614b20f8abfce4f5,BorgWarner Inc,BWA,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,1,1,1,1
+1a4c722e68ffc6f52b2470f31,"BWX Technologies, Inc.",BWXT,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+54ef580d1715bab049da7462f,Boston Properties,BXP,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,0,0
+6cb1b87cb3dbd35431b3f7278,"Beyond Meat, Inc.",BYND,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,0,0
+42988ab2538a19d9964f09a8f,Citigroup Inc.,C,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+34f86c8b69b7e43178860e865,CA Technologies Inc,CA,719d067b229178f03bcfa1da4ac4dede,Software,0,0,1,1
+11538d3ad62a98389aded0d96,CalAtlantic Group,CAA,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,0,0,0,1
+4d2e225e7deef119e74d24a28,Cable One Inc,CABO,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+6cbbdeb9ac54361b97ab23060,Credit Acceptance Corp,CACC,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+3ba44a033cb420942fed8e023,CACI International,CACI,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,0,0
+e07f24669b01810d71b5a6e3e,"Conagra Brands, Inc.",CAG,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+eb10023981ecee568f6f71991,"Cardinal Health, Inc.",CAH,6b1d375c47f362d90b6f5791dd1775be,Food & Drug Retailers,1,1,1,1
+710a3e173fc716f87b3c6410a,Carrier Global Corp.,CARR,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,0,0,0
+bbe43f77881a9b8f0e5580f2c,Casey's General Stores Inc,CASY,6b1d375c47f362d90b6f5791dd1775be,Food & Drug Retailers,1,1,1,1
+16ccb3d1bb300d911307ee5aa,Caterpillar Inc.,CAT,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+87133c9ce28aa2db7cddd5efb,Cavium Inc,CAVM,NULL,,0,0,0,1
+7c6211c3d8ea5831eac6517af,Chubb Limited,CB,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+23465cb41f8d7cc054c585ccf,"Cboe Global Markets, Inc.",CBOE,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+574e74de164e1d05de5fff756,"CBRE Group, Inc.",CBRE,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+b4231f0ce22e8fa3c69250531,"Commerce Bancshares, Inc.",CBSH,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+adbf585b5366c49abe8ace786,Cabot Corporation,CBT,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+e9b938f532b22aa727ce4646e,The Chemours Company,CC,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+f407398c0c2fae343eed8ecd6,Crown Castle International Corp,CCI,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+3e331fe76e2c2797f92193317,"Crown Holdings, Inc.",CCK,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+3992423f0fb2b7d2b440abff4,Carnival Corporation,CCL,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+fdc4dd78bcba8fe5c0208cdec,Ceridian HCM Holding Inc,CDAY,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+c396cbd1d50e843a33231c510,Centennial Resource Development Inc,CDEV,5186f581089f313773b32576818b79fe,Oil & Gas,0,1,1,1
+de45476b55b355b204b3b0856,CDK Global Inc,CDK,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+d871b320b994ca4225d95f979,Cadence Design Systems Inc,CDNS,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+e973f9fda3c33584a39039df5,CDW Corporation,CDW,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+f80de8a7b01a7547a2427eb4e,Celanese Corporation,CE,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+17a1649644e1df6ab7540d2fe,Celgene Corp,CELG,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,1,1,1
+ce141ad1f2d26c6e32d7ba0a0,Cerner Corp,CERN,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+b1532e2f063b4f40160dffc96,CF Industries Holdings Inc,CF,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+72619ae9c2af727dbd7fb48f3,Citizens Financial Group Inc,CFG,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+a5f79e7429a26a92ce382e47b,Cullen/Frost Bankers Inc,CFR,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+70e93916aee3da296a44ceba0,Colfax Corp,CFX,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+fc4a8dad2e11b6b28ccf4d0dd,Carlyle Group,CG,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,0,0,0
+3f69311f58046704d87814bca,Cognex Corp,CGNX,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+fc291120deb4c850b057c1c3d,Church & Dwight Co Inc,CHD,b5a874f85f2aea08ebd2fa66376cb0e7,Personal Products,1,1,1,1
+d7f4c5b5ea4e5102332731a80,Chemed Corp,CHE,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,0
+2a3d44df4abdb0336f3f7eab6,"Chegg, Inc. ",CHGG,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,0,0,0
+36370598351ba1b85114812de,Choice Hotels International Inc,CHH,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+303b1a35a133b03232e06ea4d,Chesapeake Energy Corp,CHK,5186f581089f313773b32576818b79fe,Oil & Gas,0,1,1,1
+28fdc5cd7d8a5376211580081,CHANGE HEALTHCARE INC,CHNG,719d067b229178f03bcfa1da4ac4dede,Software,0,0,0,0
+1a274368b64fae15a8e1b7d8a,CH Robinson Worldwide Inc,CHRW,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+a420357c4f3fcb7434efc1546,Charter Communications Inc,CHTR,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+5a6f1e7f0f27bb4f81c70bf20,Cigna Corporation,CI,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,1
+e49f38b621092b8b3d3dfa0c1,Ciena Corporation,CIEN,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,0,0
+f79365c5290877c957919b796,Cincinnati Financial Corp,CINF,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+2008290e9862092a7527b11af,CIT Group Inc.,CIT,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,0,1,1,1
+ce372f4c89b935c2f67363c09,Colgate-Palmolive Company ,CL,b5a874f85f2aea08ebd2fa66376cb0e7,Personal Products,1,1,1,1
+25acee2dace82cc603d4c0913,CoreLogic Inc,CLGX,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+7921cc9d32ed3fe95b89239ed,Clean Harbors Inc,CLH,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+f2831c2b4bc4c09795414da30,"Colony Capital, Inc.",CLNY,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,0,0
+50941d9481c864e3edff66729,Continental Resources Inc,CLR,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+6e574e03ec15a5f353d93b104,The Clorox Company,CLX,b5a874f85f2aea08ebd2fa66376cb0e7,Personal Products,1,1,1,1
+f8634e6a3012f5e3e255d1fd9,Comerica Inc,CMA,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+e6599a94d878ee1486e6918b9,Comcast Corp,CMCSA,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+b790a134565be09ece0f20ed8,Cantel Medical Corp,CMD,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,0,1,1,0
+281ed7b94eba88eadd5745f65,CME Group Inc,CME,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+1a7548dfc400772ef3e3e3711,Chipotle Mexican Grill Inc,CMG,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+2fa22a244ddef1865741e43de,Cummins Inc,CMI,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+0b0c8fed98e55cf0e1c7cfbad,CMS Energy Corp,CMS,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+92f7d70cf6d77bdc95d2f2952,CNA Financial Corp,CNA,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+8774fbf624ce88442452614db,Centene Corp,CNC,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,1
+eb602c42e681155d19a46e499,Conduent Inc,CNDT,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,0,0,1,1
+5d177b9a4dcd65e684cc5407d,Cinemark Holdings Inc,CNK,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,0,1,1,1
+15866e8ffd87b1cd8d198d476,CenterPoint Energy Inc,CNP,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+b67ee2c60640eaedd39386698,CNX Resources Corp,CNX,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,1,1
+c1ec151b418b2cfb78e098969,Capital One Financial Corporation,COF,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+08cda53094e96cb3ef207ebe2,Cabot Oil & Gas Corp,COG,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+99e7e8fd404700ea10973ff14,Coherent Inc,COHR,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+78e1ac88591106c03876ed54e,Rockwell Collins Inc,COL,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,0,0,1,1
+4a11f437a19f8c2dcc3b54bdc,Americold Realty Trust,COLD,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,0,0
+1ca4f4337400bec2b74e09892,Columbia Sportswear Company,COLM,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,0
+c25aff65aedd8a8b32b506e7c,"CommScope Holding Company, Inc.",COMM,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+df313869240db7940f9c02890,CyrusOne,CONE,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,0,1
+3ee4d4e2c09f891da4f3cd41e,"The Cooper Companies, Inc.",COO,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+2c8050387567670f389050b87,ConocoPhillips,COP,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+58afb6b114d85bbd607b1ff33,CoreSite Realty Corp,COR,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,0,1
+a9ac0f84ec48b5dfd00ef6f77,Costco Wholesale Corp,COST,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+4166ec6a3c19870985744f23a,Coty Inc,COTY,b5a874f85f2aea08ebd2fa66376cb0e7,Personal Products,1,1,1,1
+57dcf4895810fab71a44f4b1e,Coupa Software Incorporated,COUP,719d067b229178f03bcfa1da4ac4dede,Software,1,1,0,0
+89116e99ac99d313af404c972,Campbell Soup Company,CPB,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+75f823786a4289d1a3e5f86b6,Calpine,CPN,ceba282b7418b7f199798b645e1cba56,Utilities,0,0,0,1
+4cb532f622fd82dbc2882e316,Capri Holdings Limited,CPRI,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,0,0
+af358c26e0bd1d7bd1ee72943,Copart Inc,CPRT,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+2741480dfbaa124d00dcdaa39,Camden Property Trust,CPT,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+6c7033aa23907cd683df5167a,Crane Co,CR,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+1ef7e1709486663c0d7f2051d,Cree,CREE,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,0,1
+94b43a223b98306ac67a3d072,"Carter's, Inc.",CRI,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+dbce20b84f6f4025223fc5f20,Charles River Laboratories International Inc,CRL,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+1b6561524cdf643c84f56f4d7,"Salesforce.com, inc. ",CRM,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+a9402def451edf359aa55b49e,CERENCE,CRNC,719d067b229178f03bcfa1da4ac4dede,Software,0,0,0,0
+14734b6d430e365980ba96434,"Cirrus Logic, Inc. ",CRUS,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,0,0,0
+daf050cb06a0da3500c7b9d37,Crowdstrike,CRWD,719d067b229178f03bcfa1da4ac4dede,Software,1,0,0,0
+42c3bc55ed23fc99b6e9f96c8,Cisco Systems Inc,CSCO,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+c3df9e4f20f86953bae23732d,CoStar Group Inc,CSGP,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+24144f439727129a81317e9c1,Carlisle Cos Inc,CSL,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+050fa57b5e3250dc80751e0b6,CSRA Inc,CSRA,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,0,0,0,1
+8e991fcd973e2757801869c03,CSX Corp,CSX,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+4431132a8351b33885c75ba95,Cintas Corp,CTAS,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+99863f1368fbeeeb77be5fb56,CenturyTel Inc,CTL,ba075f9e97825d22570d1bcf73c382f2,Telecommunications,1,1,1,1
+ecd6da30018802af042ba2a7a,Catalent Inc,CTLT,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,0
+450cf23a905aa6b2c8c6e3163,Cognizant Technology Solutions Corp,CTSH,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+c49c51be2057cceb399c7db4e,"Corteva, Inc.",CTVA,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,0,0
+3bd87168714906648caa2b9c0,"Citrix Systems, Inc,",CTXS,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+725d3fea7b66df39b2a6d7281,"CubeSmart, L.P.",CUBE,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+33afded875a11f54028372aa3,Covetrus,CVET,719d067b229178f03bcfa1da4ac4dede,Software,0,1,0,0
+8064a6c0f3ae467b084832227,Carvana Co. ,CVNA,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,0,0
+4a1324835a3918045b05e8b9a,CVS Health Corporation,CVS,6b1d375c47f362d90b6f5791dd1775be,Food & Drug Retailers,1,1,1,1
+511e44089ab42b770f0b3961c,Chevron Corporation,CVX,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+02142f4f3cbfdda209d379a3c,Curtiss-Wright Corp,CW,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,0
+06473fe19bc66a723216b5227,Concho Resources Inc.,CXO,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+9f6a386cf6bbb3f53232ecdad,CoreCivic,CXW,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,0,1
+5e28d6efe92f01f1625e021c7,Cypress Semiconductor Corp,CY,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,0,1,1,1
+c4a2aba16e50e5a70b5eea388,Caesars Entertainment Corporation,CZR,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,0
+c3702f6dd27e2016cafcc94e6,"Dominion Energy, Inc.",D,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+3e2d9312551a008074a4435f9,Delta Air Lines Inc,DAL,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+62c8758fa0cc624a6f58cf995,Tableau Software Inc,DATA,719d067b229178f03bcfa1da4ac4dede,Software,0,0,1,1
+ba488bc1bd4dc61b93fd4792d,"Dropbox, Inc.",DBX,719d067b229178f03bcfa1da4ac4dede,Software,1,1,0,0
+baeb20f1393362ab50bc71d94,Donaldson Co Inc,DCI,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+477666d64d753836312361e96,"DuPont De Nemours, Inc.",DD,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,0,0
+e53ffb652f2b842f507ebbdf5,DataDog,DDOG,719d067b229178f03bcfa1da4ac4dede,Software,1,0,0,0
+5a3efabc964122a69d38809d4,Deere & Company,DE,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+6fc4edcfa3de66474c12c2f78,"Douglas Emmett, Inc.",DEI,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,0,0
+59267e75de641d7cb795708a5,Dell Technologies Inc.,DELL,719d067b229178f03bcfa1da4ac4dede,Software,1,1,0,0
+1f76e0b6dbd556739b77eee9c,Discover Financial Services Inc,DFS,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+d5e8031f8a110e6875071b882,Dollar General Corp,DG,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+4ea53a5c5c2d89d9c2693515d,Quest Diagnostics Inc,DGX,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,1
+29348b046115103c5b55e105e,DR Horton Inc,DHI,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+93f4e74eb86ac1b55898fd2c4,Danaher Corporation,DHR,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+7b3df265b652398ca492c762f,The Walt Disney Company,DIS,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+10235ad0d933d27aa839f6aff,"Discovery, Inc.",DISCA,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+5d6ce6c318192afa12822ff69,DISH Network Corp,DISH,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+2bb9423c74ada191f276d395c,DraftKings (A),DKNG,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,0,0,0,0
+7d54e8d1cff93902737271238,Dick's Sporting Goods Inc,DKS,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+361811e3b68ba439eecf4ce03,Dolby Laboratories Inc,DLB,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+62dcab53f5829005ec09c98b1,Digital Realty Trust Inc,DLR,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+afe4ef5df4e3c6fa3911f4839,Dollar Tree Inc,DLTR,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+cc56f8a5ad2f2a782315939d9,Dun & Bradstreet Corp,DNB,3b563524fdb17b4a86590470d40bef74,Media,0,0,1,1
+133da5a76e9dc4d3e542d9226,Dunkin' Brands Group Inc,DNKN,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+f6b6358530f638a1e7b7231ef,DocuSign Inc,DOCU,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+b171c56dec5d166bc0e3f782f,Dover Corp,DOV,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+7f63aa22f8739af8dff83148d,Dow Inc.,DOW,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,0,0
+a21cd67b33f0515720cd62e76,Dr Pepper Snapple Group Inc,DPS,NULL,,0,0,0,1
+273a2a190d7afbd87ecf7a997,Domino's Pizza Inc,DPZ,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+1b1b6496901dca9bc19a20e58,Darden Restaurants Inc,DRI,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+7100c58fdd4b0d3a3f1b63a64,DST Systems,DST,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,0,0,0,1
+e255285d2652518bde6b08371,DYNATRACE INC,DT,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,0,0,0,0
+f4968fc6af9fa894e65c2fe9f,DTE Energy Co,DTE,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+8d0d6db3375715a54d1049469,Duke Energy Corporation,DUK,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+fb3b4f932afabffa724f3640c,DaVita Inc.,DVA,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,1
+47d9d84a3050311ea622a6cbc,Devon Energy Corp,DVN,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+883677e8edf40501e80d933c4,DowDuPont Inc,DWDP,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,0,0,1,0
+959a8656f3973ee56d2650730,DXC Technology Company,DXC,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+77b6b1d8770ef331c287f9a22,DexCom Inc,DXCM,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+02106ba30865d9af2c8f2136f,Electronic Arts Inc.,EA,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+45fc0c8a7da126bf1c7543ef7,GrafTech International Ltd.,EAF,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,0
+20de4231dcb520e5546eaaf24,eBay Inc,EBAY,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+ffedba4233ac1a8729cd5749d,Ecolab Inc,ECL,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+9bd105409e5ec1b6e8ab73183,"Consolidated Edison, Inc.",ED,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+d4164c543acd7db527eea36ed,"Euronet Worldwide, Inc.",EEFT,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+b7bdb833c475f95cd3b41ceed,Equifax Inc,EFX,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+ef3dcc4a7e71885d49dbd13f1,Energen Corp,EGN,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,1,1
+f2f3978d31697c291fbc10fab,Encompass Health Corporation,EHC,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,0
+a4ff42a1d6c5e9458bfeb7542,Edison International,EIX,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+f68bc39f1a8259b9c24d77353,The Estee Lauder Companies Inc.,EL,b5a874f85f2aea08ebd2fa66376cb0e7,Personal Products,1,1,1,1
+53fd2cd3fcd8f62309df90bc6,Elanco Animal Health Incorporated,ELAN,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,0,0
+ebd680903fb5d5d581bb3658e,"Equity Lifestyle Properties, Inc.",ELS,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+29b71591f778262c4ffdd78d2,Eastman Chemical Co,EMN,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+4791e18e76d24c91beff5c598,Emerson Electric Co,EMR,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+3694d5e7a40ec16e7fe07f233,Endo International,ENDP,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,0,1
+902159c9f747f63a71f54809c,"Enphase Energy, Inc. ",ENPH,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,0,0,0
+6de991e7b448bf73af9c029ed,Energizer Holdings Inc,ENR,b5a874f85f2aea08ebd2fa66376cb0e7,Personal Products,1,1,1,1
+feba29952d39a2b39d6b58481,"Entegris, Inc.",ENTG,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,0,0
+a97c9bd64997219f06f8f98d0,"EOG Resorces, Inc.",EOG,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+c9f26c83160cf131b175716a8,EPAM Systems,EPAM,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,0
+3761b5ba38f1052ac7dadabac,Edgewell Personal Care,EPC,b5a874f85f2aea08ebd2fa66376cb0e7,Personal Products,0,0,0,1
+9c4473d4af823e700fac40707,EPR Properties,EPR,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,0,1
+d020e4903b11b8378ea1953cc,"Equitable Holdings, Inc. ",EQH,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,0
+20181a9d82838728a794412f6,Equinix Inc,EQIX,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+450b38431a35bf89d83098101,Equity Residential,EQR,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+fcfb8a5a3b4458943a6c96f86,EQT Corporation,EQT,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+577d6ab07b37ef7faad5b5fb3,Erie Indemnity Co,ERIE,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+62a7511385b321d5b701347f6,Eversource Energy,ES,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+a6d9d89f5082065ff1c03c8c7,Element Solutions Inc,ESI,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,0,0
+a0cd986acf415d5f185857779,"Empire State Realty Trust, Inc.",ESRT,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,0,0
+7b0c6e368be92e7bb8f7ce34a,Express Scripts Holding Co,ESRX,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,0,0,1,1
+f3d3db5535ac04bb7a9d7c188,Essex Property Trust Inc,ESS,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+2aca6fd5377588122a07e8002,Elastic N.V. ,ESTC,719d067b229178f03bcfa1da4ac4dede,Software,1,1,0,0
+e40130bb017e75336080ed127,E*TRADE Financial Corporation ,ETFC,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+ec978c6fc89b27eae10c83727,Eaton Corp PLC,ETN,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+bc7b29f1bb252af1cc8266ef1,Entergy Corp,ETR,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+9ee916c091e2f09738e9d333f,Equitrans Midstream Corporation,ETRN,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,1,1,0,0
+1571086d4769125e4b9269e8c,"Etsy, Inc.",ETSY,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,0,0
+f69f99a9e9e87924335850ffe,Eaton Vance Corp,EV,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+8e16c5dfa7fe25cef4d301fce,"Everbridge, Inc. ",EVBG,719d067b229178f03bcfa1da4ac4dede,Software,1,0,0,0
+a742788143087a131156c5382,Envision Healthcare Corp,EVHC,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,0,0,1,1
+66549a6f4f5d851dcd0e509b7,Evercore Partners Inc,EVR,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,0
+18f31b6b4619dacaaf2194cd5,"Evergy, Inc. ",EVRG,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,0
+be9a4fd8adae113ac97e1e83c,Edwards Lifesciences Corp,EW,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+5a39837c8f0a561bc74eed94b,East West Bancorp Inc,EWBC,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+c425a9833c375a5fd1d041c91,Exact Sciences Corp,EXAS,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,0
+4633c07fef5bcfa1021f327f5,Exelon Corp,EXC,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+32fa349bec6cda9ab52436607,Exelixis Inc,EXEL,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+787d8f93db2badd57e7796f32,Eagle Materials Inc,EXP,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+dddec0e57dc7a9c9215b7bd8a,Expeditors International of Washington Inc,EXPD,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+66a2d4e500f66df500208fc9c,Expedia Inc,EXPE,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+e89a229581337c37cce733c0c,Extra Space Storage Inc,EXR,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+3328cef38019f230da12681dc,Ford Motor Company,F,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,1,1,1,1
+26cff18efebf850786c1990bb,First American Financial Corp,FAF,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+9023d9b9813ecb38c63abeded,Diamondback Energy Inc,FANG,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+0fc11d77367c79888bd261c0c,Fastenal Co,FAST,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+6e05022f9616e6b2b01c549a0,Facebook Inc,FB,c8205c7636e728d448c2774e6a4a944b,Internet,1,1,1,1
+89e5d9c561431dd8d67cbc40a,Fortune Brands Home and Security Inc,FBHS,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+d977963e064ac7c800138019d,Forest City Enterprises Inc,FCE.A,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,1,0
+5ee80ae020837f52f0e11caff,"FTI Consulting, Inc. ",FCN,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,0,0,0
+ec4b8a49ed25ec315c8d62040,First Citizens Bancshares Inc,FCNCA,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,0
+a3426f1e33866f15536d2e078,Freeport-McMoRan Inc.,FCX,b9a140691b80e2a764a04b14a3d816b9,Basic Resources,1,1,1,1
+2baaf292f3c5c25805e610892,First Data Corp,FDC,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,0,0,1,1
+1400d184eafedf8a453762300,Factset Research Systems Inc,FDS,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+6f496acb25059a0df39d11595,FedEx Corp,FDX,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+a1a987476c84d1d34b6fdf61f,FirstEnergy Corp.,FE,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+0d9e896b2900c439f5a22e501,FireEye Inc,FEYE,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+81bedef9721ec8a66c860a017,F5 Networks Inc,FFIV,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+be1f4a908c664a2ab432a666b,Fibrogen,FGEN,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,0,0
+b32f78b6c33846d3dfb1b53b6,First Hawaiian Inc,FHB,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+8b6550c118dc2f2c30085db77,First Horizon National Corp,FHN,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+a8d01a8e7b89d6a7e25f8b72c,Fair Isaac Corp,FICO,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+1b5a73bc6bd02b21435ef19cd,Federated Investors,FII,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,0,0,0,1
+3896947259a01c57aae1a0d21,"Fidelity National Information Services, Inc.",FIS,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+e63689d8a51a4432c261accde,Fiserv Inc,FISV,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+b1a61872211207e15634cbf3c,Fifth Third Bancorp,FITB,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+72a5435d37f425b1a160ba91c,"Five Below, Inc.",FIVE,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,0,0
+81677033a7c91f581db784e4f,FIVE9 INC,FIVN,719d067b229178f03bcfa1da4ac4dede,Software,1,0,0,0
+fc37f80be1f66f8aa5bb5b5ed,Foot Locker Inc,FL,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+bc50a359cfeb19fda8a399600,FLIR Systems Inc,FLIR,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+ccd721deb245ee73864211ab7,"Flowers Foods, Inc.",FLO,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+b1179f377bd93ce73fb4471a7,Fluor Corp,FLR,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,0,1,1,1
+fa058b89c7320ef42f9458cd4,Flowserve Corp,FLS,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+ae0a4e840c0ca9a6acd825985,"FLEETCOR Technologies, Inc.",FLT,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+3b800fcb79b4cfb81dd44cc78,FMC Corp,FMC,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+39262cc5d0787b6b71aa5ac53,F.N.B. Corporation,FNB,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+a60436a412edd6c3eb57eea6e,"Floor & Decor Holdings, Inc.",FND,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+0f81f959c3f547912b6b73b4f,"Fidelity National Financial, Inc.",FNF,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+3708a23f765a6aaf6d6ed92df,Fox Corporation,FOX,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+0b9269fdaa43d18fc90668a9b,First Republic Bank,FRC,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+bc337cc28835f91ba344bb829,First Solar Inc,FSLR,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+bd374cda43f3f218b916315a4,Fastly,FSLY,719d067b229178f03bcfa1da4ac4dede,Software,1,0,0,0
+797c031e405b235680d78ba84,"frontdoor, inc.",FTDR,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,0,0
+8ab678c6fa3b5fc3194657a61,Fortinet Inc,FTNT,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+fd75cf5021026e9042c291e2e,Fortive Corp,FTV,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+22cf192299fd1fe0ad128ee8c,Liberty Media Corporation,FWONK,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+bcbc46d90cd298573fb43c459,Genpact Ltd,G,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+5305b93cf6bbf60f606b60848,Global Blood Therapeutics,GBT,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,0,0,0
+e40c92fd97e17025cb10a58d3,General Dynamics Corp,GD,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+aae34fff871a7e2f1222d28f7,GoDaddy.com Inc,GDDY,c8205c7636e728d448c2774e6a4a944b,Internet,1,1,1,1
+c25b7455192261649ccc9d388,General Electric Company,GE,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+7aa75a5e9614b677d066f1a38,Graco Inc,GGG,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+e3bdf112202849e372373e2e0,GGP Inc,GGP,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,0,0
+ab5dbe3f87eb847d83291df07,"Guardant Health, Inc.",GH,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,0,0
+b47821ec2a1ccfafad9c87d58,Graham Holdings Company,GHC,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+0c9f33c2ecbd6954b5bc85f42,Gilead Sciences Inc,GILD,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+9827a070d4497916225ae8fad,General Mills Inc,GIS,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+920c24d066091d00cc42a5eb6,Global Life,GL,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,0,0
+5d6468932dc18968a76067f44,"GCI Liberty, Inc.",GLIBA,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,0
+df6e6d396fceda2fdf1116781,"Gaming & Leisure Properties, Inc.",GLPI,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,0,1
+7ab0a3723500d5c43ba401b60,Corning Inc,GLW,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+ca14d00692f3585ef395d73ea,General Motors Company,GM,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,1,1,1,1
+ec9ea5b3e4d2853c30180c426,GameStop,GME,053e0bc8b9627b28e2ed8029a34b35bd,Retail,0,0,0,1
+ca86e1e2a85271859c6d65708,"Globus Medical, Inc. ",GMED,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,0,0,0
+6fc3c7dff1816c1f017855a96,Generac Holdings Inc. ,GNRC,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,0,0,0
+04528f9c22d93ff5301c169a8,Gentex Corp,GNTX,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,1,1,1,1
+4df23d5aab1d51e78738d7964,GROCERY OUTLET HOLDING,GO,6b1d375c47f362d90b6f5791dd1775be,Food & Drug Retailers,0,0,0,0
+cbe3019e0a1bd5b3158856d49,Alphabet Inc,GOOG,c8205c7636e728d448c2774e6a4a944b,Internet,1,1,1,1
+b9d8424f36b4a2f9035ad87ba,Genuine Parts Co,GPC,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,1,1,1,1
+1d47b28efc8f5b57587303041,Graphic Packaging Holding Co,GPK,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+1859bcf9f7a44adf6a119551e,Global Payments Inc,GPN,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+390fbd792bfb0367739b8305d,Gulfport Energy,GPOR,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,0,1
+fe9668a59a7386ac1e898d980,"The Gap, Inc.",GPS,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+7e5a46e0d1633d6c04e3eba1f,W. R. Grace & Co.,GRA,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+bfbe9d2d4ca71ab13d668a50b,Garmin Ltd,GRMN,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+300dcc77a8dc37254a76f6481,GrubHub Inc,GRUB,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,0
+5f77c6c64210a0d00db590e88,Goldman Sachs Group Inc,GS,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+8d2b726d13466c5cfd79a94c8,The Goodyear Tire & Rubber Company,GT,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,0,1,1,1
+48ef63a14ba5515e608d9bb60,Gates Industrial Corp PLC,GTES,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,0
+24910efc23096aa4590e3fd06,Garrett Motion,GTX,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,0,0,0,0
+3c2976fd03b7c0b01f35ba2eb,Genesee & Wyoming Inc,GWR,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,0,1,1,1
+57810eab0f42fe1a7d6a60665,Guidewire Software Inc,GWRE,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+25c10add2c6e520c7b8446d98,WW Grainger Inc,GWW,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+e73984cd89060117ad12e816b,Great Plains Energy,GXP,ceba282b7418b7f199798b645e1cba56,Utilities,0,0,0,1
+a6132d75c22b07b47952775c0,Hyatt Hotels Corporation,H,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+0b3e1016a4ef2ef99a4051f00,Haemonetics,HAE,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,0,0,0
+1cf4db37e4639419f456e69c2,"The Hain Celestral Group, Inc.",HAIN,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+68fd5c256b8c309e080089719,Halliburton Company,HAL,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,1,1,1,1
+ec37548286b2d8ba536899df1,Hasbro Inc,HAS,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+c88f2d50b14f260a3ebe20f83,Huntington Bancshares Inc,HBAN,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+50a14321ca5cbfb209f77cdde,Hanesbrands Inc,HBI,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+66e1a276035ef292c7f111383,"HCA Healthcare, Inc.",HCA,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,1
+e86ffb1b8293d40dbeca68a56,Home Depot Inc; The,HD,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+fe2bfc55051ca80e0d39faef3,"HD Supply Holdings, Inc.",HDS,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+7d6f2b45cfff2b755824f250f,Hawaiian Electric Industries Inc,HE,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+486a4be6688c3c98ce770ca12,HEICO Corporation,HEI,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+ed2a3f72177a0dfc54c31039c,Hess Corporation,HES,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+212120efda00a04946566cb96,HollyFrontier Corporation,HFC,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+e415ed5d9fea612898553d92c,Hilton Grand Vacations Inc,HGV,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,0,1,1,1
+562916d2b460b94fb9ca95a1b,The Howard Hughes Corporation,HHC,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+394d12c6d0a12480b59d4048d,"The Hartford Financial Services Group, Inc.",HIG,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+a31b0fd31b9e3e40cfee6f74e,Huntington Ingalls Industries Inc,HII,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+3804911437d29c783a9fdb6fa,Herbalife Ltd,HLF,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+7fe0a40e7701a8312b0f48376,Hilton Worldwide Holdings Inc,HLT,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+a5cfb74e9027810df96c19099,Harley-Davidson Inc,HOG,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,1,1,1,1
+b4a4eea044f323113fae78fb6,Hologic Inc,HOLX,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+58b5fee4ae88fa616a6ee1718,Honeywell International Inc,HON,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+9b75a8ed8c3dce29f53b88d61,Helmerich & Payne Inc,HP,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,1,1,1,1
+b0a792c222b48222c4662848e,Hewlett Packard Enterprise Company,HPE,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+010e3acd01fb1bb37db745be9,HP Inc.,HPQ,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+0618237069cfa629276b46fbd,HOSPITALITY PPTYS TRUST,HPT,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,0,0
+cd39ed9473482f05b807bfef5,Healthequity,HQY,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,0,0,0,0
+9f2ad39871d5b378dd6e8514a,H&R Block Inc,HRB,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+9731541267a9ba14458898ea7,"Hill-Rom Holdings, Inc.",HRC,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+222aeaf9589d2e627963d4220,Hormel Foods Corporation,HRL,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+e511d4da55577c353071d3e81,Harris Corporation,HRS,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,0,0,1,1
+b2e8d4e6b2217b0c2cded4b04,Henry Schein Inc,HSIC,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+ebe72c8dc897c294bbe6712a3,The Hershey Company,HSY,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+b8462bd87facde42b07c1adbc,Hubbell Inc,HUBB,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+d40806ce97a64d70fbf1f261a,"HubSpot, Inc.",HUBS,719d067b229178f03bcfa1da4ac4dede,Software,1,1,0,0
+048332e125ddbe7f0ce856ee5,Humana Inc,HUM,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,1
+2dc9cde5baa1561f7e8675eef,Huntsman Corp,HUN,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+68c0b3794c0668fbf9863325f,Howmet Aerospace,HWM,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,0,0,0
+b0b63596b3cdc895fc8742015,Hexcel Corp,HXL,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+97fe2893d70b0d8c56e742a94,Horizon Therapeutics plc,HZNP,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,0,0
+1c32261c23ec5380f2076da82,IAA,IAA,053e0bc8b9627b28e2ed8029a34b35bd,Retail,0,0,0,0
+443f5619642dc16d9d1976a42,IAC/InterActiveCorp,IAC,c8205c7636e728d448c2774e6a4a944b,Internet,1,1,1,1
+fee1881a18aa180338c3fe312,Integra LifeSciences Holdings,IART,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,0
+93a0df8714abb92129890c870,Interactive Brokers Group Inc,IBKR,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+5377dacc8263efbcf055b5f9d,International Business Machines Corporation,IBM,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+27433cd571be751e716a37be9,Intercontinental Exchange,ICE,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+e2955afa2a1ab643c15b33299,Intercept Pharmaceuticals,ICPT,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,0,1
+1109cd1d83c9023a3f803da97,ICU Medical Inc,ICUI,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,0
+ba6cefb702346a71cb68a3759,"IDACORP, Inc.",IDA,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,0,0
+172f8bf4377259531d802c0ea,Integrated Device Tech,IDTI,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,0,0,0,0
+ee54d268e21efa2a5bdfea83e,IDEXX Laboratories Inc,IDXX,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+6ab17b3636d65e558bd7424fa,IDEX Corporation,IEX,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+64aafea132996f2225a83bd50,"International Flavors & Fragrances, Inc.",IFF,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+8e6c8f1ffdb56d35dc7d89e00,Illumina Inc,ILMN,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+b90a264d250b03b02047262e8,"Immunomedics, Inc. ",IMMU,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,0,0,0
+6f5b5a2a14d44de39e2e12c8c,Incyte Corporation,INCY,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+e8055e7d7adfd6acc11313c24,IHS Markit Ltd,INFO,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+cb1d6d068446176f9a76ab37c,Ingredion Incorporated,INGR,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+25319f440654a960d59dbad8d,World Fuel Services,INT,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,0,0,0,1
+e2d8dba6f3aaf55b908a3ba77,Intel Corp,INTC,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+0bb7380fc95653e49fa2e1f3a,Intuit Inc,INTU,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+3fe94729325ca374511fd55c4,Invitation Homes LP,INVH,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+41756b3c00f8e8a44ddd9a2cc,"Ionis Pharmaceuticals, Inc.",IONS,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+4cef2c67c9e59d747a0514fc0,"Iovance Biotherapeutics, Inc. ",IOVA,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,0,0,0
+a1d5441a27558c945de32e912,International Paper Co,IP,b9a140691b80e2a764a04b14a3d816b9,Basic Resources,1,1,1,1
+00dae748aa57b455fb29eac00,"The Interpublic Group of Companies, Inc.",IPG,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+fd9513878f9c09909add43f36,IPG Photonics Corp,IPGP,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+da8db947c843360c523e3b39d,Inphi Corporation ,IPHI,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,0,0,0
+f483e44bf9ed90b23cd74cebd,IQVIA Holdings Inc.,IQV,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,0
+1084991a0cb5f04b70b5c14ad,Ingersoll Rand,IR,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+cd3c1b82d2c2f7429ef4f44ff,Iron Mountain Inc,IRM,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+3ec527e71aaf9398733ffb7ba,Intuitive Surgical Inc,ISRG,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+52c71027b6bbdb6b9e5910097,Gartner Inc,IT,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+2bf4315fe992d2666006f88d2,ITT Inc,ITT,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+9dae52fc8fb55f1cc6829f92c,Illinois Tool Works Inc,ITW,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+2692e670596fb383fe2c2f612,Invesco Ltd.,IVZ,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+bf1ec317a505e88d4b569ea49,Jacobs Engineering Group Inc,J,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+bde9cdf9c7c29ec48560fa3c9,Jazz Pharmaceuticals Inc,JAZZ,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,0
+36b3c595981976a85856cb8a2,JBG SMITH Properties,JBGS,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,0,0
+39d21ff3c288f75d1d7cadb65,JB Hunt Transport Services Inc,JBHT,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+fa26a7ea0fa6a4a734370ea2b,Jabil Inc.,JBL,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+a30265caa6bb51e48928ba950,JetBlue Airways Corp,JBLU,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+77a356b9382cc6301a84f8341,Johnson Controls International PLC,JCI,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+4a3ca352de2fcd6e996d0f10a,Jefferies Financial Group Inc.,JEF,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,0
+38ef86b4abc5d9482620766ad,Janus Henderson Group plc,JHG,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,0,1,0,0
+aa488b9ffdfbd4e131a5cea4e,Jack Henry & Associates Inc,JKHY,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+7b6369d216ed07f180afdab4d,Jones Lang LaSalle Inc,JLL,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+b69a116ada751d6451af01c5d,Johnson & Johnson,JNJ,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+e935da94ed84d483a22624783,Juniper Networks Inc,JNPR,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+c3bf8340adf1aca83c786cf6d,JPMorgan Chase & Co,JPM,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+8b4cb949d4d0022359dd05ae1,Juno Therapeutics,JUNO,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,0,1
+3cf9326762f4d2ba5588edc4c,John Wiley & Sons Inc,JW.A,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+1a37c8ba501ccdbedb966992c,Nordstrom Inc,JWN,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+a967b19d30e616e41c59d0ac2,Kellogg Company,K,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+8006d55eaa652cbfc5badfdbc,"KAR Auction Services, Inc.",KAR,053e0bc8b9627b28e2ed8029a34b35bd,Retail,0,1,1,1
+1fb3ae999c579b0110d2f6a2b,Keurig Dr Pepper Inc.,KDP,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,0
+725be26c00f5ac45dcf808a54,Kirby Corp,KEX,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+bd4c08031358899856d683aff,KeyCorp,KEY,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+9fe0a2d989612ec9ec0611bf1,Keysight Technologies Inc,KEYS,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+d24e7bda3f4bc81fb724abd12,The Kraft Heinz Company,KHC,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+d4eb2e08c1314ef670c15fbe7,Kimco Realty Corporation,KIM,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,0,0
+d2eb0be8dd376aec57310c6ef,"Kohlberg, Kravis, Roberts",KKR,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,0,0,0
+9c17e511fe07f859c1a357d3f,KLA-Tencor Corp,KLAC,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+8bee6a0e5bb9f9c8ff02a31b6,Kimberly-Clark Corp,KMB,b5a874f85f2aea08ebd2fa66376cb0e7,Personal Products,1,1,1,1
+9c5d9039388bc6d97ad0c4166,"Kinder Morgan, Inc.",KMI,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,1,1,1,1
+ea4530c7d642f1c55339eefa1,Kemper Corporation,KMPR,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,0,0
+0b9730ee9b39d28b3ece8488f,CarMax Inc,KMX,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+45acb5b2115337f8eb6f4b2ba,Knight-Swift Transportation Holdings Inc,KNX,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,0
+64380023a124cae74e095b74e,The Coca-Cola Company,KO,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+5be469658fe205987b85784b1,Michael Kors Holdings Ltd,KORS,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,0,0,1,1
+3433bdf4344444330b3130b2d,Kosmos Energy Ltd,KOS,5186f581089f313773b32576818b79fe,Oil & Gas,0,1,1,1
+c444251847643d157fc9fb668,The Kroger Co.,KR,6b1d375c47f362d90b6f5791dd1775be,Food & Drug Retailers,1,1,1,1
+378a3be7a9f6140c669829d98,Kohl's Corp,KSS,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+b1f431eab8b21b35f6625b58a,Kansas City Southern,KSU,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+289698d487be43d329a513ee7,Loews Corp,L,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+e711c1416ebcf0f1732192cb3,Lamar Advertising Company,LAMR,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+31b2ab5c02f821a292e3c29ef,Lazard Ltd,LAZ,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+d07714f0d4c9b8adf4bfb8728,"L Brands, Inc.",LB,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+2d143675292417d49cafaf953,"Leidos Holdings, Inc.",LDOS,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+ba58aacb7f6327bcf4d93bc3c,Lear Corporation,LEA,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,1,1,1,1
+97ac0fbaace72b9f7f9622065,Lincoln Electric Holdings Inc,LECO,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+b662e1838531ec04269b20c4c,Leggett & Platt Inc,LEG,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+2e32dfb9105c6ca89170675cd,Lennar Corporation,LEN,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+75343d81d5731cb15650651b8,Littelfuse Inc,LFUS,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,0
+c2bf49b7788e96361a71ba59f,Lions Gate Entertainment Corp,LGF.A,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+a09141778bd29da55ad9ec565,Laboratory Corporation of America,LH,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,1
+f34a5f141f320a5a0dc7eef67,LHC Group,LHCG,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,0,0,0,0
+384a205d8d92a3682a6f035ae,L3 Harris Technologies,LHX,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,0,0
+0c21dfbd62bc3bde2a8140e6e,Lennox International Inc,LII,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+fb3547fee85bf0102f74b25a2,Linde plc,LIN,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,0,0
+7ce9b51df4b580c07597f4dba,Lumentum Holdings Inc. ,LITE,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,0,0,0
+2b04a58b5d765f8c05e89de8a,Livanova,LIVN,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,0,0,0,0
+9dd6d6f29ea00bffcce3498fe,LKQ Corp,LKQ,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,1,1,1,1
+2155544b044e387ee3a542db5,L3 Technologies Inc,LLL,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,0,0,1,1
+fa3b1cc6520c3e2aff8291695,Eli Lilly And Company,LLY,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+0840fb003d6df0c50118a256f,Legg Mason Inc,LM,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+af66b6de5c616f39fba9361d6,Lockheed Martin Corp,LMT,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+8175237858aad468b7748f740,Lincoln National Corp,LNC,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+01722398f1dd91d629c842eae,Cheniere Energy Inc,LNG,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+ce62db37ac340e4d68daa9a61,Alliant Energy Corp,LNT,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+677e625b4aabf4936c6c8061c,LogMeIn Inc,LOGM,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+d6c5a12602124be84cc15a98d,Grand Canyon Education Inc,LOPE,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,0
+958292fdef5a82b1c48343a35,"Lowes Companies, Inc.",LOW,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+e504dede71cd3f588477a2ab4,Laredo Petroleum,LPI,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,0,1
+70fffbece14ae787cfe2aaf90,LPL Financial Holdings Inc.,LPLA,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+ba3771c2964c2d6c1094c209f,LifePoint Health,LPNT,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,0,0,0,1
+e1430ced395a8b8e3ed9823b4,Lam Research Corp,LRCX,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+5f17c7b19447e6643d5b79197,"Life Storage, Inc.",LSI,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+96e68b1adc469fefb2228add7,Landstar System Inc,LSTR,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+13ac0a758fb30ed39be7169f6,Livent,LTHM,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,0,0,0,0
+ca1b43f9acf83c949ce8e0260,Lululemon Athletica Inc,LULU,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+8a4c18127ce334f5a8adb843d,Southwest Airlines Co.,LUV,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+c007d42f89bbe311202ef57b5,"Livongo Health, Inc. ",LVGO,719d067b229178f03bcfa1da4ac4dede,Software,1,0,0,0
+c2e4c1647a96f953a37ac4c48,Las Vegas Sands Corp,LVS,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+4ce79f3ea0e311a6103abce45,Lamb Weston Holdings Inc,LW,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+5e912300b85d7c327a0f99085,LyondellBasell Industries N.V.,LYB,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+aea2a5c2a32c15f86bf959c4b,"Lyft, Inc. ",LYFT,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,0,0
+7da33f1bf07b7e8c2aa26a085,"Live Nation Entertainment, Inc.",LYV,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+6ec329e1144d5b61b7b375afb,Macy's Inc,M,053e0bc8b9627b28e2ed8029a34b35bd,Retail,0,1,1,1
+b7c050e82a55814efb16b9951,MasterCard Inc,MA,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+6db5b7099f6e8f63413bac193,Mid-America Apartment Communities,MAA,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+2ec0e80a399b3118b31078c85,The Macerich Company,MAC,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,1,0,0
+692326c564dcdcab14a5fac9b,ManpowerGroup Inc,MAN,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+2dea8f4f13b331edf4dbca206,Manhattan Associates Inc,MANH,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+140c58e33b0c4dd31e8a5e3db,Marriott International Inc,MAR,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+fd8a3a351b758870f260bfac4,Masco Corp,MAS,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+883122404aec44cda92f1e045,Masimo Corp,MASI,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,0
+4f76c5876d5c4536435d98e75,Mattel Inc,MAT,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+45e3c7a9162202781d6df13ab,McDonald's Corp,MCD,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+02e9033e1c2dfbadf59b3310b,Microchip Technology Inc,MCHP,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+2e55db33eb3de60c0fcc3e0c7,McKesson Corp,MCK,6b1d375c47f362d90b6f5791dd1775be,Food & Drug Retailers,1,1,1,1
+3d8738028a43c9e51ecf1297a,Moody's Corp,MCO,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+b0ab121a83af1fdaf5c1e411a,Mercury General Corp,MCY,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+9ddfae2b9159a17b737b80580,"MEDNAX, Inc.",MD,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,0,1,1,1
+897a6e45667e5da15406f1d86,"MongoDB, Inc.",MDB,719d067b229178f03bcfa1da4ac4dede,Software,1,1,0,0
+7e33789e928ec17b84bc15d2e,MEDALLIA INC,MDLA,719d067b229178f03bcfa1da4ac4dede,Software,0,0,0,0
+2df7d527262c793343d83cbd2,"Mondelez International, Inc.",MDLZ,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+a2a8b0e54f4a6c6c01aae118e,"Medidata Solutions, Inc.",MDSO,719d067b229178f03bcfa1da4ac4dede,Software,0,1,0,0
+ff7db7310ab5270accf0422e1,Medtronic PLC,MDT,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+84104c85891af04d03115e5e9,MDU Resources Group Inc,MDU,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+86d25e1be0e8d071c85e6be9c,MetLife Inc,MET,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+fc55b2f5c8d059e149fe9013c,MGM Resorts International,MGM,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+43e6b7fb661ea977576c6ede4,Mohawk Industries Inc,MHK,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+760a6f4f143e78a20b046994e,Macquarie Infrastructure Corporation,MIC,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+ec9a5889f4889b19c19053a16,Middleby Corp,MIDD,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+801050f62359e22b9d4be99ab,Michaels Companies Inc; The,MIK,053e0bc8b9627b28e2ed8029a34b35bd,Retail,0,0,1,1
+bf1c7255252566847ab0ed26c,McCormick & Co Inc,MKC,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+e1d9c1f60df7f50745087096a,Markel Corp,MKL,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+1c1bcf73ebc5803838c642b43,MKS Instruments Inc,MKSI,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,0
+3ae4081a0b8ec4f259a27f451,MarketAxess Holdings Inc,MKTX,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+2d68bc636a5e8b15b9b873bb1,Martin Marietta Materials Inc,MLM,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+c74931df4508653be254d47e1,"Marsh & McLennan Companies, Inc.",MMC,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+57c08ed4d2c425167a0e03c2c,3M Company,MMM,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+998222088e50a92edf38c276f,Maximus,MMS,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,0,0,0,0
+6d69d88a77700a7808c1d48de,Mallinckrodt,MNK,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,0,1
+647ed88d6df3fff9891a52f30,Monster Beverage Corporation,MNST,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+bd812da9d5f64518d9ee38ec2,"Altria Group, Inc.",MO,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+aba1051e8175692422675d8d3,Molina Healthcare Inc,MOH,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,0
+8daa267b62c139668be69fe64,Monsanto,MON,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",0,0,0,1
+cb86cf4de3da031fe9c4cf73d,Morningstar Inc,MORN,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+b93e02f755506813a60bb08f0,The Mosaic Company,MOS,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+ec6f976b024f393dfb1414d52,Marathon Petroleum Corp,MPC,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+f3b16aad2edf7a6b5dd9d2ab1,Monolithic Power Systems Inc,MPWR,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,0
+88ec1bdeaab5dc1d4437de1cc,"Mercury Systems, Inc. ",MRCY,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,0,0,0
+bcb24d34d0e120d87ea386c8e,"Merck & Co., Inc.",MRK,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+27eb877f905ab5e4921d84ce4,"Moderna, Inc.",MRNA,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,0,0
+fa609de0cf01f03972359584a,Marathon Oil Corp,MRO,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+07595008b51dca18578ec090c,Marvell Technology Group Ltd,MRVL,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+7e541347b1ebea015baad2166,Morgan Stanley,MS,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+87e832c6bf8410b1c1bfc7a29,MSA Safety Inc,MSA,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,0,0,0
+0a67664c27323a0039570279d,Microsemi Corp,MSCC,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,0,0,0,1
+69dc5dfe3b692c927edfc0def,MSCI Inc,MSCI,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+681873205a765c355f58f1911,Microsoft Corporation,MSFT,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+89e7a16643ef8efd3ec430ef1,Madison Square Garden Entertainment Corp. ,MSGE,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,0,0,0
+49dbc7c22ea3db1e1371f6780,Madison Square Garden Sports,MSGS,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+0a3bb9fb37e4f065a98344f22,"Motorola Solutions, Inc.",MSI,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+3bac0348567da6fa6634e31ec,"MSC Industrial Direct Co., Inc.",MSM,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+8297d1205f6c5a1450eb7e4b6,M&T Bank Corp,MTB,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+158fd62c2b0262ce310dfd5c4,Match Group Inc,MTCH,c8205c7636e728d448c2774e6a4a944b,Internet,1,1,1,1
+4d5ec07430f796bb3a22683a8,Mettler-Toledo International Inc,MTD,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+2d878043bf2dc8115c7995ba6,MGIC Investment Corporation,MTG,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,0,0
+8d41e43bd274b0909d2a8934b,Vail Resorts Inc,MTN,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+9b8132d432ff0cb5c74c22e45,Micron Technology Inc,MU,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+493b58ef774d0dc25b9f064dc,Murphy Oil Corporation,MUR,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+e6d849c032b08cba94f5c8bd1,Murphy USA,MUSA,053e0bc8b9627b28e2ed8029a34b35bd,Retail,0,0,0,1
+07c9fb34a16607c0a33ed6877,Maxim Integrated Products Inc,MXIM,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+7d6be1ad0d2e0b004315021f6,Mylan N.V.,MYL,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+2ca305bb7d07f6fc2f49d58e6,National Instruments Corporation,NATI,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+89786e3ad81f5d5020d035f0b,Navient Corp,NAVI,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,0,1,1,1
+1cd8d55e54ab4cc35815f37c7,Neurocrine Biosciences Inc,NBIX,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+0040f5f17ffc61944024e975e,Noble Energy Inc,NBL,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+0c9a54df558584b5b4bec005d,Nabors Industries Ltd,NBR,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,0,0,1,1
+723edea951b2cffc44ebe142b,Norwegian Cruise Line Holdings Ltd.,NCLH,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+ef7f680c6aad50575f4dacac8,NCR Corp,NCR,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+a67adf918f60d862c16e25009,"Nasdaq, Inc.",NDAQ,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+bdc21d6eacf83565e83a3ca01,Nordson Corp,NDSN,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+dde243d65ae48e52af6322c36,NextEra Energy Resources LLC,NEE,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+9e335c89ab230e53e3a547878,Newmont Mining Corp,NEM,b9a140691b80e2a764a04b14a3d816b9,Basic Resources,1,1,1,1
+a31b604ca45b8b1a558e0f78a,Cloudflare,NET,719d067b229178f03bcfa1da4ac4dede,Software,1,0,0,0
+080be674f7ca03fb939f9d84a,NewMarket Corp,NEU,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+c2c401dcb7f9785ffc316fc27,"New Relic, Inc.",NEWR,719d067b229178f03bcfa1da4ac4dede,Software,1,1,0,0
+3125cb2fe964e26e3e57fca5e,National Fuel Gas Co,NFG,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+4c9ffbd9325d54a424c8cfff2,Netflix Inc,NFLX,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+2be2910a0b831a5a315714d51,Newfield Exploration Co,NFX,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,1,1
+bbee0cb4e71b012eeb382efd6,Ingevity,NGVT,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,0,0,0,0
+ded888ffb5b84421ac8544813,NiSource Inc,NI,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+e8c3918a1ba261883ea8ded73,"NIKE, Inc.",NKE,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+3d1a776d9474ed3d5aa7bfc6c,Nektar Therapeutics,NKTR,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,0
+b91296cdf2787067077eb7e95,NortonLifeLock Inc,NLOK,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+08a4199c157b6c2ca46cf6ecb,Nielsen Holdings PLC,NLSN,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+b7f5ad4cce9d991bfe96e1872,Northrop Grumman Corporation,NOC,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+ecdfbe068a8b0cc75ad1ccb10,National Oilwell Varco LP,NOV,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,1,1,1,1
+17532d8e24e1cc6a7c0342371,"ServiceNow, Inc.",NOW,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+af75da7aabb879896da5c33da,"NRG Energy, Inc.",NRG,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+5c51f4601c6d45505e6e5db06,Norfolk Southern Corp,NSC,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+257710e9afbda7a3d33c1f771,Insperity,NSP,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,0,0,0,0
+59bbf56d3d34a835eb2786f0e,NetApp Inc,NTAP,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+b0af27032db94ba0a5dd59e4f,Nutanix Inc,NTNX,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+55e000cdcc4e2c9d3641ab9dc,Northern Trust Corp,NTRS,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+17d627887c2ea8e1eb58d2215,Nuance Communications Inc,NUAN,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+675892f952f2b2d4ac4429c10,Nucor Corporation,NUE,b9a140691b80e2a764a04b14a3d816b9,Basic Resources,1,1,1,1
+545c0c4a1cb473a12d7ad31d1,Nu Skin Enterprises Inc,NUS,b5a874f85f2aea08ebd2fa66376cb0e7,Personal Products,1,1,1,1
+28d2f243465d9c3daa82b52f3,NOVOCURE LTD,NVCR,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,0,0,0
+81733c2bdcda385e8f2b87cda,NVIDIA Corp,NVDA,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+99f31fd39865d33768be4dc32,NVR Inc,NVR,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+873b4cc458e8b567515833950,ENVISTA HOLDINGS,NVST,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,0,0,0,0
+c750b4aa163e9ee02c8dfddd5,nVent Electric Plc,NVT,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,0
+dd67b15af1e9d656c9d74a2dd,Newell Brands Inc,NWL,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+bd39f6d7b9e4ffb4adad61fca,News Corporation,NWS,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+b4b69260f008aa1608e415222,Nexstar Media Group,NXST,3b563524fdb17b4a86590470d40bef74,Media,1,1,0,0
+34e53aaba425ffc8931840c71,New York Community Bancorp Inc,NYCB,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+8978f6debcd21b1a339fee610,The New York Times Company,NYT,3b563524fdb17b4a86590470d40bef74,Media,1,1,0,0
+73be5b0ca142f59f2ab18c4c1,Orbital ATK,OA,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,0,0,0,1
+242a5120cd0c79c438d4b68d4,Owens Corning,OC,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+428b1c24036a5d555a05ef893,Old Dominion Freight Line Inc,ODFL,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+20ebedf0294333468ea5f0cd4,OGE Energy Corp,OGE,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,1,1,1,1
+b8e0fcf0e32b31b411cbf027e,One Gas Inc,OGS,ceba282b7418b7f199798b645e1cba56,Utilities,0,0,0,0
+0417bd930f7db47e2d634ef0a,"Owens?Illinois, Inc.",OI,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,0,1,1,1
+96120e586240cbab5f009b135,Oceaneering International,OII,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,0,0,0,1
+f17db45e17546386e47675908,"ONEOK, Inc. ",OKE,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,1,1,1,1
+4bd56f51601935f6bd080f452,Okta Inc,OKTA,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,0
+d43766dedc6e26af0466757d5,Universal Display Corp,OLED,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+510cbc1af1bf2a59ea2a91eb8,"Ollie's Bargain Outlet Holdings, Inc.",OLLI,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,0,0
+87d2816b51b96a4b9d184d852,Olin Corp,OLN,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+ba8ad1cc389383899c6740637,Omnicom Group Inc,OMC,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+801423c888f34aa9a4e6644b9,"OneMain Holdings, Inc.",OMF,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+25acaea7bd7f5f7eb91e63dc0,ON Semiconductor Corp,ON,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+223f14b63999a50559de7033c,OPKO Health,OPK,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,0,1
+9c6ea5969de7281db05c3920c,Oracle Corporation,ORCL,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+219958da0a104a6358e1fc76c,Old Republic International Corp,ORI,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+d8711edfd8b0148261acf2625,O'Reilly Automotive Inc,ORLY,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+310bd7f2effabc1df9f15b325,Oshkosh Corporation,OSK,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+4f2decfa1b93835675c7b1b89,Otis Worldwide Corporation ,OTIS,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,0,0,0
+82f3ad20b7438470ad99a8000,OUTFRONT Media Inc.,OUT,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+362005accde9dd55235de9bc3,Occidental Petroleum Corporation,OXY,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+7320593e1f86232b03b367336,Bank OZK,OZK,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,0
+1c7e130ce24683ea777a2f19d,Pandora Media,P,3b563524fdb17b4a86590470d40bef74,Media,0,0,0,1
+75b6306d896571a99284c83ba,PacWest Bancorp,PACW,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+c73e1793e190cbf699be3c2b7,"Penske Automotive Group, Inc.",PAG,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+235644962087dd5fd8431ffc7,Platform Specialty Products Corp,PAH,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,0,0,1,1
+c26eb2ce0ba487ba115058c78,Palo Alto Networks,PANW,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+a644066512db8f9c2b36cb8a8,Paycom Software Inc,PAYC,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+a117ff6612f1df8eb70b75999,Paychex Inc,PAYX,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+fcce794306e9e8f2bfdd8f4c6,Prosperity Bancshares Inc,PB,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+1e4219ba4fd45de2f0d9e606f,"Peoples United Financial, Inc.",PBCT,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+8892b16784cba37334faf4501,PBF Energy Inc,PBF,5186f581089f313773b32576818b79fe,Oil & Gas,0,1,1,1
+621cce8f9fef7aa3063b1bcb6,Pitney Bowes,PBI,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,0,0,0,1
+15c090f92339f4d648f1ad7b2,PACCAR Inc,PCAR,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+6e5b1fc2e9811d2cb80e1833c,PG&E Corporation,PCG,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+8a7ccf4afb42bb7055b8768da,Paylocity Holding Corporation,PCTY,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,0,0
+68570440de69d24b2727fc4f4,"PagerDuty, Inc.",PD,c8205c7636e728d448c2774e6a4a944b,Internet,1,1,0,0
+2d29be25eaf27dd97cb371d0d,Patterson,PDCO,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,0,0,0,1
+20d3836e1adac5c1cbaf60db0,Parsley Energy Inc,PE,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+88ae0127e8cb4d10a30604b81,Public Service Enterprise Group Incorporated,PEG,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+1adef7427e36ebbf0924a4653,Pegasystems Inc,PEGA,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+06b027285281d704284890298,Penumbra Inc,PEN,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,0
+f1a55cc42a8d2408d7dd9a63b,PepsiCo Inc,PEP,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+678a1be8a1876b61be5c9cbe7,Pinnacle Foods Inc,PF,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",0,0,1,1
+80701bc2fc4b11ce1bfb199b3,Pfizer Inc,PFE,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+22fe2896958e3fb3cdc220f87,Principal Financial Group Inc,PFG,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+afdf2c5d97d8dcf0551007fca,Proofpoint Inc,PFPT,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+ee06012a4701cc4b0d274400e,The Procter & Gamble Company,PG,b5a874f85f2aea08ebd2fa66376cb0e7,Personal Products,1,1,1,1
+39d7cfa6140a5abd661ac80d1,The Progressive Corporation,PGR,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+b07f0a82af20da4077cf17018,Parker Hannifin Corp,PH,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+97ef9265eabb1bcaf996c0f32,"PulteGroup, Inc.",PHM,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+861bdc1109cd48bfdb730056b,Polaris Industries Inc.,PII,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+1a19ba73d45caea5ef3a45aa1,Premier Inc,PINC,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+a081c8d47632b072688919ead,Pinterest,PINS,c8205c7636e728d448c2774e6a4a944b,Internet,1,0,0,0
+086d099ed74047b2115c823af,Park Hotels & Resorts Inc.,PK,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,0,0
+8bd0dc4570bc8124e2f7484af,Packaging Corporation of America,PKG,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+00aa86290f0973a72bca4ef3b,PerkinElmer Inc,PKI,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+b06b26dbfd6a0a761176de463,"Anaplan, Inc.",PLAN,c8205c7636e728d448c2774e6a4a944b,Internet,1,1,0,0
+50f9fd9d1fabf80784e5a3a91,ProLogis Inc,PLD,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+c5432bd9cfedba763e5df81da,"Planet Fitness, Inc.",PLNT,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,0,0
+db42140b0acfda0ad70c1ee39,Philip Morris International,PM,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",0,0,0,1
+c8f1629700e96b89673b84eaf,PNC Financial Services Group Inc,PNC,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+0d20bc89bf47d14b1aa88bab6,Pinnacle Financial Partners Inc,PNFP,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+612c36a5d64496d273e2a93dc,Pentair Plc,PNR,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+f61c5fe4aec3f3550f9f63be6,Pinnacle West Capital Corp,PNW,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+a3f4e18bc2188d6491b3eee82,Insulet Corp,PODD,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,0
+a261cfbe875cf0e3887466de4,Pool Corp,POOL,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+1797c092e805f639a6ae3fe4e,"Post Holdings, Inc.",POST,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+f424e4975d137b040c4d220fb,Pilgrims Pride Corporation,PPC,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+ec19d15df3b8840bc8b5ff8b1,PPD,PPD,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,0,0,0
+5e60e269695f719a475f706fa,PPG Industries Inc,PPG,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+b916118beddfb300e65e6f59a,PPL Corp,PPL,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+0069b65948fbc0b72786e59cc,ProAssurance,PRA,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,0,0,0,1
+b19d8d2471f36960b4caee0af,"PRA Health Sciences, Inc.",PRAH,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,0
+24299215d98550f96d62d4ab7,Perrigo Co PLC,PRGO,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+79022d9b1b5315c7c10f9c7f8,"Primerica, Inc.",PRI,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,0,0
+6070f4d6fbe73cc0bfd39db76,Prudential Financial Inc,PRU,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+d24992c79e1b62d2d0e5ad924,"Pluralsight, Inc.",PS,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,0,0
+3287a6bd074210b28e639eb98,Public Storage,PSA,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+da170cf29af73ceca06da7d47,Pure Storage Inc,PSTG,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,0
+1bec00a08429b572ab1f31283,Phillips 66,PSX,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+d26e36765d0eba13e6ecc8b9d,PTC Inc.,PTC,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+1f141c9eb8add0f000c4fd5d7,"Patterson-UTI Energy, Inc.",PTEN,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,0,1,1,1
+65790587bab4afba9e760fddb,Peloton,PTON,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,0,0,0
+58e21e9b0212e3d467b9b1618,PVH Corp.,PVH,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+8d21d8547e80bbb960d53bf4b,PIVOTAL SOFTWARE,PVTL,719d067b229178f03bcfa1da4ac4dede,Software,0,0,0,0
+10c5c80fa71f8f9ec157970d6,Quanta Services Inc,PWR,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+1be4a6544ba0506e42f4a4c8a,Praxair Inc,PX,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,0,0,1,1
+b2343e49cda56a81fc07ccacd,Pioneer Natural Resources Company,PXD,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+c9f6e06817fcd881b15e180f6,Paypal Holdings Inc,PYPL,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+1bc86621c4a61db457a38072b,Qualcomm Inc,QCOM,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+d84b26925c90fe9986972297f,QUIDEL CORP,QDEL,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,0,0,0
+9a6a30abc00cae87565ce1bb4,QEP Resources Inc,QEP,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,1,1
+4398d6cb21018b1bea431b208,"Qurate Retail, Inc.",QRTEA,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,0
+1434b6a2af2da4576542fb6bc,Qorvo Inc,QRVO,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+35527b98758ea6ad107973c5d,"Ryder System, Inc.",R,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+e80b7986968da62118443b132,Rite Aid,RAD,6b1d375c47f362d90b6f5791dd1775be,Food & Drug Retailers,0,0,0,1
+a29b30bff6eb2d3c782a9968d,Regal-Beloit Corp,RBC,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+ba2fee0bbcb541c2ea4e32eef,Royal Caribbean Cruises Ltd,RCL,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+3cdb88500389c84efde260bec,Everest Re Group Ltd,RE,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+268fb8b20ebe85c9d448097a4,Regeneron Pharmaceuticals Inc,REGN,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+5c736eeaa0d77a5e24e0ac117,RPC Inc,RES,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,0,0,1,1
+730044e6f6d0bdff09e7613ec,"Reata Pharmaceuticals, Inc. ",RETA,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,0,0,0
+0a535d2d5110b02b45f0e7484,Reynolds Consumer Products Inc. ,REYN,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,0,0,0
+b5a080eb25204b8495cfb7d31,Resideo Technologies,REZI,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,0,1,0,0
+dc15cf89645da4a831bb5a927,Regions Financial Corporation,RF,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+9ac9d6b0839c603de07c02705,Reinsurance Group of America Inc,RGA,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+fa45133b563251c0adca461ba,Regal Entertainment,RGC,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,0,0,0,1
+a31d6b9e7fd1c896863b96f2e,Repligen Corporation ,RGEN,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,0,0,0
+1ab89dec9458e71c73b0f9097,Royal Gold Inc,RGLD,b9a140691b80e2a764a04b14a3d816b9,Basic Resources,1,1,1,1
+25f7354e9942720441066921e,Robert Half International Inc,RHI,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+1256cf08c0b64f50d7b7487e2,Red Hat Inc,RHT,719d067b229178f03bcfa1da4ac4dede,Software,0,0,1,1
+4c19308f0f4f56841a74453c9,Transocean Ltd,RIG,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,0,1,1,1
+c667496b4d22ce39700181592,Raymond James Financial Inc,RJF,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+ea372535a5f629ce2c0f593f1,Ralph Lauren Corp,RL,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+198c0f5e71b9ff48429d6042f,Realogy Group LLC,RLGY,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,1,1
+25bcc8eb423980a2a977e8e72,ResMed Inc,RMD,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+23d853601e1f3dad9a432e86e,RingCentral Inc,RNG,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+4adb67bbf75261888ec5c5f58,RenaissanceRe Holdings Ltd,RNR,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+664356cd22a718ba2444850b6,Rockwell Automation Inc,ROK,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+b6d84bff840616b9f1eec5cc2,"Roku, Inc",ROKU,3b563524fdb17b4a86590470d40bef74,Media,1,1,0,0
+f86707738387e3c6b19ca4a86,Rollins Inc,ROL,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+adb75398050809646c1224652,"Roper Technologies, Inc ",ROP,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+52f97127274f57b0693326797,Ross Stores Inc,ROST,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+9156d89984bbd4d58d48ccdd3,RealPage,RP,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+ea1680421b21382aa19982950,RPM International Inc,RPM,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+34f21c8e24e1c91f3343269c6,Range Resources Corp,RRC,5186f581089f313773b32576818b79fe,Oil & Gas,0,1,1,1
+2e272f015f6ffe5bdd21519d6,Reliance Steel & Aluminum Co,RS,b9a140691b80e2a764a04b14a3d816b9,Basic Resources,1,1,1,1
+9e16d350e6444416d2c842fba,Republic Services Inc,RSG,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+71b343d0c904f17a9144965f7,RSP Permian Inc,RSPP,NULL,,0,0,0,1
+e29a9b36bb7562025d7e89b40,Raytheon Company,RTN,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,0,1,1,1
+f24ae0e655f66a765f4580185,Raytheon Technologies Corp,RTX,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+cc37c6c0124d5530392ab503d,Rayonier,RYN,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,0,1
+9f9e10567b20d0afa5c28abe4,Sprint Corp,S,ba075f9e97825d22570d1bcf73c382f2,Telecommunications,0,1,1,1
+98fa7c62cf75528668ca68cb8,Sabre Corp,SABR,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+ae0c9051fb21beaa4eae35f3a,Sage Therapeutics Inc,SAGE,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,0
+1c5e6c28412fb7fe022b73713,Science Applications International Corporation,SAIC,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,0,0,0
+9981d9065139cd71f89ea3961,"The Boston Beer Company, Inc. ",SAM,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,0,0,0
+663b88a464abd8a85c67c74d7,EchoStar Corp,SATS,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+f5b2106b1acc0e86f104c1fe8,Spirit Airlines,SAVE,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,0,0,0,1
+21dd95fa9b9a59832fcc60548,SBA Communications Corp,SBAC,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+35051f5df11233bd8f0a81e98,Sinclair Broadcast Group,SBGI,3b563524fdb17b4a86590470d40bef74,Media,0,1,0,0
+d99f65ef54d77f03a0542ab8a,Sally Beauty Holdings,SBH,053e0bc8b9627b28e2ed8029a34b35bd,Retail,0,0,0,1
+c3cb0cf22f2d359032aee9627,Signature Bank,SBNY,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+cfb36e821047b4a296dd96c41,Starbucks Corporation,SBUX,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+8f6e5c526ead3decf7fba65dc,Santander Consumer USA Holdings Inc,SC,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+694d6d685a4dac5fdcf97b79b,Southern Copper Corporation,SCCO,b9a140691b80e2a764a04b14a3d816b9,Basic Resources,1,1,1,1
+a29fd456004ed86322d69ee68,SCANA Corp,SCG,ceba282b7418b7f199798b645e1cba56,Utilities,0,0,1,1
+0af234d811bb12e1ae3528a7e,Charles Schwab Corporation,SCHW,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+5562dbbdcdedd99103ac558be,Service Corporation International,SCI,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+d0c4ab5a26ef3ba6a381c4c46,Seaboard Corp,SEB,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+476eea04d230a670a106a8eb7,Solaredge,SEDG,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,0,0,0
+5e09cbf61574cc883e9665c06,Sealed Air Corp,SEE,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+a5847662ff9f06667261273d6,SEI Investments Co,SEIC,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+51bb6b9f6c3510f55c50756ee,ServiceMaster Global Holdings,SERV,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+0df7118263c95ed7d820e0b41,Sprouts Farmers Market Inc,SFM,6b1d375c47f362d90b6f5791dd1775be,Food & Drug Retailers,1,1,1,1
+ec5606124fa19720869c1a220,"Seattle Genetics, Inc.",SGEN,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+131554636ffff8102b2fd0be6,The Sherwin-Williams Company,SHW,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+2c8082bb4b874af18eca9c0aa,Signet Jewelers,SIG,053e0bc8b9627b28e2ed8029a34b35bd,Retail,0,0,0,1
+49f82337080efd4b60723f296,SiriusXM Holdings Inc.,SIRI,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+5d931f6e3421d21d59a18b9f4,SVB Financial Group,SIVB,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+0245419ed880768a62d48ca19,Six Flags Entertainment Corporation,SIX,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+bc0f29733a0dcd51853f73b99,The J. M. Smucker Company,SJM,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+a8db49013998574c59f4f4d19,"Skechers U.S.A., Inc.",SKX,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+9c704a6b1730401456af6eb40,Schlumberger Limited ,SLB,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,1,1,1,1
+cf50dadcd3871c9df83927e77,SL Green Realty Corp,SLG,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+40dd406ec08da284e71daff22,Silgan Holdings Inc,SLGN,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+7f4aa42cbf3e2c7fccfd8e7cc,SLM Corporation,SLM,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+1afc2698df3aac2ad5a200bda,SM Energy Company,SM,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,1,1
+5565c17abe20a7c9a9813a79c,Smartsheet Inc.,SMAR,719d067b229178f03bcfa1da4ac4dede,Software,1,1,0,0
+5a278911d7f600390d7212b06,The Scotts Miracle-Gro Company,SMG,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+37b257851ae0f0a0dba07ac0d,Snap-On Inc,SNA,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+8d656489780e933a750f0765f,Schneider National Inc,SNDR,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,0
+22773f8319254d70baaeb618d,Scripps Networks Interactive,SNI,3b563524fdb17b4a86590470d40bef74,Media,0,0,0,1
+57da0dbd6fcb0faf41c494cc9,Synopsys Inc,SNPS,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+1215bb0dac97ca497f40de499,Synovus Financial Corp,SNV,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+616b6dd80f11ec054da7eeee9,SYNNEX Corpration,SNX,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,0,0
+d9d8b9b691cb96a3651d99e94,The Southern Company,SO,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+9ea798add8104472578876943,Sonoco Products Company,SON,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+36fe7e657df9562e9fd2b5269,Spectrum Brands Holdings Inc,SPB,b5a874f85f2aea08ebd2fa66376cb0e7,Personal Products,1,1,1,1
+ed61cd72b42031638ea626d73,Virgin Galactic,SPCE,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,0,0,0
+15675dc70eb7a151c8be4d217,Simon Property Group Inc,SPG,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+7910e937b20ebe3652be2defa,S&P Global Inc.,SPGI,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+cfd6ec616f650ad70962dc91d,Splunk Inc,SPLK,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+cbc6b7c17305d629c46a52558,SPOTIFY TECHNOLOGY SA,SPOT,3b563524fdb17b4a86590470d40bef74,Media,0,0,0,0
+326df96af72c2381429e3a3e9,Spirit Aerosystems Holdings Inc,SPR,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+9edb2885db6565bfae4a125af,Square Inc,SQ,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+8a503418bbd40cc82faca8298,Stericycle Inc,SRCL,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+660ddbd08902a82b0c842d0ee,Sempra Energy,SRE,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+327d972ba12c97202229a542e,"Sarepta Therapeutics, Inc.",SRPT,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,0
+3d88b988e3625ff24b21254e8,"SS&C Technologies, Inc.",SSNC,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+12d0e54549abd3280ea1acf67,Sensata Technologies Holding plc,ST,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+c080f547b4919a942da8be74d,Extended Stay America Inc,STAY,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+02348692054b8b885b3024cbd,STERIS plc,STE,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+6c146fd63271db5ccd51f8442,SunTrust Banks Inc,STI,0927b0b8a7a95b5f02808e24b954e3e3,Banks,0,1,1,1
+4366a5818c58da70430e1883d,Sterling Bancorp,STL,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,0
+8ead349141f426a36eb181153,Steel Dynamics Inc,STLD,b9a140691b80e2a764a04b14a3d816b9,Basic Resources,1,1,1,1
+32d8e4141d23352b79100faf4,State Street Corp,STT,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+b6992df53dd7d2853167974a6,Constellation Brands Inc,STZ,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+1c4e16af3d17dcbc9ab6399bc,Sun Communities Inc,SUI,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+0618237069cfa629276b46fb1,Service Properties Trust,SVC,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,1,0,0
+182f08d271258d090ebff3a92,Switch Inc,SWCH,c8205c7636e728d448c2774e6a4a944b,Internet,1,1,1,0
+67fe98f0a3007a3843e3a8694,"Solarwinds, Inc.",SWI,719d067b229178f03bcfa1da4ac4dede,Software,1,1,0,0
+c1e62047e2f6e3dbd21bd4cd3,"Stanley Black & Decker, Inc.",SWK,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+2befbbc91f7f958cb61d3868b,Skyworks Solutions Inc,SWKS,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+fdfb023711d1153a0f54afbfa,Southwestern Energy,SWN,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,0,1
+1d0d0fcac3934e260d72c226f,Synchrony Financial,SYF,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+bb84a778052d69cfb02c26c31,Stryker Corp,SYK,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+e538c55105eeecf73351309cc,"Syneos Health, Inc. ",SYNH,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,0,0,0
+4552ef0351b2b259717fd3c09,Sysco Corp,SYY,6b1d375c47f362d90b6f5791dd1775be,Food & Drug Retailers,1,1,1,1
+27175bbde0815877276b9bd73,AT&T Inc,T,ba075f9e97825d22570d1bcf73c382f2,Telecommunications,1,1,1,1
+77b5870741626e5197aac5a71,Molson Coors Brewing Company,TAP,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+6a1e55e53948f3f271bfd71a1,Texas Capital Bancshares Inc,TCBI,0927b0b8a7a95b5f02808e24b954e3e3,Banks,0,1,1,0
+a6c8db38f55d2a10792a2eecf,TCF Financial Corp,TCF,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+c44048a10041945983ac9dc36,Teradata Corp,TDC,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+20161b09f4f2a91f4b79a9e5a,TransDigm Group Inc,TDG,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+50f4bf91fbc821c3c6ed33ed7,Teladoc Health,TDOC,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,0,0,0
+8bb4c4f649bec70a289b1ef9d,Telephone & Data Systems Inc,TDS,ba075f9e97825d22570d1bcf73c382f2,Telecommunications,1,1,1,1
+5c289d5e786d131dddeb72b69,Teledyne Technologies Inc,TDY,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+6cf5d5853f5778b0fa1136db1,TECH DATA CORP,TECD,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,0,0,0,0
+8a5f6e65599ec1fd039710bef,Bio-Techne Corp,TECH,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+067b797b631a9f0fbbd23003f,Teradyne Inc,TER,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+f1067d00e158f4ee9d0293c7c,Terex Corp,TEX,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,0,0,1,1
+7b422503d22c7b6986b290f24,Truist Financial Corporation,TFC,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+6a8e39fa840d09e14fb3075eb,TFS Financial Corp,TFSL,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+206d31889fe988c3ee5ea769f,Teleflex Inc,TFX,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+653db70366902dc0713702c39,TEGNA,TGNA,3b563524fdb17b4a86590470d40bef74,Media,0,0,0,1
+4db0fb55a9bf789c6774bfd0a,Target Corporation,TGT,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+c830119c3e26f6b39e29f4776,"The Hanover Insurance Group, Inc.",THG,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+0da0d8003176224721f00f085,Thor Industries Inc,THO,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+d5418dff87f01551f487ae818,TreeHouse Foods Inc,THS,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+da15bbd3f185171c8782f7dc5,Tiffany & Co.,TIF,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+edb4dbdb3733d5e3e9eda6d75,"The TJX Companies, Inc.",TJX,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+9f9d2978b299d8b00301541c8,Timken Co,TKR,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+97f55775f477b67a39eeccc0f,Torchmark Corp,TMK,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,0,0,1,1
+9b4e91cd06758f18a1a81bf66,Thermo Fisher Scientific Inc,TMO,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+d79869e99acb90c37a813dd4f,"T-Mobile US, Inc",TMUS,ba075f9e97825d22570d1bcf73c382f2,Telecommunications,1,1,1,1
+a29fe6521b34c52b9a8d60ff3,"Tandem Diabetes Care, Inc. ",TNDM,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,0,0,0
+b4492b2caed1b9a78a7e57c38,Toll Brothers Inc,TOL,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+5786bf8e0a3ee293bbf47d205,"Tapestry, Inc.",TPR,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,0
+a0a420debc68efd6700595d39,"Tempur Sealy International, Inc.",TPX,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+45d68ed4963c201602a682fe8,Tribune Media Co,TRCO,3b563524fdb17b4a86590470d40bef74,Media,0,0,1,1
+4d83a00cc5e12564d4804a549,"LendingTree, Inc.",TREE,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,0,0
+54894669682e41817ce933662,"Trex Company, Inc. ",TREX,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,0,0,0
+70dacb22a2f1e5aebc635f0a6,Targa Resources Corp,TRGP,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+20b22f0b4f30838d1c720a084,TripAdvisor Inc,TRIP,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+a7fe3643522d3063622df0df9,"Trimble, Inc.",TRMB,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+d70b2b0db9b2120559aa3d3ac,Trinity Industries Inc,TRN,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+b702f6a02d5f899f1e4b9694d,T. Rowe Price Group Inc.,TROW,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+9064a31b08b92dce04e8c7bfc,TransUnion LLC,TRU,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+adbb37913dc62e427fd4b9867,"The Travelers Companies, Inc.",TRV,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+734dba4139d2873cf71269c01,Tractor Supply Co Inc,TSCO,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+f97c6f24cae73a38b6a7f2f8f,"Tesla, Inc.",TSLA,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,1,1,1,1
+81ced27969937ef4fb5cdab57,Tyson Foods Inc,TSN,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+1e7282a2316fd04483868bdb4,Tesaro Inc,TSRO,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,1,1
+2dcca93870d446a0a31021a86,Total System Services Inc,TSS,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,0,0,1,1
+3ed120ccda286ccc0cb1386ba,Trane Technologies,TT,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+5c4b90c0001ef2f8dcc49d66c,The Toro Company,TTC,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+ecd00c7298395d8287b2c961d,"The Trade Desk, Inc.",TTD,3b563524fdb17b4a86590470d40bef74,Media,1,1,0,0
+0674287b09824c52832fc4d52,Tetra Tek Inc,TTEK,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,0,0,0,0
+4a44a55e5021c4ae01fe10948,Take-Two Interactive Software Inc,TTWO,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+33859097461fc6f295776f1b6,Tupperware Brands,TUP,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,0,0,0,1
+68212f6ec3a2cc43cee498987,Two Harbors,TW,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,0,0,0
+8bc7ddeb8665bb25c0b194a0a,Twilio Inc,TWLO,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+6f3bd65c0d267301736b56801,2U Inc,TWOU,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+4bae5a942609c239b16d24c6c,Twitter Inc,TWTR,c8205c7636e728d448c2774e6a4a944b,Internet,1,1,1,1
+aff8c6b8852b62561e1092863,Time Warner Inc,TWX,NULL,,0,0,0,1
+78b8b61b6f7383352b2865243,10X Genomics,TXG,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,0,0,0
+740d3f4b7dbee2e59969b71c8,Texas Instruments Inc,TXN,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+208b13449a1ba16d7e37b4461,Textron Inc,TXT,c858b4ff24bc25a5b36ea56dad3897db,Aerospace & Defense,1,1,1,1
+7c641febd87b8fdc463ff4820,Tyler Technologies Inc,TYL,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+e579df19b7344569e122cce29,"Under Armour, Inc.",UA,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+32457bec3056c8646ab8c371a,"United Airlines Holdings, Inc",UAL,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+3150f4617002c9523b449ebe8,"Uber Technologies, Inc. ",UBER,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,0,0
+e2446afe810c75322b15b71d7,Ubiquiti Networks Inc,UBNT,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,0,0,1,0
+ce2cce6c49e59566fbcb7405e,UDR Inc,UDR,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+c64c2c4c77ac74c3c2ccffbdb,Domtar Corp,UFS,b9a140691b80e2a764a04b14a3d816b9,Basic Resources,0,1,1,1
+bf4378ef953a8d087e35b789c,UGI Corp,UGI,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+cb5bcffa7776bffc90094a85a,AMERCO,UHAL,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+5506ea98a06978d08664128c1,Universal Health Services Inc,UHS,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,1
+b828ec6281a73a5efde4d6760,Ubiquiti,UI,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,0,0
+08eaff6ec511798ca0570632a,"Ulta Beauty, Inc",ULTA,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+4d86b5b2eb546129a281ae82c,Ultimate Software Group Inc,ULTI,719d067b229178f03bcfa1da4ac4dede,Software,0,0,1,1
+49c8371408493438473e36857,Umpqua Holdings Corp,UMPQ,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,0
+05027ef17a5fbda7106f8d0a6,UnitedHealth Group Inc,UNH,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,1,1,1,1
+82414d2b6bae6e18f44117fe0,Uniti Group,UNIT,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,0,0,0,1
+f5b27dad5a54bb73b77005fe4,Unum Group,UNM,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+afaf01fd7c846d44136d9b678,Union Pacific Corp,UNP,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+d58ab15ea7fb99a8e26593002,Univar USA Inc,UNVR,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+79e94ab2cdd4a4b97b3ee6e38,"United Parcel Service, Inc.",UPS,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+c39731f11cb903c0e1944a786,Urban Outfitters Inc,URBN,053e0bc8b9627b28e2ed8029a34b35bd,Retail,0,1,1,1
+ed004457b84501121ae2c63a7,United Rentals Inc,URI,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+b410318975e4671c5b157d103,US Bancorp,USB,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+b99611f16b808cd29a0caed7f,US Foods Holding Corp.,USFD,e3f4aafdc8b3562a52a4f6bbaa217e69,"Food, Beverage & Tobacco",1,1,1,1
+59bf770b5286548ebd332c539,USG Corporation,USG,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,0,0,1,1
+40644d91f9e711630e71a1430,United States Cellular Corp,USM,ba075f9e97825d22570d1bcf73c382f2,Telecommunications,1,1,1,1
+58d6f2704507f272b26e8675a,United Therapeutics Corp,UTHR,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+2a388bbec4b4ec2e3bb6d6561,Visa Inc,V,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+00fb5c9ebbdc6c359d2e001c6,Varian Medical Systems Inc,VAR,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+bfea405b9504c7e54b4308597,Visteon Corp,VC,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,0,0,1,1
+e622b353d39f0aa7826e9aa2a,Veeva Systems,VEEV,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+2f18b933d0f8773aea5e076b4,VF Corp,VFC,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+7a6cc5ecf4bcd3a28436d3807,Viacom Inc,VIA,3b563524fdb17b4a86590470d40bef74,Media,0,1,1,1
+567a0cf365a79135c0a9d4eaf,ViacomCBS Inc,VIAC,3b563524fdb17b4a86590470d40bef74,Media,1,1,1,1
+7a1b2cc387212a4e2edb628bf,Virtu Financial Inc.,VIRT,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,0
+f9074fed526a73c3fd0b5641c,Valero Energy Corp,VLO,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+7f48775fcf5b87a81b615b2f6,Vulcan Materials Company,VMC,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+9ef86d7dc4fe0dfc27ee2b474,Valmont Industries Inc,VMI,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+2f4088c920b0c38f38beb67ea,VMware Inc,VMW,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+c38418a1dfe6f10d0650850a7,Vornado Realty Trust,VNO,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,0
+c43f8da49f859489b24ceb955,Voya Financial Inc,VOYA,98bf4640b315d6320d944b36f9ea06e7,Capital Markets,1,1,1,1
+31c61958fe8318a3b6005aa42,Validus Holdings Ltd,VR,NULL,,0,0,0,1
+01d76805a4a4900d37767bcf2,Verisk Analytics Inc,VRSK,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+4ce4429e2d4b112d0cc9e9cc5,VeriSign Inc,VRSN,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,1,1
+3d060eda641c8e7cf0a277e0d,Vertiv Holdings,VRT,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,0,0,0
+fbadfc351dd1a4500dc8541da,Vertex Pharmaceuticals Inc,VRTX,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1
+14d7a97ffc715c09cde6d435b,"Viasat, Inc.",VSAT,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,0,0
+d455ef3285444e4fbc373217b,Versum Materials Inc,VSM,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,0,0,1,1
+f7090a62373ccde3d456a29bf,Vistra Energy Corp,VST,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+1b05e7e6734483c412fd7a5d7,"Ventas, Inc.",VTR,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,0,0
+f1b3b9d2a633352a40c00ddc0,Vectren Corp,VVC,ceba282b7418b7f199798b645e1cba56,Utilities,0,0,1,1
+04a609d5e60a994a905a857b4,Valvoline Inc,VVV,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,1,1,1,1
+82e7f81dc247a4be833c93d32,VWR,VWR,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,0,0,0,1
+2a279119a5db15e27f2d97b3a,Verizon Communications Inc.,VZ,ba075f9e97825d22570d1bcf73c382f2,Telecommunications,1,1,1,1
+7af6ad8d1a71d4159003d21dd,Wayfair Inc.,W,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+2ded19a417b75bd9760efc8e5,Westinghouse Air Brake Technologies Corporation,WAB,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+ad808d8463bec70fe5eedcf5d,Western Alliance Bancorp,WAL,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+615f80f6bfb7197e51d1fbc97,Waters Corp,WAT,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+29a7b1be72a5d68690ed26481,"Walgreens Boots Alliance, Inc.",WBA,6b1d375c47f362d90b6f5791dd1775be,Food & Drug Retailers,1,1,1,1
+3b941b4f8e4c860d9789a1694,WABCO Holdings Inc,WBC,084cd6e07a4bb1a09ede9e62a8fdf814,Automobiles & Parts,0,1,1,1
+560d8d13f17b241c22cdbcf98,Webster Financial Corp,WBS,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+5f8c123a293d9c254e4f8ffd9,Welbilt Inc,WBT,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,0,0,1,1
+2d1fb4c7a3a9a2aeebf2a41a8,WESCO International Inc,WCC,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,0,1,1,1
+36bc323b857f3b1f05b04d3f6,WellCare Health Plans Inc,WCG,83ae5dbf7ddd148ec0fcaef46d6d3183,Health Care Providers,0,1,1,1
+721eb54113735226fb5edc22f,Workday Inc,WDAY,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,1
+2b2a4c45195a650e971834b1c,Western Digital Corp,WDC,955e5ef956e469bce74b0d640f18c9fb,Technology Hardware,1,1,1,1
+d70cf9ffaf5c5041ce6570c69,WEC Energy Group Inc,WEC,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+f9b30d5b8774b6c63043fa401,The Wendy's Company,WEN,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+9f7fdb89b49818df43ecc863a,WEX Inc.,WEX,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+925dcd6341adf93869a0a56d4,Wells Fargo & Co,WFC,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+32ec5d4657a866fed957af482,Weatherford International PLC,WFT,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,0,0,1,1
+40a87d85da01e91c912cef990,"Wyndham Hotels & Resorts, Inc.",WH,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,0
+bd7f277b19ef722baaa34fec8,Whirlpool Corp,WHR,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+7d208da89459fef894a0373ea,Westlake Chemical Corp,WLK,6089771c4b5ac170dfb12ccafc589ce9,Chemicals,1,1,1,1
+cc2fe863770819f9800563ba2,Whiting Petroleum Corp,WLL,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,1,1
+4a7de892da719d25fa7f5a206,Willis Towers Watson PLC,WLTW,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+0b5386bbc124d741083661da0,"Waste Management, Inc.",WM,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+6cc00e87039ee7ce2cf4fb65d,"The Williams Company, Inc.",WMB,8eeb54b8e9786d5ed4cf8ff2686e2d42,Energy Equipment & Services,1,1,1,1
+fe34284de82f31b9fc18b45d9,Walmart Inc. ,WMT,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+170210c018215ca50d8cfcb76,Slack Technologies,WORK,c8205c7636e728d448c2774e6a4a944b,Internet,1,0,0,0
+6a1406dabcfef3ad51bc708b6,Worldpay Inc,WP,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,0,0,1,0
+774685cd908fa9270bab6a70d,WPX Energy Inc,WPX,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+4ca73355fcc6921b62097b44f,W.R. Berkley Corporation,WRB,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+ca16ced9343a1d537e4dab6b1,WestRock Company ,WRK,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+22992bf8dcc0e62cd46696d0f,Williams-Sonoma Inc,WSM,053e0bc8b9627b28e2ed8029a34b35bd,Retail,1,1,1,1
+e951b2446d4a7400547d627f9,Watsco Inc,WSO,7ac110e84d23204aa63c248a732f2179,Building Materials & Packaging,1,1,1,1
+a063b473b918abef4b943eecd,West Pharmaceutical Services Inc,WST,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+1998f829076c394874064cb2b,Wintrust Financial Corporation,WTFC,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,0
+9f3a717ee76908e2fac663ff9,"White Mountains Insurance Group, Ltd",WTM,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+4382aaa0d3f5edd3ceadf0488,Essential Utilities,WTRG,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+8900e95c12d7484847db0c603,The Western Union Company,WU,d271a2c22f236f624dae9917965bab6d,Consumer & Diversified Finance,1,1,1,1
+855dd28d0d35d1a2bed9ae7cd,"Woodward, Inc.",WWD,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,0,0
+903c11d7354f2cc8ec0b6c76a,"World Wrestling Entertainment, Inc.",WWE,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,0,0
+4b554e383e2df1267de7c2db0,Weyerhaeuser Company,WY,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+128166fc28cdfce586c69d99d,"Wyndham Destinations, Inc.",WYND,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,0
+c0ddbbebfc7d4ebd115b8fc0f,"Wynn Resorts, Limited",WYNN,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+d83d4bfa69edf03974c41b03f,United States Steel Corporation,X,b9a140691b80e2a764a04b14a3d816b9,Basic Resources,0,1,1,1
+c5c70bd6205238438ad8b24bc,Cimarex Energy Co.,XEC,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+1a77f2ada4a3c37f247720daa,Xcel Energy Inc.,XEL,ceba282b7418b7f199798b645e1cba56,Utilities,1,1,1,1
+cf35a5b9f1e27ae078f52585d,XLIT Ltd,XL,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,0,0,1,1
+3221b1a80606fff50d326212f,"Xilinx, Inc.",XLNX,1ecd5cf57e6c65fce778542d3578a2fd,Semiconductors & Equipment,1,1,1,1
+ee3af5526909c9fecf63f8a1b,Acceleron Pharma Inc. ,XLRN,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,0,0,0
+1d23e8e2e51458ca803fd5bc5,Extraction Oil & Gas Inc,XOG,5186f581089f313773b32576818b79fe,Oil & Gas,0,0,1,1
+44c1b4de614c641929abaccfa,Exxon Mobil Corporation,XOM,5186f581089f313773b32576818b79fe,Oil & Gas,1,1,1,1
+f9623ea03e5bab0c89c0807df,Intrexon,XON,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,0,0,0,1
+4656119c9a038b9efc183cb80,"XPO Logistics, Inc.",XPO,a600971fdd23ea1f5685d7ee01d5f5c3,Transportation,1,1,1,1
+dc37f40dc10fa0864b749660d,DENTSPLY SIRONA Inc.,XRAY,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+1910ead13c02a6f3fbb49b349,Xerox Corporation,XRX,c55bccd7265df862ebc4dc9c8cb418fb,Commercial Support Services,1,1,1,1
+5088c3ea8fff193cf42fdf601,Xylem Inc.,XYL,257a8d97f966fedd03cf5d7f558f68e2,Commercial Vehicles & Machinery,1,1,1,1
+d264ceddfcdaad3f8692a7e6b,Alleghany Corporation,Y,eaff1bdf24fcffe0e14e29a1bff51a12,Insurance,1,1,1,1
+d279b7f34ac760640d1d7ec2d,YUM! Brands Inc,YUM,f7191f4efa57134e0e3c349a0d36eec3,Restaurants & Leisure,1,1,1,1
+c69da72c8cb77936b7a5e55c0,"Zillow Group, Inc.",Z,d84514acf6dd2dbbac51a77bd394e0ac,Real Estate,1,1,1,1
+57cf466ab7787e035ca5919d5,"Zayo Group Holdings, Inc.",ZAYO,ba075f9e97825d22570d1bcf73c382f2,Telecommunications,0,1,1,1
+aa8576b115e33ee63a10bb730,Zimmer Biomet Holdings Inc,ZBH,e7db1c88e2f0c27ca6be63dd50901ec3,Health Care Equipment & Services,1,1,1,1
+d4dc80a08fcf78112ecc4878b,Zebra Technologies Corporation,ZBRA,6ffda4ff590948af9d315927fc3a27e6,Industrial Goods,1,1,1,1
+7b7c6fb45f9ab0747edddf049,Zendesk Inc,ZEN,719d067b229178f03bcfa1da4ac4dede,Software,1,1,1,0
+6dc3177cc6d3aa3cee4cdf3e5,"Zions Bancorporation, National Association",ZION,0927b0b8a7a95b5f02808e24b954e3e3,Banks,1,1,1,1
+4b313b5b0c0890daa9643f1a7,Zoom Video Communications Inc,ZM,c8205c7636e728d448c2774e6a4a944b,Internet,1,0,0,0
+7309279367aa68bbccfcc5946,Zynga Inc,ZNGA,6ccd87c01fb82eac743307c8dd219fd3,Household Goods & Apparel,1,1,1,1
+4a9f3fce97d8ee2849739269e,Zscaler,ZS,26bf8f8d573c40a59aebf4eb0e5d914f,Computer Services,1,1,0,0
+81f5c97ffc1bde71d3afebf12,Zoetis Inc,ZTS,0da83ad83c167ac387dc536b43cf36fb,Pharmaceuticals & Biotech,1,1,1,1

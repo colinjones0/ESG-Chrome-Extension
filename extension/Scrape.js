@@ -1,3 +1,4 @@
+import React, {useEffect } from 'react';
 import axios from 'axios';
 /**
  * This class handles web scraping
@@ -6,6 +7,7 @@ import axios from 'axios';
  */
 function Scrape() {
 
+    let companyName;
     /**
      * Gives the name of the company whose page we are on.
      */
@@ -16,7 +18,7 @@ function Scrape() {
         let response = axios.post(
             "http://localhost:4567/findCompany",
             {
-                page : currPage,
+                currPage : currPage,
             },
             {
                 headers: {
@@ -25,13 +27,19 @@ function Scrape() {
                 }
             }
         );
-        return ;
+        return response.data["name"];
     }
 
-    return (
-    <div className = "Scrape">
+    /*
+    * On page load, create the initial canvas.
+    */
+    useEffect(() => {
+        /* Set the ctxRef for future use, now that the page is loaded up. */
+       companyName = findCompanyRequest;
+    }, [])
 
-    </div>
+    return (
+        <div>hello</div>
     );
 }
 
