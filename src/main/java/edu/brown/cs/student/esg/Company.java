@@ -2,6 +2,8 @@ package edu.brown.cs.student.esg;
 
 import com.google.common.base.Ticker;
 
+import java.util.HashMap;
+
 public class Company {
 
     private String companyPermID;
@@ -12,6 +14,7 @@ public class Company {
     private String taxonomyPermID;
     private String taxonomyName;
     private String score;
+    private HashMap<String, Integer> uniqueWords;
 
     public Company(String[] values) {
         this.parseValues(values);
@@ -35,5 +38,12 @@ public class Company {
 
     public String getScore() {
         return score;
+    }
+
+    public void setUniqueWords(HashMap<String, Integer> uniqueWordsData) {
+        uniqueWords = uniqueWordsData;
+    }
+    public HashMap<String, Integer> getUniqueWords() {
+        return uniqueWords;
     }
 }

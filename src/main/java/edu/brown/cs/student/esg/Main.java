@@ -53,10 +53,11 @@ public final class Main {
     if (options.has("gui")) {
       runSparkServer((int) options.valueOf("port"));
     }
-    REPL repl = new REPL();
-    repl.readUserInput();
-    Scraper scraper = new Scraper();
-    scraper.findCompany("https://www.nike.com/");
+//    Scraper scraper = new Scraper();
+//    scraper.getText("https://www.nike.com/");
+//    REPL repl = new REPL();
+//    repl.readUserInput();
+    TopLevel tl = new TopLevel();
   }
 
   private static FreeMarkerEngine createEngine() {

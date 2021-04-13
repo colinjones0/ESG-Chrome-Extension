@@ -62,7 +62,7 @@ public class REPL {
     }
 
     private void convertToCompanies() {
-        ArrayList<Company> convertedData = new ArrayList<Company>();
+        List<Company> convertedData = new ArrayList<Company>();
         for(String[] values: data) {
             convertedData.add(new Company(values));
         }
