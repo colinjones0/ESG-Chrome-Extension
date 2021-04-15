@@ -11,6 +11,7 @@ public class TopLevel {
 
   private final Parser parser = new Parser();
   private final Scraper scraper = new Scraper();
+  private List<String[]> esgData;
   private Graph graph;
 
   /**
@@ -18,22 +19,28 @@ public class TopLevel {
    */
   public TopLevel() {
     /* Load ESG data */
-    List<String[]> esgData = parser.parseCSV(new File("companies2.csv"));
-    createGraph(esgData);
+    esgData = parser.parseCSV(new File("companies2.csv"));
+    //createGraph(esgData);
   }
 
   /**
    * Create the graph based off the companies in the data file.
-   * @param esgData - data parsed from data file
    */
-  private void createGraph(List<String[]> esgData) {
+  public String[][] createGraph(String url) {
     List<NewCompany> companyList = new ArrayList<>();
+    NewCompany currCompany = new NewCompany(null);
     for (String[] companyData: esgData) {
       NewCompany newCompany = new NewCompany(companyData);
       newCompany.setUniqueWords(scraper.getText(newCompany.getUrl()));
-      companyList.add(newCompany);
+      if (newCompany.getUrl().equals(url)) {
+        currCompany = newCompany;
+      } else {
+        companyList.add(newCompany);
+      }
     }
-    graph = new Graph(companyList);
+    graph = new Graph();
+    String[][] returnData = graph.buildGraph(companyList, currCompany);
+    return returnData;
   }
 
 }

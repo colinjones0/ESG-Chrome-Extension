@@ -26,6 +26,7 @@ import java.util.Map;
 public final class Main {
   private static final int DEFAULT_PORT = 4567;
   private static final Gson GSON = new Gson();
+  private static TopLevel tl;
 
   /**
    * The initial method called when execution begins.
@@ -55,9 +56,10 @@ public final class Main {
     }
 //    Scraper scraper = new Scraper();
 //    scraper.getText("https://www.nike.com/");
-//    REPL repl = new REPL();
-//    repl.readUserInput();
-    TopLevel tl = new TopLevel();
+    tl = new TopLevel();
+    REPL repl = new REPL();
+    repl.readUserInput();
+
   }
 
   private static FreeMarkerEngine createEngine() {
@@ -128,9 +130,9 @@ public final class Main {
     public Object handle(Request request, Response response) throws Exception {
       JSONObject data = new JSONObject(request.body());
       String url = data.getString("currPage");
-//      String companyName = scrape.findCompany(url);
-      String companyName = "hello";
-      Map<String, Object> variables = ImmutableMap.of("name", companyName);
+      String [][] returnData = tl.createGraph(url);
+     // String companyName = "hello";
+      Map<String, Object> variables = ImmutableMap.of("recommendations", returnData);
       return GSON.toJson(variables);
     }
   }

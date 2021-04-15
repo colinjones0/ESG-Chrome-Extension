@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-edu/brown/cs/student/esg/Scraper.class
-edu/brown/cs/student/esg/Main.class
-edu/brown/cs/student/esg/Main$ExceptionPrinter.class
-=======
 edu/brown/cs/student/esg/TopLevel.class
+edu/brown/cs/student/esg/ScoreComparator.class
 edu/brown/cs/student/esg/REPL.class
 edu/brown/cs/student/esg/NewCompany.class
 edu/brown/cs/student/esg/Main$ExceptionPrinter.class
@@ -13,4 +9,3 @@ edu/brown/cs/student/esg/Scraper.class
 edu/brown/cs/student/esg/Parser.class
 edu/brown/cs/student/esg/Main.class
 edu/brown/cs/student/esg/Main$CompanyNameHandler.class
->>>>>>> 2cd196b3dba8d89c3d20538142bc14f43bd251f5
