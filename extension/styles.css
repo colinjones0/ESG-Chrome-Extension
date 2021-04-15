@@ -271,3 +271,35 @@ a {
     text-align: center;
     border-radius: 10px;
 }
+
+#privacy-policy {
+    position: absolute;
+    bottom: 10px;
+    left: 160px;
+}
+
+.tool-tip{
+    position: relative;
+    color: dimgrey;
+    border-bottom: 1px dotted black;
+}
+
+.tool-tip .tool-tip-text{
+    visibility: hidden;
+    width: 200px;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -100px;
+    background-color: grey;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.tool-tip:hover .tool-tip-text{
+    visibility: visible;
+}

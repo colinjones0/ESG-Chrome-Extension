@@ -19,6 +19,8 @@ function Scrape() {
         /* gets the url of the page we are on*/
         let currPage = window.location.href;
 
+        //check if currPage is in database
+
         let response = axios.post(
             "http://localhost:4567/findCompany",
             {
