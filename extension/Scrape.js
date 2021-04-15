@@ -1,6 +1,10 @@
-import axios from 'axios';
+import axios from '../axios';
 
-document.getElementById("score").addEventListener("click", Scrape);
+document.getElementById("score").addEventListener("click", myFunction);
+
+function myFunction() {
+    console.log('hi');
+}
 /**
  * This class handles web scraping
  * @returns {JSX.Element}
@@ -29,6 +33,4 @@ function Scrape() {
         );
          console.log(response.data["recommendations"])
         return response.data["recommendations"];
-
-    // }
 }
