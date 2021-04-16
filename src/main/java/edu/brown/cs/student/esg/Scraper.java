@@ -46,7 +46,6 @@ public class Scraper {
    */
     public HashMap<String, Integer> getText(String url) throws UserFriendlyException {
       try {
-        //TODO: privacy on scraping, must not crash. Rotate IP address
         Document doc = Jsoup.connect(url).get();
         Elements test = doc.select("*"); // selects all
         String testText = test.text();

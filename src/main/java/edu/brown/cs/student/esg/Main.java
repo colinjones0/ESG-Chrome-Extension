@@ -130,6 +130,7 @@ public final class Main {
     public Object handle(Request request, Response response) throws Exception {
       JSONObject data = new JSONObject(request.body());
       String url = data.getString("currPage");
+      System.out.println(url);
       String [][] returnData = new String[4][3];
       try {
         returnData = tl.createGraph(url);

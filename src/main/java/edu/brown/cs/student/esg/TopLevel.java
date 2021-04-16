@@ -18,7 +18,7 @@ public class TopLevel {
   public TopLevel() {
     /* Load ESG data */
     Parser parser = new Parser();
-    esgData = parser.parseCSV(new File("data/mock-data copy.csv"));
+    esgData = parser.parseCSV(new File("data/mock-data.csv"));
   }
 
   /**
@@ -28,11 +28,14 @@ public class TopLevel {
     List<Company> companyList = new ArrayList<>();
     Company currCompany = new Company(new String[9]);
     boolean firstRow = true;
-    for (String[] companyData: esgData) {
-      if (companyData[3].equals(url)) {
-        Company newCompany = new Company(companyData);
-        esgData.remove(companyData);
+    System.out.println(esgData.size());
+    for (int i = 0; i < esgData.size(); i++) {
+      if (esgData.get(i)[3].equals(url)) {
+        Company newCompany = new Company(esgData.get(i));
+        esgData.remove(esgData.get(i));
         currCompany = newCompany;
+        System.out.println(currCompany);
+        currCompany.setUniqueWords(scraper.getText(url));
       }
     }
     if (currCompany.getUniqueWords() == null) {

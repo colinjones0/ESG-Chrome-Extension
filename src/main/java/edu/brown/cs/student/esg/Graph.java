@@ -39,6 +39,7 @@ public class Graph {
     companies.sort(sc); // check if high scores sorted first or low scores
     //make constant for number of suggestions
     for (int i = 0; i < 3; i ++) {
+      // check for less esg scores
       returnData[i][0] = companies.get(i).getCompanyName();
       returnData[i][1] = companies.get(i).getTicker();
       returnData[i][2] = companies.get(i).getCompanyURL();
