@@ -28,10 +28,11 @@ public class Graph {
         }
       });
       company.setWeight(weight.get());
-     // System.out.println(company.getWeight());
 
-      // esg score is very good -> take similarity less into account
-      // esg is not so good -> take similarity more into account
+      /* Taking ESG scores into account for the weight*/
+      Double esgBonus = Math.floor(Double.parseDouble(company.getScore()) / 25);
+      company.setWeight(company.getWeight() + esgBonus);
+
     }
     String[][] returnData = new String[4][8];
     ScoreComparator sc = new ScoreComparator();

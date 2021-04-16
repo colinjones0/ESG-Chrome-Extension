@@ -30,20 +30,27 @@ public class TopLevel {
     Company currCompany = new Company(new String[9]);
     boolean firstRow = true;
     for (String[] companyData: esgData) {
-      if (!firstRow) { // skip first row of csv
+      if (companyData[3].equals(url)) {
         Company newCompany = new Company(companyData);
-        newCompany.setUniqueWords(scraper.getText(newCompany.getCompanyURL()));
-        if (newCompany.getCompanyURL().equals(url)) {
-          currCompany = newCompany;
-        } else {
+        esgData.remove(companyData);
+        currCompany = newCompany;
+      }
+    }
+    if (currCompany.getUniqueWords() == null) {
+      throw new UserFriendlyException("Company not in Database");
+    }
+    for (String[] companyData: esgData) {
+      if (!firstRow) { // skip first row of csv
+        /* Never look at companies with worse ESG scores */
+        if (Double.parseDouble(companyData[5]) > Double.parseDouble(currCompany.getScore())) {
+          Company newCompany = new Company(companyData);
+          newCompany.setUniqueWords(scraper.getText(newCompany.getCompanyURL()));
           companyList.add(newCompany);
         }
       }
       firstRow = false;
     }
-    if (currCompany.getUniqueWords() == null) {
-      throw new UserFriendlyException("Company not in Database");
-    }
+
     graph = new Graph();
     return graph.buildGraph(companyList, currCompany);
   }
