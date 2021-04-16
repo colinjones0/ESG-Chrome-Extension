@@ -9,16 +9,15 @@ import java.util.List;
  */
 public class TopLevel {
 
-  private final Parser parser = new Parser();
   private final Scraper scraper = new Scraper();
-  private List<String[]> esgData;
-  private Graph graph;
+  private final List<String[]> esgData;
 
   /**
    * Constructor for the Top Level.
    */
   public TopLevel() {
     /* Load ESG data */
+    Parser parser = new Parser();
     esgData = parser.parseCSV(new File("data/mock-data copy.csv"));
   }
 
@@ -44,14 +43,18 @@ public class TopLevel {
         /* Never look at companies with worse ESG scores */
         if (Double.parseDouble(companyData[5]) > Double.parseDouble(currCompany.getScore())) {
           Company newCompany = new Company(companyData);
-          newCompany.setUniqueWords(scraper.getText(newCompany.getCompanyURL()));
-          companyList.add(newCompany);
+          try {
+            newCompany.setUniqueWords(scraper.getText(newCompany.getCompanyURL()));
+            companyList.add(newCompany);
+          } catch (UserFriendlyException e) {
+            continue;
+          }
         }
       }
       firstRow = false;
     }
 
-    graph = new Graph();
+    Graph graph = new Graph();
     return graph.buildGraph(companyList, currCompany);
   }
 }

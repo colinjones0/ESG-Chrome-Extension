@@ -44,7 +44,7 @@ public class Scraper {
   /**
    * dfsdf.
    */
-    public HashMap<String, Integer> getText(String url) {
+    public HashMap<String, Integer> getText(String url) throws UserFriendlyException {
       try {
         //TODO: privacy on scraping, must not crash. Rotate IP address
         Document doc = Jsoup.connect(url).get();
@@ -67,9 +67,8 @@ public class Scraper {
         }
         return uniqueWords;
       } catch (IOException e) {
-        System.out.println("Caught IOexcepction for " + url); // fix handling later
+          throw new UserFriendlyException("Couldn't connect to website for scraping");
       }
-      return null;
     }
 
   /**
