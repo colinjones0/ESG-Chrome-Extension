@@ -76,32 +76,32 @@ public final class Main {
   }
 
   private void runSparkServer(int port) {
-//    /* Taken largely from the React lab's server. */
-//
-//    Spark.port(port);
-//    Spark.externalStaticFileLocation("src/main/resources/static");
-//
-//    /* Access control. */
-//    Spark.options("/*", (request, response) -> {
-//      String accessControlRequestHeaders = request.headers("Access-Control-Request-Headers");
-//      if (accessControlRequestHeaders != null) {
-//        response.header("Access-Control-Allow-Headers", accessControlRequestHeaders);
-//      }
-//      String accessControlRequestMethod = request.headers("Access-Control-Request-Method");
-//      if (accessControlRequestMethod != null) {
-//        response.header("Access-Control-Allow-Methods", accessControlRequestMethod);
-//      }
-//      return "OK";
-//    });
-//    Spark.before((request, response) -> response.header("Access-Control-Allow-Origin", "*"));
-//    Spark.exception(Exception.class, new ExceptionPrinter());
-//    FreeMarkerEngine freeMarker = createEngine();
-//    //Spark.post("/findCompany", new CompanyNameHandler());
+    /* Taken largely from the React lab's server. */
+
     Spark.port(port);
     Spark.externalStaticFileLocation("src/main/resources/static");
-    Spark.exception(Exception.class, new ExceptionPrinter());
 
-    FreeMarkerEngine freeMarker = createEngine();
+    /* Access control. */
+    Spark.options("/*", (request, response) -> {
+      String accessControlRequestHeaders = request.headers("Access-Control-Request-Headers");
+      if (accessControlRequestHeaders != null) {
+        response.header("Access-Control-Allow-Headers", accessControlRequestHeaders);
+      }
+      String accessControlRequestMethod = request.headers("Access-Control-Request-Method");
+      if (accessControlRequestMethod != null) {
+        response.header("Access-Control-Allow-Methods", accessControlRequestMethod);
+      }
+      return "OK";
+    });
+    Spark.before((request, response) -> response.header("Access-Control-Allow-Origin", "*"));
+    Spark.exception(Exception.class, new ExceptionPrinter());
+//    FreeMarkerEngine freeMarker = createEngine();
+    Spark.post("/findCompany", new CompanyNameHandler());
+//    Spark.port(port);
+//    Spark.externalStaticFileLocation("src/main/resources/static");
+//    Spark.exception(Exception.class, new ExceptionPrinter());
+
+//    FreeMarkerEngine freeMarker = createEngine();
   }
 
   /**
@@ -130,10 +130,21 @@ public final class Main {
     public Object handle(Request request, Response response) throws Exception {
       JSONObject data = new JSONObject(request.body());
       String url = data.getString("currPage");
-      String [][] returnData = tl.createGraph(url);
+      String [][] returnData = new String[4][3];
+      try {
+        returnData = tl.createGraph(url);
+      } catch(UserFriendlyException e) {
+        String result = "error";
+        returnData[0][0] = result;
+      }
      // String companyName = "hello";
       Map<String, Object> variables = ImmutableMap.of("recommendations", returnData);
       return GSON.toJson(variables);
+//      JSONObject data = new JSONObject(request.body());
+//      System.out.println("hi");
+//      String url = data.getString("currPage");
+//      Map<String, Object> variables = ImmutableMap.of("recommendations", "it worked");
+//      return GSON.toJson(variables);
     }
   }
 

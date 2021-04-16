@@ -26,9 +26,11 @@ public class TopLevel {
   /**
    * Create the graph based off the companies in the data file.
    */
-  public String[][] createGraph(String url) {
+  public String[][] createGraph(String url) throws UserFriendlyException {
+    System.out.println("url from frontend" + url);
+    System.out.println("url from database" + esgData.get(0)[2]);
     List<NewCompany> companyList = new ArrayList<>();
-    NewCompany currCompany = new NewCompany(null);
+    NewCompany currCompany = new NewCompany(new String[3]);
     for (String[] companyData: esgData) {
       NewCompany newCompany = new NewCompany(companyData);
       newCompany.setUniqueWords(scraper.getText(newCompany.getUrl()));
@@ -37,6 +39,9 @@ public class TopLevel {
       } else {
         companyList.add(newCompany);
       }
+    }
+    if (currCompany.getUniqueWords() == null) {
+      throw new UserFriendlyException("Company not in Database");
     }
     graph = new Graph();
     String[][] returnData = graph.buildGraph(companyList, currCompany);

@@ -15,5 +15,7 @@
       },
       "description": "Opens main.html"
     }
-  }
+  },
+  "permissions": ["tabs",
+  "<all_urls>"]
 }

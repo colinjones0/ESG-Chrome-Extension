@@ -1,6 +1,5 @@
 package edu.brown.cs.student.esg;
 
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicReference;
@@ -30,6 +29,9 @@ public class Graph {
       });
       company.setWeight(weight.get());
       System.out.println(company.getWeight());
+
+      // esg score is very good -> take similarity less into account
+      // esg is not so good -> take similarity more into account
     }
     String[][] returnData = new String[4][3];
     ScoreComparator sc = new ScoreComparator();

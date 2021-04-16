@@ -1,6 +1,4 @@
-import axios from '../axios';
-
-document.getElementById("score").addEventListener("click", myFunction);
+document.getElementById("score").addEventListener("click", Scrape);
 
 function myFunction() {
     console.log('hi');
@@ -11,17 +9,23 @@ function myFunction() {
  * @constructor
  */
 function Scrape() {
-    //
-    // /**
-    //  * Gives the name of the company whose page we are on.
-    //  */
-    // const findCompanyRequest = () => {
+
         /* gets the url of the page we are on*/
-        let currPage = window.location.href;
 
-        //check if currPage is in database
+    let currPage = null;
+    async function getUrl() {
+        let promise = new Promise((res, rej) => {
+            chrome.tabs.query({active: true, currentWindow: true}, tabs => {
+                currPage = tabs[0].url;
+                console.log(currPage);
+                console.log("inside query");
+            });
+            //return currPage;
+        });
+    }
+    getUrl().then(
 
-        let response = axios.post(
+    axios.post(
             "http://localhost:4567/findCompany",
             {
                 currPage: currPage,
@@ -32,7 +36,9 @@ function Scrape() {
                     'Access-Control-Allow-Origin': '*',
                 }
             }
-        );
-         console.log(response.data["recommendations"])
-        return response.data["recommendations"];
+        )
+            .then((response) => {
+            console.log(response.data["recommendations"])
+                return response.data["recommendations"]
+    }));
 }

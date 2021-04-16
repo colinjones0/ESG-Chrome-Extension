@@ -1,11 +1,12 @@
 edu/brown/cs/student/esg/TopLevel.class
 edu/brown/cs/student/esg/ScoreComparator.class
-edu/brown/cs/student/esg/REPL.class
 edu/brown/cs/student/esg/NewCompany.class
-edu/brown/cs/student/esg/Main$ExceptionPrinter.class
+edu/brown/cs/student/esg/UserFriendlyException.class
 edu/brown/cs/student/esg/Graph.class
-edu/brown/cs/student/esg/Company.class
 edu/brown/cs/student/esg/Scraper.class
 edu/brown/cs/student/esg/Parser.class
+edu/brown/cs/student/esg/REPL.class
+edu/brown/cs/student/esg/Main$ExceptionPrinter.class
+edu/brown/cs/student/esg/Company.class
 edu/brown/cs/student/esg/Main.class
 edu/brown/cs/student/esg/Main$CompanyNameHandler.class
