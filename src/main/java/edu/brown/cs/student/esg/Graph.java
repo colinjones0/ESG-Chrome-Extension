@@ -28,7 +28,7 @@ public class Graph {
         }
       });
       company.setWeight(weight.get());
-      System.out.println(company.getWeight());
+     // System.out.println(company.getWeight());
 
       // esg score is very good -> take similarity less into account
       // esg is not so good -> take similarity more into account
@@ -37,7 +37,7 @@ public class Graph {
     ScoreComparator sc = new ScoreComparator();
     companies.sort(sc); // check if high scores sorted first or low scores
     //make constant for number of suggestions
-    for (int i = 0; i < 7; i ++) {
+    for (int i = 0; i < 3; i ++) {
       returnData[i][0] = companies.get(i).getCompanyName();
       returnData[i][1] = companies.get(i).getTicker();
       returnData[i][2] = companies.get(i).getCompanyURL();

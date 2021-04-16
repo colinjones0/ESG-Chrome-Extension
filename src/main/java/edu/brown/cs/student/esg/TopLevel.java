@@ -19,19 +19,15 @@ public class TopLevel {
    */
   public TopLevel() {
     /* Load ESG data */
-    esgData = parser.parseCSV(new File("data/mock-data.csv"));
-    //createGraph(esgData);
+    esgData = parser.parseCSV(new File("data/mock-data copy.csv"));
   }
 
   /**
    * Create the graph based off the companies in the data file.
    */
   public String[][] createGraph(String url) throws UserFriendlyException {
-    System.out.println("url from frontend " + url);
-    System.out.println("url from database" + esgData.get(1)[1]);
-    System.out.println("size of list " + esgData.size());
     List<Company> companyList = new ArrayList<>();
-    Company currCompany = new Company(new String[8]);
+    Company currCompany = new Company(new String[9]);
     boolean firstRow = true;
     for (String[] companyData: esgData) {
       if (!firstRow) { // skip first row of csv

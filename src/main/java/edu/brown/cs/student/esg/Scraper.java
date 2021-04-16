@@ -67,7 +67,7 @@ public class Scraper {
         }
         return uniqueWords;
       } catch (IOException e) {
-        System.out.println("Caught IOexcepction"); // fix handling later
+        System.out.println("Caught IOexcepction for " + url); // fix handling later
       }
       return null;
     }
