@@ -27,8 +27,8 @@ public class TopLevel {
    * Create the graph based off the companies in the data file.
    */
   public String[][] createGraph(String url) throws UserFriendlyException {
-    System.out.println("url from frontend" + url);
-    System.out.println("url from database" + esgData.get(0)[2]);
+    System.out.println("url from frontend " + url);
+    System.out.println("url from database" + esgData.get(0)[1]);
     List<NewCompany> companyList = new ArrayList<>();
     NewCompany currCompany = new NewCompany(new String[3]);
     for (String[] companyData: esgData) {

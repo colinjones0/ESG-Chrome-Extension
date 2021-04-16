@@ -13,22 +13,24 @@ function Scrape() {
         /* gets the url of the page we are on*/
 
     let currPage = null;
-    async function getUrl() {
-        let promise = new Promise((res, rej) => {
+
+    function getUrl() {
+        return new Promise(resolve => {
             chrome.tabs.query({active: true, currentWindow: true}, tabs => {
                 currPage = tabs[0].url;
                 console.log(currPage);
-                console.log("inside query");
-            });
-            //return currPage;
-        });
+                resolve(currPage);
+        })
+    })
     }
-    getUrl().then(
 
-    axios.post(
+    async function asyncRequest() {
+        const newPage = await getUrl();
+        console.log(newPage)
+        axios.post(
             "http://localhost:4567/findCompany",
             {
-                currPage: currPage,
+                currPage: newPage,
             },
             {
                 headers: {
@@ -38,7 +40,9 @@ function Scrape() {
             }
         )
             .then((response) => {
-            console.log(response.data["recommendations"])
+                console.log(response.data["recommendations"])
                 return response.data["recommendations"]
-    }));
+            });
+    }
+    asyncRequest();
 }
