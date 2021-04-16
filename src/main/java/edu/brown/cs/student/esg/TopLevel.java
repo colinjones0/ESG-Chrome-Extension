@@ -19,7 +19,7 @@ public class TopLevel {
    */
   public TopLevel() {
     /* Load ESG data */
-    esgData = parser.parseCSV(new File("companies2.csv"));
+    esgData = parser.parseCSV(new File("data/mock-data.csv"));
     //createGraph(esgData);
   }
 
@@ -28,24 +28,27 @@ public class TopLevel {
    */
   public String[][] createGraph(String url) throws UserFriendlyException {
     System.out.println("url from frontend " + url);
-    System.out.println("url from database" + esgData.get(0)[1]);
-    List<NewCompany> companyList = new ArrayList<>();
-    NewCompany currCompany = new NewCompany(new String[3]);
+    System.out.println("url from database" + esgData.get(1)[1]);
+    System.out.println("size of list " + esgData.size());
+    List<Company> companyList = new ArrayList<>();
+    Company currCompany = new Company(new String[8]);
+    boolean firstRow = true;
     for (String[] companyData: esgData) {
-      NewCompany newCompany = new NewCompany(companyData);
-      newCompany.setUniqueWords(scraper.getText(newCompany.getUrl()));
-      if (newCompany.getUrl().equals(url)) {
-        currCompany = newCompany;
-      } else {
-        companyList.add(newCompany);
+      if (!firstRow) { // skip first row of csv
+        Company newCompany = new Company(companyData);
+        newCompany.setUniqueWords(scraper.getText(newCompany.getCompanyURL()));
+        if (newCompany.getCompanyURL().equals(url)) {
+          currCompany = newCompany;
+        } else {
+          companyList.add(newCompany);
+        }
       }
+      firstRow = false;
     }
     if (currCompany.getUniqueWords() == null) {
       throw new UserFriendlyException("Company not in Database");
     }
     graph = new Graph();
-    String[][] returnData = graph.buildGraph(companyList, currCompany);
-    return returnData;
+    return graph.buildGraph(companyList, currCompany);
   }
-
 }

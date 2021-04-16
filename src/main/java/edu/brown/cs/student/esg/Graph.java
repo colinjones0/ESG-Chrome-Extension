@@ -9,12 +9,12 @@ public class Graph {
   public Graph() {
   }
 
-  public String[][] buildGraph(List<NewCompany> companies, NewCompany currCompany) {
+  public String[][] buildGraph(List<Company> companies, Company currCompany) {
     // check for empty
     currCompany.setWeight(0.0);
     HashMap<String, Integer> rootWords = currCompany.getUniqueWords();
     /* set weights */
-    for (NewCompany company: companies) {
+    for (Company company: companies) {
       AtomicReference<Double> weight = new AtomicReference<>(0.0);
       HashMap<String, Integer> companyWords = company.getUniqueWords();
       companyWords.forEach((key, value) -> {
@@ -33,21 +33,28 @@ public class Graph {
       // esg score is very good -> take similarity less into account
       // esg is not so good -> take similarity more into account
     }
-    String[][] returnData = new String[4][3];
+    String[][] returnData = new String[4][8];
     ScoreComparator sc = new ScoreComparator();
     companies.sort(sc); // check if high scores sorted first or low scores
     //make constant for number of suggestions
-    for (int i = 0; i < 3; i ++) {
-      String score = companies.get(i).getScore();
-      String companyName = companies.get(i).getCompanyName();
-      String url = companies.get(i).getUrl();
-      returnData[i][0] = score;
-      returnData[i][1] = companyName;
-      returnData[i][2] = url;
+    for (int i = 0; i < 7; i ++) {
+      returnData[i][0] = companies.get(i).getCompanyName();
+      returnData[i][1] = companies.get(i).getTicker();
+      returnData[i][2] = companies.get(i).getCompanyURL();
+      returnData[i][3] = companies.get(i).getPointPercentage();
+      returnData[i][4] = companies.get(i).getScore();
+      returnData[i][5] = companies.get(i).getEnvResource();
+      returnData[i][6] = companies.get(i).getSocResource();
+      returnData[i][7] = companies.get(i).getGovResource();
     }
-    returnData[4][0] = currCompany.getScore();
-    returnData[4][1] = currCompany.getCompanyName();
-    returnData[4][2] = currCompany.getUrl();
+    returnData[3][0] = currCompany.getCompanyName();
+    returnData[3][1] = currCompany.getTicker();
+    returnData[3][2] = currCompany.getCompanyURL();
+    returnData[3][3] = currCompany.getPointPercentage();
+    returnData[3][4] = currCompany.getScore();
+    returnData[3][5] = currCompany.getEnvResource();
+    returnData[3][6] = currCompany.getSocResource();
+    returnData[3][7] = currCompany.getGovResource();
     return returnData;
     // maybe mak a bracket system? log/exponential
   }

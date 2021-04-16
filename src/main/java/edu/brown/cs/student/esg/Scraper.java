@@ -78,7 +78,7 @@ public class Scraper {
   public void loadCommonWords () {
     commonWords = new HashSet<>();
     Parser parser = new Parser();
-    List<String[]> commonWordsList = parser.parseCSV(new File("common_words.csv"));
+    List<String[]> commonWordsList = parser.parseCSV(new File("data/common_words.csv"));
     for (String[] word: commonWordsList) {
       commonWords.add(word[0]);
     }

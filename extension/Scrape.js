@@ -18,7 +18,6 @@ function Scrape() {
         return new Promise(resolve => {
             chrome.tabs.query({active: true, currentWindow: true}, tabs => {
                 currPage = tabs[0].url;
-                console.log(currPage);
                 resolve(currPage);
         })
     })
@@ -26,7 +25,6 @@ function Scrape() {
 
     async function asyncRequest() {
         const newPage = await getUrl();
-        console.log(newPage)
         axios.post(
             "http://localhost:4567/findCompany",
             {
