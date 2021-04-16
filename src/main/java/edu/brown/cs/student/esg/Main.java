@@ -130,7 +130,6 @@ public final class Main {
     public Object handle(Request request, Response response) throws Exception {
       JSONObject data = new JSONObject(request.body());
       String url = data.getString("currPage");
-      System.out.println(url);
       String [][] returnData = new String[4][3];
       try {
         returnData = tl.createGraph(url);
@@ -138,15 +137,8 @@ public final class Main {
         String result = "error";
         returnData[0][0] = result;
       }
-      //returnData[0][0] = "hi";
-     // String companyName = "hello";
       Map<String, Object> variables = ImmutableMap.of("recommendations", returnData);
       return GSON.toJson(variables);
-//      JSONObject data = new JSONObject(request.body());
-//      System.out.println("hi");
-//      String url = data.getString("currPage");
-//      Map<String, Object> variables = ImmutableMap.of("recommendations", "it worked");
-//      return GSON.toJson(variables);
     }
   }
 

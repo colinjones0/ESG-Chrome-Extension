@@ -28,7 +28,7 @@ public class TopLevel {
     List<Company> companyList = new ArrayList<>();
     Company currCompany = new Company(new String[9]);
     boolean firstRow = true;
-    System.out.println(esgData.size());
+    //TODO: use a map/set?
     for (int i = 0; i < esgData.size(); i++) {
       if (esgData.get(i)[3].equals(url)) {
         Company newCompany = new Company(esgData.get(i));
