@@ -1,5 +1,5 @@
 //document.getElementById("score").addEventListener("click", Scrape);
-document.addEventListener("load", Scrape);
+window.addEventListener("load", Scrape);
 
 function myFunction() {
     console.log('hi');
@@ -42,17 +42,23 @@ function Scrape() {
             .then((response) => {
                 console.log(response.data["recommendations"])
                 console.log(response.data["recommendations"][3][4])
-                document.getElementById("score").innerHTML = response.data["recommendations"][3][4];
-                document.getElementById("recommendation-1-website").innerHTML = response.data["recommendations"][0][0];
-                document.getElementById("recommendation-1-website").href = response.data["recommendations"][0][2];
-                document.getElementById("recommendation-2-website").innerHTML = response.data["recommendations"][1][0];
-                document.getElementById("recommendation-2-website").href = response.data["recommendations"][1][2];
-                document.getElementById("recommendation-3-website").innerHTML = response.data["recommendations"][2][0];
-                document.getElementById("recommendation-3-website").href = response.data["recommendations"][2][2];
-                document.getElementById("environment-article").href = response.data["recommendations"][3][5];
-                document.getElementById("social-article").href = response.data["recommendations"][3][6];
-                document.getElementById("governance-article").href = response.data["recommendations"][3][7];
-
+                if (response.data["recommendations"][0][0] === "error"){
+                    document.getElementById("loading-text").innerHTML = "no data found for this company"
+                    document.getElementById("loader").style.display = "none";
+                }
+                else {
+                    document.getElementById("load-background").style.display = "none";
+                    document.getElementById("score").innerHTML = response.data["recommendations"][3][4];
+                    document.getElementById("recommendation-1-website").innerHTML = response.data["recommendations"][0][0];
+                    document.getElementById("recommendation-1-website").href = response.data["recommendations"][0][2];
+                    document.getElementById("recommendation-2-website").innerHTML = response.data["recommendations"][1][0];
+                    document.getElementById("recommendation-2-website").href = response.data["recommendations"][1][2];
+                    document.getElementById("recommendation-3-website").innerHTML = response.data["recommendations"][2][0];
+                    document.getElementById("recommendation-3-website").href = response.data["recommendations"][2][2];
+                    document.getElementById("environment-article").href = response.data["recommendations"][3][5];
+                    document.getElementById("social-article").href = response.data["recommendations"][3][6];
+                    document.getElementById("governance-article").href = response.data["recommendations"][3][7];
+                }
                 return response.data["recommendations"]
             });
     }

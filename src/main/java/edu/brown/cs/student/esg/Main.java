@@ -137,6 +137,7 @@ public final class Main {
         String result = "error";
         returnData[0][0] = result;
       }
+      //returnData[0][0] = "hi";
      // String companyName = "hello";
       Map<String, Object> variables = ImmutableMap.of("recommendations", returnData);
       return GSON.toJson(variables);

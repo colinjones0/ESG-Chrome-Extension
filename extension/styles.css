@@ -24,12 +24,36 @@ t1 {
     color: black;
 }
 
+#load-background {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-color: white;
+    z-index: 1; /* Higher than anything else in the document */
+
+}
+
+#loading-text {
+    overflow: hidden;
+    position: absolute;
+    bottom: 400px;
+    left: 60px;
+    font-family: Titillium Web, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: black;
+}
 /*link to tutorial for the load screen: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_loader5*/
 #loader {
     position: absolute;
     left: 50%;
     top: 50%;
-    z-index: 1;
+    z-index: 2;
     width: 120px;
     height: 120px;
     margin: -76px 0 0 -76px;
@@ -79,18 +103,6 @@ t1 {
     align-items: center;
     letter-spacing: 0.1em;
     color: #333333;
-}
-
-#risk-rating {
-    position: absolute;
-    font-family: Titillium Web, sans-serif;
-    font-weight: 300;
-    text-shadow: 0.25px 0 0 #000, 0 -0.25px 0 #000, 0 0.25px 0 #000, -0.25px 0 0 #000;
-    bottom: 454px;
-    left: 110px;
-    font-size: 14px;
-    letter-spacing: 0.1em;
-    color: #6FCF97;
 }
 
 #score-range {
