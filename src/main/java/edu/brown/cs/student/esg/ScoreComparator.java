@@ -6,8 +6,8 @@ public class ScoreComparator implements Comparator<Company> {
 
   @Override
   public int compare(Company o1, Company o2) {
-    double esgScore1 = Double.parseDouble(o1.getScore());
-    double esgScore2 = Double.parseDouble(o2.getScore());
+    double esgScore1 = o1.getWeight();
+    double esgScore2 = o2.getWeight();
     if (esgScore1 > esgScore2) {
       return -1;
     } else {
