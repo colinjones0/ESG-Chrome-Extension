@@ -61,6 +61,19 @@ public class SimilarityAlgorithm {
       numSuggestions = 3;
     } else {
       numSuggestions = listSize;
+      switch (numSuggestions) {
+        case 0:
+          returnData[0][0] = "No Company with better score";
+          returnData[1][0] = "No Company with better score";
+          returnData[2][0] = "No Company with better score";
+        case 1:
+          returnData[1][0] = "No Company with better score";
+          returnData[2][0] = "No Company with better score";
+        case 2:
+          returnData[2][0] = "No Company with better score";
+        default:
+          break;
+      }
     }
     /* set data of recommendations for return */
     for (int i = 0; i < numSuggestions; i++) {
