@@ -81,7 +81,7 @@ t1 {
     border-bottom: 1px solid lightgrey;
 }
 
-#score-header {
+.score-header {
     position: absolute;
     bottom: 490px;
     left: 10px;
@@ -91,6 +91,30 @@ t1 {
     letter-spacing: 0.05em;
 
     color: #000000;
+}
+
+.score-header-hover-text{
+    font-size: 9px;
+    bottom: 150px;
+}
+
+.score-header .score-header-hover-text {
+    visibility: hidden;
+    width: 200px;
+    bottom: 0%;
+    left: 105%;
+    background-color: grey;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.score-header:hover .score-header-hover-text{
+    visibility: visible;
 }
 
 #score {
@@ -127,7 +151,7 @@ a {
     bottom: 350px;
 }
 
-#related-media-header {
+.related-media-header {
     position: absolute;
     bottom: 320px;
     left: 10px;
@@ -137,6 +161,30 @@ a {
     letter-spacing: 0.05em;
 
     color: #000000;
+}
+
+.related-media-hover-text{
+    font-size: 9px;
+    bottom: 150px;
+}
+
+.related-media-header .related-media-hover-text {
+    visibility: hidden;
+    width: 100px;
+    bottom: 0%;
+    left: 105%;
+    background-color: grey;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.related-media-header:hover .related-media-hover-text{
+    visibility: visible;
 }
 
 #environment-image {
@@ -238,7 +286,7 @@ a {
     bottom: 180px;
 }
 
-#recommendations-header {
+.recommendations-header {
     position: absolute;
     bottom: 155px;
     left: 10px;
@@ -248,6 +296,30 @@ a {
     letter-spacing: 0.05em;
 
     color: #000000;
+}
+
+.recommendation-hover-text{
+    font-size: 9px;
+    bottom: 150px;
+}
+
+.recommendations-header .recommendation-hover-text {
+    visibility: hidden;
+    width: 100px;
+    bottom: 0%;
+    left: 105%;
+    background-color: grey;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.recommendations-header:hover .recommendation-hover-text{
+    visibility: visible;
 }
 
 #recommendation-1-image {
