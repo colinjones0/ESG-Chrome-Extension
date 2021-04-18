@@ -58,6 +58,9 @@ function Scrape() {
                     document.getElementById("environment-article").href = response.data["recommendations"][3][5];
                     document.getElementById("social-article").href = response.data["recommendations"][3][6];
                     document.getElementById("governance-article").href = response.data["recommendations"][3][7];
+                    document.getElementById("recommendation-1-image").src = response.data["recommendations"][0][8];
+                    document.getElementById("recommendation-2-image").src = response.data["recommendations"][1][8];
+                    document.getElementById("recommendation-3-image").src = response.data["recommendations"][2][8];
                 }
                 return response.data["recommendations"]
             })

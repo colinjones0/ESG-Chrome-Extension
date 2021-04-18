@@ -26,7 +26,7 @@ public class TopLevel {
    */
   public String[][] createGraph(String url) throws UserFriendlyException {
     List<Company> companyList = new ArrayList<>();
-    Company currCompany = new Company(new String[9]);
+    Company currCompany = new Company(new String[10]);
     boolean firstRow = true;
     //TODO: use a map/set?
     for (int i = 0; i < esgData.size(); i++) {

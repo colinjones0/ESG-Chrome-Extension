@@ -34,7 +34,7 @@ public class Graph {
       company.setWeight(company.getWeight() + esgBonus);
 
     }
-    String[][] returnData = new String[4][8];
+    String[][] returnData = new String[4][9];
     ScoreComparator sc = new ScoreComparator();
     companies.sort(sc); // check if high scores sorted first or low scores
     //make constant for number of suggestions
@@ -48,6 +48,8 @@ public class Graph {
       returnData[i][5] = companies.get(i).getEnvResource();
       returnData[i][6] = companies.get(i).getSocResource();
       returnData[i][7] = companies.get(i).getGovResource();
+      returnData[i][8] = companies.get(i).getImagePath();
+
     }
     returnData[3][0] = currCompany.getCompanyName();
     returnData[3][1] = currCompany.getTicker();
@@ -57,6 +59,8 @@ public class Graph {
     returnData[3][5] = currCompany.getEnvResource();
     returnData[3][6] = currCompany.getSocResource();
     returnData[3][7] = currCompany.getGovResource();
+    returnData[3][8] = currCompany.getImagePath();
+
     return returnData;
     // maybe mak a bracket system? log/exponential
   }

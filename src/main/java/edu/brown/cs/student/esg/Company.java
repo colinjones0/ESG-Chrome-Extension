@@ -17,6 +17,7 @@ public class Company {
     private String socResource;
     private String govResource;
     private Double weight;
+    private String imagePath;
 
     private HashMap<String, Integer> uniqueWords;
 
@@ -34,6 +35,7 @@ public class Company {
         envResource = values[6];
         socResource = values[7];
         govResource = values[8];
+        imagePath = values[9];
     }
 
     public String getCompanyName() {
@@ -75,6 +77,8 @@ public class Company {
     public String getGovResource() {
         return govResource;
     }
+
+    public String getImagePath() { return imagePath; }
 
     public Double getWeight() {
         return weight;
