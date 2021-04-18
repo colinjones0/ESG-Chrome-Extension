@@ -1,94 +1,160 @@
 package edu.brown.cs.student.esg;
 
-import com.google.common.base.Ticker;
-
 import java.util.HashMap;
 
+/**
+ * Object to represent a company, holding all the data from the dataset.
+ */
 public class Company {
+  private String companyPermID;
+  private String companyName;
+  private String ticker;
+  private String companyURL;
+  private String pointPercentage;
+  private String score;
+  private String envResource;
+  private String socResource;
+  private String govResource;
+  private Double weight;
+  private String imagePath;
+  private static final int SOC_RESOURCE_INDEX = 7;
+  private static final int GOV_RESOURCE_INDEX = 8;
+  private static final int IMAGE_PATH_INDEX = 9;
+  private HashMap<String, Integer> uniqueWords;
 
-    private String companyPermID;
+  /**
+   * Constructor parses the values from the dataset.
+   * @param values - values from dataset
+   */
+  public Company(String[] values) {
+    this.parseValues(values);
+  }
 
-    private String companyName;
-    private String ticker;
-    private String companyURL;
-    private String pointPercentage;
-    private String score;
-    private String envResource;
-    private String socResource;
-    private String govResource;
-    private Double weight;
-    private String imagePath;
+  /**
+   * Sets the instance variables based on info from dataset.
+   * @param values - values from dataset.
+   */
+  private void parseValues(String[] values) {
+    companyName = values[1];
+    ticker = values[2];
+    companyURL = values[3];
+    pointPercentage = values[4];
+    score = values[5];
+    envResource = values[6];
+    socResource = values[SOC_RESOURCE_INDEX];
+    govResource = values[GOV_RESOURCE_INDEX];
+    imagePath = values[IMAGE_PATH_INDEX];
+  }
 
-    private HashMap<String, Integer> uniqueWords;
+  /**
+   * Gets the companyName.
+   * @return companyName
+   */
+  public String getCompanyName() {
+    return companyName;
+  }
 
-    public Company(String[] values) {
-        this.parseValues(values);
-    }
+  /**
+   * Gets the score.
+   * @return score
+   */
+  public String getScore() {
+    return score;
+  }
 
-    // should have 8 values
-    private void parseValues(String[] values) {
-        companyName = values[1];
-        ticker = values[2];
-        companyURL = values[3];
-        pointPercentage = values[4];
-        score = values[5];
-        envResource = values[6];
-        socResource = values[7];
-        govResource = values[8];
-        imagePath = values[9];
-    }
+  /**
+   * Sets the uniqueWords of the company page.
+   * @param uniqueWordsData - hashMap from scraping
+   */
+  public void setUniqueWords(HashMap<String, Integer> uniqueWordsData) {
+    uniqueWords = uniqueWordsData;
+  }
 
-    public String getCompanyName() {
-        return companyName;
-    }
+  /**
+   * Gets the company's perm id.
+   * @return companyPermID
+   */
+  public String getCompanyPermID() {
+    return companyPermID;
+  }
 
-    public String getScore() {
-        return score;
-    }
+  /**
+   * Gets the company's Ticker.
+   * @return ticker
+   */
+  public String getTicker() {
+    return ticker;
+  }
 
-    public void setUniqueWords(HashMap<String, Integer> uniqueWordsData) {
-        uniqueWords = uniqueWordsData;
-    }
+  /**
+   * Gets the company's URL.
+   * @return companyURL
+   */
+  public String getCompanyURL() {
+    return companyURL;
+  }
 
-    public String getCompanyPermID() {
-        return companyPermID;
-    }
+  /**
+   * Gets the percentage of the score from the average.
+   * @return pointPercentage.
+   */
+  public String getPointPercentage() {
+    return pointPercentage;
+  }
 
-    public String getTicker() {
-        return ticker;
-    }
+  /**
+   * Gets the environmental article.
+   * @return envResource
+   */
+  public String getEnvResource() {
+    return envResource;
+  }
 
-    public String getCompanyURL() {
-        return companyURL;
-    }
+  /**
+   * Returns the social article.
+   * @return socResource
+   */
+  public String getSocResource() {
+    return socResource;
+  }
 
-    public String getPointPercentage() {
-        return pointPercentage;
-    }
+  /**
+   * Returns the government article.
+   * @return govResource
+   */
+  public String getGovResource() {
+    return govResource;
+  }
 
-    public String getEnvResource() {
-        return envResource;
-    }
+  /**
+   * Returns the similarity weight of the company.
+   * @return weight
+   */
+  public Double getWeight() {
+    return weight;
+  }
 
-    public String getSocResource() {
-        return socResource;
-    }
+  /**
+   * Sets the similarity weight.
+   * @param newWeight - passed in weight to be set to
+   */
+  public void setWeight(Double newWeight) {
+    weight = newWeight;
+  }
 
-    public String getGovResource() {
-        return govResource;
-    }
+  /**
+   * Gets the unique words of the company.
+   * @return uniqueWords
+   */
+  public HashMap<String, Integer> getUniqueWords() {
+    return uniqueWords;
+  }
 
-    public String getImagePath() { return imagePath; }
-
-    public Double getWeight() {
-        return weight;
-    }
-
-    public void setWeight(Double newWeight) {
-        weight = newWeight;
-    }
-
-    public HashMap<String, Integer> getUniqueWords() {
-        return uniqueWords;
-    }
+  /**
+   * Returns the relative file path to the company's logo.
+   * @return imagePath
+   */
+  public String getImagePath() {
+    return imagePath;
+  }
 }
