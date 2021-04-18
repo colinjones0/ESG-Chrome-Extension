@@ -61,6 +61,10 @@ function Scrape() {
                     document.getElementById("recommendation-1-image").src = response.data["recommendations"][0][8];
                     document.getElementById("recommendation-2-image").src = response.data["recommendations"][1][8];
                     document.getElementById("recommendation-3-image").src = response.data["recommendations"][2][8];
+                    document.getElementById("recommendation-1-score").src = response.data["recommendations"][0][4];
+                    document.getElementById("recommendation-2-score").src = response.data["recommendations"][1][4];
+                    document.getElementById("recommendation-3-score").src = response.data["recommendations"][2][4];
+
                 }
                 return response.data["recommendations"]
             })
