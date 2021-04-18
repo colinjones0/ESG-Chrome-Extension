@@ -26,7 +26,7 @@ import java.util.Map;
 public final class Main {
   private static final int DEFAULT_PORT = 4567;
   private static final Gson GSON = new Gson();
-  private static TopLevel tl;
+  private static TopLevel tl; // toplevel object
 
   /**
    * The initial method called when execution begins.
@@ -54,12 +54,10 @@ public final class Main {
     if (options.has("gui")) {
       runSparkServer((int) options.valueOf("port"));
     }
-//    Scraper scraper = new Scraper();
-//    scraper.getText("https://www.nike.com/");
     tl = new TopLevel();
+    /* REPL used to keep backend open for frontend requests */
     REPL repl = new REPL();
     repl.readUserInput();
-
   }
 
   private static FreeMarkerEngine createEngine() {
@@ -95,13 +93,7 @@ public final class Main {
     });
     Spark.before((request, response) -> response.header("Access-Control-Allow-Origin", "*"));
     Spark.exception(Exception.class, new ExceptionPrinter());
-//    FreeMarkerEngine freeMarker = createEngine();
     Spark.post("/findCompany", new CompanyNameHandler());
-//    Spark.port(port);
-//    Spark.externalStaticFileLocation("src/main/resources/static");
-//    Spark.exception(Exception.class, new ExceptionPrinter());
-
-//    FreeMarkerEngine freeMarker = createEngine();
   }
 
   /**
@@ -123,17 +115,19 @@ public final class Main {
   }
 
   /**
-   * Handles getting a company name from a website.
+   * Receives a URL of the website the extension is on from the frontend,
+   * then runs the recommendation algorithm and sends back an array of
+   * companies and their information to the frontend.
    */
   private static class CompanyNameHandler implements Route {
     @Override
     public Object handle(Request request, Response response) throws Exception {
       JSONObject data = new JSONObject(request.body());
       String url = data.getString("currPage");
-      String [][] returnData = new String[4][3];
+      String[][] returnData = new String[4][3];
       try {
         returnData = tl.createGraph(url);
-      } catch(UserFriendlyException e) {
+      } catch (UserFriendlyException e) {
         String result = "error";
         returnData[0][0] = result;
       }
@@ -141,6 +135,4 @@ public final class Main {
       return GSON.toJson(variables);
     }
   }
-
-
 }
