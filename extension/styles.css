@@ -154,7 +154,7 @@ a {
     bottom: 200px;
     left: 10px;
     width: 115px;
-    height: 45px;
+    height: 30px;
     background: rgba(256, 256, 256, 0.7);
     text-align: center;
     border-radius: 10px;
@@ -167,9 +167,9 @@ a {
 /*    text-overflow: ellipsis;*/
 /*}*/
 
-#environment-article:hover {
-    height: 115px;
-}
+/*#environment-article:hover {*/
+/*    height: 115px;*/
+/*}*/
 
 #social-image {
     position: absolute;
@@ -186,7 +186,7 @@ a {
     bottom: 200px;
     left: 142.5px;
     width: 115px;
-    height: 45px;
+    height: 30px;
     background: rgba(256, 256, 256, 0.7);
     text-align: center;
     text-overflow: ellipsis;
@@ -194,9 +194,9 @@ a {
     transition: height 2s;
 }
 
-#social-article:hover {
-    height: 115px;
-}
+/*#social-article:hover {*/
+/*    height: 115px;*/
+/*}*/
 
 #governance-image {
     position: absolute;
@@ -213,7 +213,7 @@ a {
     bottom: 200px;
     left: 275px;
     width: 115px;
-    height: 45px;
+    height: 30px;
     background: rgba(256, 256, 256, 0.7);
     text-align: center;
     border-radius: 10px;
@@ -226,9 +226,9 @@ a {
 /*    text-overflow: ellipsis;*/
 /*}*/
 
-#governance-article:hover {
-    height: 115px;
-}
+/*#governance-article:hover {*/
+/*    height: 115px;*/
+/*}*/
 
 .third-border {
     position: absolute;
@@ -252,12 +252,12 @@ a {
 
 #recommendation-1-image {
     position: absolute;
-    bottom: 30px;
-    left: 10px;
-    width: 115px;
-    height: 115px;
+    bottom: 50px;
+    left: 15px;
+    width: 105px;
+    height: 95px;
     border-radius: 10px;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 #recommendation-1-website {
@@ -270,14 +270,24 @@ a {
     border-radius: 10px;
 }
 
+/*#recommendation-2-image {*/
+/*    position: absolute;*/
+/*    bottom: 30px;*/
+/*    left: 142.5px;*/
+/*    width: 115px;*/
+/*    height: 115px;*/
+/*    border-radius: 10px;*/
+/*    object-fit: contain;*/
+/*}*/
+
 #recommendation-2-image {
     position: absolute;
-    bottom: 30px;
-    left: 142.5px;
-    width: 115px;
-    height: 115px;
+    bottom: 50px;
+    left: 147.5px;
+    width: 105px;
+    height: 95px;
     border-radius: 10px;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 #recommendation-2-website {
@@ -290,14 +300,24 @@ a {
     border-radius: 10px;
 }
 
+/*#recommendation-3-image {*/
+/*    position: absolute;*/
+/*    bottom: 30px;*/
+/*    left: 275px;*/
+/*    width: 115px;*/
+/*    height: 115px;*/
+/*    border-radius: 10px;*/
+/*    object-fit: contain;*/
+/*}*/
+
 #recommendation-3-image {
     position: absolute;
-    bottom: 30px;
-    left: 275px;
-    width: 115px;
-    height: 115px;
+    bottom: 50px;
+    left: 280px;
+    width: 105px;
+    height: 95px;
     border-radius: 10px;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 #recommendation-3-website {
