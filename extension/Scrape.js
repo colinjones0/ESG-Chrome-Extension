@@ -2,9 +2,9 @@
 window.addEventListener("load", Scrape);
 // window.addEventListener("")
 
-function myFunction() {
-    console.log('hi');
-}
+document.getElementById("submit").addEventListener("click", Scrape);
+
+
 /**
  * This class handles web scraping
  * @returns {JSX.Element}
@@ -13,15 +13,12 @@ function myFunction() {
 function Scrape() {
 
         /* gets the url of the page we are on*/
-
-    let currPage = null;
-    console.log(document.getElementById("esg-similarity").value);
-    let sort = null;
+    let sort = false;
     if (document.getElementById("esg-similarity").checked) {
         sort = true;
     }
 
-    console.log("")
+    let currPage = null;
 
     function getUrl() {
         return new Promise(resolve => {
@@ -73,6 +70,11 @@ function Scrape() {
                     document.getElementById("recommendation-1-score").innerHTML = "ESG: " + response.data["recommendations"][0][4];
                     document.getElementById("recommendation-2-score").innerHTML = "ESG: " + response.data["recommendations"][1][4];
                     document.getElementById("recommendation-3-score").innerHTML = "ESG: " + response.data["recommendations"][2][4];
+                    if (sort === true) {
+                        document.getElementById("esg-similarity").checked = true;
+                    } else {
+                        document.getElementById("similarity").checked = true;
+                    }
                 }
                 return response.data["recommendations"]
             })

@@ -307,7 +307,16 @@ a {
 #radio-buttons {
     font-family: Titillium Web, sans-serif;
     position: absolute;
-    bottom: 153px;
+    bottom: 140px;
+    left: 10px;
+}
+
+#submit {
+    font-family: Titillium Web, sans-serif;
+    background-color: skyblue;
+    position: absolute;
+    left: 200px;
+    font-size: 10px;
 }
 
 #recommendation-1-image {

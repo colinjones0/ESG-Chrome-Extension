@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /Users/claireoberg/Desktop/cs32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/TopLevel.java
 /Users/claireoberg/Desktop/cs32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/UserFriendlyException.java
 /Users/claireoberg/Desktop/cs32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/ScoreComparator.java
@@ -8,14 +7,3 @@
 /Users/claireoberg/Desktop/cs32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/Main.java
 /Users/claireoberg/Desktop/cs32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/SimilarityAlgorithm.java
 /Users/claireoberg/Desktop/cs32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/Scraper.java
-=======
-/Users/colinjones/Desktop/CS32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/UserFriendlyException.java
-/Users/colinjones/Desktop/CS32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/Scraper.java
-/Users/colinjones/Desktop/CS32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/SimilarityAlgorithm.java
-/Users/colinjones/Desktop/CS32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/Company.java
-/Users/colinjones/Desktop/CS32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/Main.java
-/Users/colinjones/Desktop/CS32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/ScoreComparator.java
-/Users/colinjones/Desktop/CS32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/TopLevel.java
-/Users/colinjones/Desktop/CS32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/Parser.java
-/Users/colinjones/Desktop/CS32/term-project-cjones46-coberg1-jchew1-rpanjwa2/src/main/java/edu/brown/cs/student/esg/REPL.java
->>>>>>> e173d30f1cc3cb2bd945dd534707cb9f34ad5814

@@ -85,16 +85,22 @@
             </span>
         </div>
 
-        <div id="radio-buttons">
-            <input type="radio" name="options" id="esg-similarity" value="true" checked>
-            <label for="esg-similarity">ESG & Similarity</label>
+        <form id="radio-buttons">
+            <label for="esg-similarity">
+                ESG & Similarity
+                <input type="radio" name="sorting" id="esg-similarity" value="true" checked>
+            </label>
 
-            <input type="radio" name="options" id="similarity" value="false">
-            <label for="similarity">Similarity</label>
+            <label for="similarity">
+                Similarity
+                <input type="radio" name="sorting" id="similarity" value="false">
+            </label>
+
+            <input id="submit" type="submit" value="Submit">
 
 <!--            <input type="radio" name="options" id="parent-company" value="esg-similarity">-->
 <!--            <label for="parent-company">Parent Company</label>-->
-        </div>
+        </form>
 
         <div id="recommendation-1-background"></div>
         <img id="recommendation-1-image"/>
