@@ -31,6 +31,15 @@ public class TopLevel {
 
 
   /**
+   * Parent companies method
+   */
+  public String[][] getParentOwned() {
+    
+
+    return null;
+  }
+
+  /**
    * Create the graph based off the companies in the data file.
    * @param url - url of page user is on from frontend
    * @return String[][] returnData
@@ -38,9 +47,6 @@ public class TopLevel {
   public String[][] createGraph(String url, boolean byESG) throws UserFriendlyException {
     List<Company> companyList = new ArrayList<>();
     Company currCompany = new Company(new String[DATA_COLS]);
-
-    //check cache if company was visited already
-
 
     //given url, Find the company in cache or make new, but don't remove
     for (String[] companyData: esgData){
@@ -67,7 +73,7 @@ public class TopLevel {
       //Company newCompany = new Company(companyData);
       String curLoopURL = companyData[3];
       // Ensures we do not reccomend current company, and skips first row
-      if(!(currCompany.getCompanyURL() == curLoopURL && !firstRow)) {
+      if(!(currCompany.getCompanyURL() == curLoopURL) && !firstRow) {
           try {
             // if doesn't exist in cache, scrape and add to cache
             if (byESG) {
@@ -77,6 +83,7 @@ public class TopLevel {
                   Company newCompany = new Company(companyData);
                   newCompany.setUniqueWords(scraper.getText(newCompany.getCompanyURL()));
                   companiesCache.put(curLoopURL, newCompany);
+                  System.out.println("caching: "+curLoopURL);
                 }
                 companyList.add(companiesCache.get(curLoopURL));
               }
