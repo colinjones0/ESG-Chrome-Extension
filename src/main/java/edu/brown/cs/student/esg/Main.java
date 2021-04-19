@@ -128,6 +128,8 @@ public final class Main {
 
       //TODO: receive byESG from frontend
       boolean byESG = data.getBoolean("sort");
+      boolean parentCompany = true;
+
       try {
         returnData = tl.createGraph(url, byESG);
       } catch (UserFriendlyException e) {
