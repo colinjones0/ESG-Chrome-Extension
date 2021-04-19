@@ -1,5 +1,6 @@
 //document.getElementById("score").addEventListener("click", Scrape);
 window.addEventListener("load", Scrape);
+window.addEventListener("")
 
 function myFunction() {
     console.log('hi');
@@ -14,6 +15,13 @@ function Scrape() {
         /* gets the url of the page we are on*/
 
     let currPage = null;
+    console.log(document.getElementById("esg-similarity").value);
+    let sort = null;
+    if (document.getElementById("esg-similarity").checked) {
+        sort = true;
+    }
+
+    console.log("")
 
     function getUrl() {
         return new Promise(resolve => {
@@ -31,6 +39,7 @@ function Scrape() {
             "http://localhost:4567/findCompany",
             {
                 currPage: newPage,
+                sort: sort,
             },
             {
                 headers: {
@@ -40,13 +49,13 @@ function Scrape() {
             }
         )
             .then((response) => {
-                // console.log(response.data["recommendations"])
-                // console.log(response.data["recommendations"][3][4])
-                // if (response.data["recommendations"][0][0] === "error"){
-                //     document.getElementById("loading-text").innerHTML = "no data found for this company"
-                //     document.getElementById("loader").style.display = "none";
-                // }
-                // else {
+                console.log(response.data["recommendations"])
+                console.log(response.data["recommendations"][3][4])
+                if (response.data["recommendations"][0][0] === "error"){
+                    document.getElementById("loading-text").innerHTML = "no data found for this company"
+                    document.getElementById("loader").style.display = "none";
+                }
+                else {
                     document.getElementById("load-background").style.display = "none";
                     document.getElementById("score").innerHTML = response.data["recommendations"][3][4];
                     document.getElementById("recommendation-1-website").innerHTML = response.data["recommendations"][0][0];
@@ -64,8 +73,7 @@ function Scrape() {
                     document.getElementById("recommendation-1-score").innerHTML = "ESG: " + response.data["recommendations"][0][4];
                     document.getElementById("recommendation-2-score").innerHTML = "ESG: " + response.data["recommendations"][1][4];
                     document.getElementById("recommendation-3-score").innerHTML = "ESG: " + response.data["recommendations"][2][4];
-
-                //}
+                }
                 return response.data["recommendations"]
             })
             .catch((error) => {

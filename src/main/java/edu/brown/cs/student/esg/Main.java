@@ -127,7 +127,7 @@ public final class Main {
       String[][] returnData = new String[4][3];
 
       //TODO: receive byESG from frontend
-      boolean byESG = true;
+      boolean byESG = data.getBoolean("sort");
       try {
         returnData = tl.createGraph(url, byESG);
       } catch (UserFriendlyException e) {

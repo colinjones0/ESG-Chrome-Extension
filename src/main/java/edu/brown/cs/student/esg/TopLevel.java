@@ -36,16 +36,15 @@ public class TopLevel {
 
     //Find the company, but don't remove
     for (String[] companyData: esgData){
-      if(companyData[3].equals(url)){
+      if (companyData[3].equals(url)){
         currCompany =  new Company(companyData);
         //TODO Cache
         currCompany.setUniqueWords(scraper.getText(url));
-
-        /* Throw an exception if we do not have any data on the currCompany */
-        if (currCompany.getUniqueWords() == null) {
-          throw new UserFriendlyException("Company not in Database");
-        }
       }
+    }
+    /* Throw an exception if we do not have any data on the currCompany */
+    if (currCompany.getUniqueWords() == null) {
+      throw new UserFriendlyException("Company not in Database");
     }
 
     /* Iterate through the rest of the data, create companies, and scrape the pages for each row. */
@@ -53,7 +52,7 @@ public class TopLevel {
     for (String[] companyData: esgData) {
       Company newCompany = new Company(companyData);
       // Ensures we do not reccomend current company
-      if(!(currCompany.getCompanyURL() == newCompany.getCompanyURL())) {
+      if (!(currCompany.getCompanyURL() == newCompany.getCompanyURL())) {
         if (!firstRow) { // skip first row of csv
           try {
             newCompany.setUniqueWords(scraper.getText(newCompany.getCompanyURL()));

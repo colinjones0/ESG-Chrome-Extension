@@ -24,6 +24,7 @@ public class SimilarityAlgorithm {
    * Finds the similarity between companies by determining a similarity weight.
    * @param companies - list of companies with better ESG scores
    * @param currCompany - the company whose website the user is on
+   * @param byESG - boolean to know if we want to take ESG into account
    * @return String[][] with the data to be returned to the front end
    */
   public String[][] findSimilarities(List<Company> companies, Company currCompany, boolean byESG) {
@@ -45,8 +46,7 @@ public class SimilarityAlgorithm {
       });
       company.setWeight(similarityWeight.get());
 
-
-      if(byESG) {
+      if (byESG) {
         /* Taking ESG scores into account for the weight*/
         Double esgBonus = Math.floor(Double.parseDouble(company.getScore()) / ESG_BONUS_DIVIDER);
         company.setWeight(company.getWeight() + esgBonus);
