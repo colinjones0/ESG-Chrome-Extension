@@ -1,6 +1,6 @@
 //document.getElementById("score").addEventListener("click", Scrape);
 window.addEventListener("load", Scrape);
-window.addEventListener("")
+// window.addEventListener("")
 
 function myFunction() {
     console.log('hi');

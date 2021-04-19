@@ -2,6 +2,7 @@ package edu.brown.cs.student.esg;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -13,6 +14,9 @@ public class TopLevel {
   private final Scraper scraper = new Scraper();
   private final List<String[]> esgData;
   private static final int DATA_COLS = 10;
+  private ArrayList<HashMap<String, Integer>> scrapeCache;
+  private HashMap<String, Company> companiesCache;
+
 
   /**
    * Constructor for the Top Level that instantiates the parser and parses the dataset.
@@ -21,8 +25,16 @@ public class TopLevel {
     /* Load ESG data */
     Parser parser = new Parser();
     esgData = parser.parseCSV(new File("data/mock-data.csv"));
+    scrapeCache = new ArrayList<HashMap<String, Integer>>();
+    companiesCache = new HashMap<String, Company>();
+  }
 
-    //TODO : Cache Scrape here
+
+  /**
+   * Parent companies method.
+   */
+  public String[][] getParentOwned() {
+    return null;
   }
 
   /**
@@ -34,39 +46,57 @@ public class TopLevel {
     List<Company> companyList = new ArrayList<>();
     Company currCompany = new Company(new String[DATA_COLS]);
 
-    //Find the company, but don't remove
-    for (String[] companyData: esgData){
-      if (companyData[3].equals(url)){
-        currCompany =  new Company(companyData);
-        //TODO Cache
-        currCompany.setUniqueWords(scraper.getText(url));
+    //given url, Find the company in cache or make new, but don't remove
+    for (String[] companyData: esgData) {
+      if (companyData[3].equals(url)) {
+        if (!companiesCache.containsKey(url)) {
+          currCompany =  new Company(companyData);
+          currCompany.setUniqueWords(scraper.getText(url));
+          companiesCache.put(url, currCompany);
+          /* Throw an exception if we do not have any data on the currCompany */
+          if (currCompany.getUniqueWords() == null) {
+            throw new UserFriendlyException("Company not in Database");
+          }
+        } else {
+          currCompany = companiesCache.get(url);
+        }
       }
-    }
-    /* Throw an exception if we do not have any data on the currCompany */
-    if (currCompany.getUniqueWords() == null) {
-      throw new UserFriendlyException("Company not in Database");
     }
 
     /* Iterate through the rest of the data, create companies, and scrape the pages for each row. */
     boolean firstRow = true; // skips first row of ESG file with titles
     for (String[] companyData: esgData) {
-      Company newCompany = new Company(companyData);
-      // Ensures we do not reccomend current company
-      if (!(currCompany.getCompanyURL() == newCompany.getCompanyURL())) {
-        if (!firstRow) { // skip first row of csv
-          try {
-            newCompany.setUniqueWords(scraper.getText(newCompany.getCompanyURL()));
-            if (byESG) {
-              if (Double.parseDouble(companyData[5]) > Double.parseDouble(currCompany.getScore())) {
-                companyList.add(newCompany);
+      //comment this out, don't create new company object every time
+      //Company newCompany = new Company(companyData);
+      String curLoopURL = companyData[3];
+      // Ensures we do not reccomend current company, and skips first row
+      if (!(currCompany.getCompanyURL() == curLoopURL) && !firstRow) {
+        try {
+          // if doesn't exist in cache, scrape and add to cache
+          if (byESG) {
+            if (Double.parseDouble(companyData[5]) > Double.parseDouble(currCompany.getScore())) {
+              //if not cached, cache
+              if (!companiesCache.containsKey(curLoopURL)) {
+                Company newCompany = new Company(companyData);
+                newCompany.setUniqueWords(scraper.getText(newCompany.getCompanyURL()));
+                companiesCache.put(curLoopURL, newCompany);
+                System.out.println("caching: " + curLoopURL);
               }
-            } else {
-              companyList.add(newCompany);
+              companyList.add(companiesCache.get(curLoopURL));
             }
-          } catch (UserFriendlyException e) { // companies with failed scrapes not included in rec
-            continue;
+          } else {
+            //if not cached, cache
+            if (!companiesCache.containsKey(curLoopURL)) {
+              Company newCompany = new Company(companyData);
+              newCompany.setUniqueWords(scraper.getText(newCompany.getCompanyURL()));
+              companiesCache.put(curLoopURL, newCompany);
+            }
+            companyList.add(companiesCache.get(curLoopURL));
           }
+        } catch (UserFriendlyException e) { // companies with failed scrapes not included in rec
+          continue;
         }
+
       }
       firstRow = false; // set after first row
     }
