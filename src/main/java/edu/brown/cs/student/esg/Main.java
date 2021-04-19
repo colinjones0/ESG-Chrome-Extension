@@ -125,8 +125,11 @@ public final class Main {
       JSONObject data = new JSONObject(request.body());
       String url = data.getString("currPage");
       String[][] returnData = new String[4][3];
+
+      //TODO: receive byESG from frontend
+      boolean byESG = true;
       try {
-        returnData = tl.createGraph(url);
+        returnData = tl.createGraph(url, byESG);
       } catch (UserFriendlyException e) {
         String result = "error";
         returnData[0][0] = result;
