@@ -1,7 +1,7 @@
 @import "src/fonts/fonts.css";
 html {
     width: 400px;
-    height: 590px;
+    height: 630px;
 }
 
 h1 {
@@ -13,7 +13,7 @@ h1 {
 t1 {
     overflow: hidden;
     position: absolute;
-    bottom: 535px;
+    bottom: 555px;
     left: 80px;
     font-family: Titillium Web, sans-serif;
     font-style: normal;
@@ -83,7 +83,7 @@ t1 {
 
 .score-header {
     position: absolute;
-    bottom: 490px;
+    bottom: 510px;
     left: 10px;
     font-family: Titillium Web, sans-serif;
     font-weight: 300;
@@ -120,7 +120,7 @@ t1 {
 #score {
     position: absolute;
     font-family: Titillium Web, sans-serif;
-    bottom: 430px;
+    bottom: 450px;
     left: 10px;
     font-weight: 500;
     font-size: 40px;
@@ -131,33 +131,19 @@ t1 {
 
 #score-range {
     position: absolute;
-    bottom: 385px;
+    bottom: 405px;
     left: 0px;
     width: 207px;
     height: 40px;
     object-fit: contain;
 }
 
-/*#very-poor {*/
-/*    position: absolute;*/
-/*    font-family: Titillium Web, sans-serif;*/
-/*    bottom: 410px;*/
-/*    left: 10px;*/
-/*    width: 30px;*/
-/*    line-height: 80%;*/
-/*    height: 20px;*/
-/*    font-weight: 400;*/
-/*    font-size: 10px;*/
-/*    text-align: center;*/
-/*    letter-spacing: 0.1em;*/
-/*    background-color: #c4c4c4;*/
-/*}*/
-
 a {
     position: absolute;
-    bottom: 365px;
+    bottom: 385px;
     left: 10px;
     font-family: Titillium Web, sans-serif;
+    color: black;
 }
 
 .second-border {
@@ -165,12 +151,12 @@ a {
     left: 10px;
     width: 380px;
     border-bottom: 1px solid lightgrey;
-    bottom: 350px;
+    bottom: 370px;
 }
 
 .related-media-header {
     position: absolute;
-    bottom: 320px;
+    bottom: 340px;
     left: 10px;
     font-family: Titillium Web, sans-serif;
     font-weight: 300;
@@ -206,7 +192,7 @@ a {
 
 #environment-image {
     position: absolute;
-    bottom: 200px;
+    bottom: 220px;
     left: 10px;
     width: 115px;
     height: 115px;
@@ -216,7 +202,7 @@ a {
 
 #environment-article {
     position: absolute;
-    bottom: 200px;
+    bottom: 220px;
     left: 10px;
     width: 115px;
     height: 30px;
@@ -230,7 +216,7 @@ a {
 
 #social-image {
     position: absolute;
-    bottom: 200px;
+    bottom: 220px;
     left: 142.5px;
     width: 115px;
     height: 115px;
@@ -240,7 +226,7 @@ a {
 
 #social-article {
     position: absolute;
-    bottom: 200px;
+    bottom: 220px;
     left: 142.5px;
     width: 115px;
     height: 30px;
@@ -254,7 +240,7 @@ a {
 
 #governance-image {
     position: absolute;
-    bottom: 200px;
+    bottom: 220px;
     left: 275px;
     width: 115px;
     height: 115px;
@@ -264,7 +250,7 @@ a {
 
 #governance-article {
     position: absolute;
-    bottom: 200px;
+    bottom: 220px;
     left: 275px;
     width: 115px;
     height: 30px;
@@ -280,18 +266,17 @@ a {
     left: 10px;
     width: 380px;
     border-bottom: 1px solid lightgrey;
-    bottom: 180px;
+    bottom: 200px;
 }
 
 .recommendations-header {
     position: absolute;
-    bottom: 155px;
+    bottom: 175px;
     left: 10px;
     font-family: Titillium Web, sans-serif;
     font-weight: 300;
     font-size: 15px;
     letter-spacing: 0.05em;
-
     color: #000000;
 }
 
@@ -317,6 +302,12 @@ a {
 
 .recommendations-header:hover .recommendation-hover-text{
     visibility: visible;
+}
+
+#radio-buttons {
+    font-family: Titillium Web, sans-serif;
+    position: absolute;
+    bottom: 153px;
 }
 
 #recommendation-1-image {

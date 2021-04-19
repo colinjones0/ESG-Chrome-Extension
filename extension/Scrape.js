@@ -42,11 +42,11 @@ function Scrape() {
             .then((response) => {
                 // console.log(response.data["recommendations"])
                 // console.log(response.data["recommendations"][3][4])
-                if (response.data["recommendations"][0][0] === "error"){
-                    document.getElementById("loading-text").innerHTML = "no data found for this company"
-                    document.getElementById("loader").style.display = "none";
-                }
-                else {
+                // if (response.data["recommendations"][0][0] === "error"){
+                //     document.getElementById("loading-text").innerHTML = "no data found for this company"
+                //     document.getElementById("loader").style.display = "none";
+                // }
+                // else {
                     document.getElementById("load-background").style.display = "none";
                     document.getElementById("score").innerHTML = response.data["recommendations"][3][4];
                     document.getElementById("recommendation-1-website").innerHTML = response.data["recommendations"][0][0];
@@ -65,7 +65,7 @@ function Scrape() {
                     document.getElementById("recommendation-2-score").innerHTML = "ESG: " + response.data["recommendations"][1][4];
                     document.getElementById("recommendation-3-score").innerHTML = "ESG: " + response.data["recommendations"][2][4];
 
-                }
+                //}
                 return response.data["recommendations"]
             })
             .catch((error) => {
