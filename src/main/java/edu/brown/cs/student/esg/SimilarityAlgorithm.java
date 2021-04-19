@@ -26,7 +26,7 @@ public class SimilarityAlgorithm {
    * @param currCompany - the company whose website the user is on
    * @return String[][] with the data to be returned to the front end
    */
-  public String[][] findSimilarities(List<Company> companies, Company currCompany) {
+  public String[][] findSimilarities(List<Company> companies, Company currCompany, boolean byESG) {
     currCompany.setWeight(0.0);
     HashMap<String, Integer> rootWords = currCompany.getUniqueWords();
     /* set weights */
@@ -45,10 +45,12 @@ public class SimilarityAlgorithm {
       });
       company.setWeight(similarityWeight.get());
 
-      /* Taking ESG scores into account for the weight*/
-      Double esgBonus = Math.floor(Double.parseDouble(company.getScore()) / ESG_BONUS_DIVIDER);
-      company.setWeight(company.getWeight() + esgBonus);
 
+      if(byESG) {
+        /* Taking ESG scores into account for the weight*/
+        Double esgBonus = Math.floor(Double.parseDouble(company.getScore()) / ESG_BONUS_DIVIDER);
+        company.setWeight(company.getWeight() + esgBonus);
+      }
     }
 
     String[][] returnData = new String[4][DATA_COLS];
@@ -101,4 +103,6 @@ public class SimilarityAlgorithm {
 
     return returnData;
   }
+
+
 }

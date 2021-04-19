@@ -21,6 +21,8 @@ public class TopLevel {
     /* Load ESG data */
     Parser parser = new Parser();
     esgData = parser.parseCSV(new File("data/mock-data.csv"));
+
+    //TODO : Cache Scrape here
   }
 
   /**
@@ -28,34 +30,40 @@ public class TopLevel {
    * @param url - url of page user is on from frontend
    * @return String[][] returnData
    */
-  public String[][] createGraph(String url) throws UserFriendlyException {
+  public String[][] createGraph(String url, boolean byESG) throws UserFriendlyException {
     List<Company> companyList = new ArrayList<>();
-    Company currCompany = new Company(new String[DATA_COLS]); // company whose website we are on
-    // use a map/set?
-    /* Iterate through dataset and remove the company whose website we are on */
-    for (int i = 0; i < esgData.size(); i++) {
-      if (esgData.get(i)[3].equals(url)) { // find the matching row
-        Company newCompany = new Company(esgData.get(i));
-        esgData.remove(esgData.get(i));
-        currCompany = newCompany;
-        /* scrape currCompany page to set its unique words. */
+    Company currCompany = new Company(new String[DATA_COLS]);
+
+    //Find the company, but don't remove
+    for (String[] companyData: esgData){
+      if(companyData[3].equals(url)){
+        currCompany =  new Company(companyData);
+        //TODO Cache
         currCompany.setUniqueWords(scraper.getText(url));
+
+        /* Throw an exception if we do not have any data on the currCompany */
+        if (currCompany.getUniqueWords() == null) {
+          throw new UserFriendlyException("Company not in Database");
+        }
       }
     }
-    /* Throw an exception if we do not have any data on the currCompany */
-    if (currCompany.getUniqueWords() == null) {
-      throw new UserFriendlyException("Company not in Database");
-    }
-    boolean firstRow = true; // skips first row of ESG file with titles
+
     /* Iterate through the rest of the data, create companies, and scrape the pages for each row. */
+    boolean firstRow = true; // skips first row of ESG file with titles
     for (String[] companyData: esgData) {
-      if (!firstRow) { // skip first row of csv
-        /* Never look at companies with worse ESG scores */
-        if (Double.parseDouble(companyData[5]) > Double.parseDouble(currCompany.getScore())) {
-          Company newCompany = new Company(companyData);
+      Company newCompany = new Company(companyData);
+      // Ensures we do not reccomend current company
+      if(!(currCompany.getCompanyURL() == newCompany.getCompanyURL())) {
+        if (!firstRow) { // skip first row of csv
           try {
             newCompany.setUniqueWords(scraper.getText(newCompany.getCompanyURL()));
-            companyList.add(newCompany); // not reached if the scrape fails
+            if (byESG) {
+              if (Double.parseDouble(companyData[5]) > Double.parseDouble(currCompany.getScore())) {
+                companyList.add(newCompany);
+              }
+            } else {
+              companyList.add(newCompany);
+            }
           } catch (UserFriendlyException e) { // companies with failed scrapes not included in rec
             continue;
           }
@@ -64,6 +72,6 @@ public class TopLevel {
       firstRow = false; // set after first row
     }
     SimilarityAlgorithm graph = new SimilarityAlgorithm();
-    return graph.findSimilarities(companyList, currCompany);
+    return graph.findSimilarities(companyList, currCompany, byESG);
   }
 }
