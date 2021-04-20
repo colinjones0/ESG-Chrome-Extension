@@ -65,14 +65,14 @@ public class SimilarityAlgorithm {
       numSuggestions = listSize;
       switch (numSuggestions) {
         case 0:
-          returnData[0][0] = "No Company with better score";
-          returnData[1][0] = "No Company with better score";
-          returnData[2][0] = "No Company with better score";
+          returnData[0][0] = "No Company";
+          returnData[1][0] = "No Company";
+          returnData[2][0] = "No Company";
         case 1:
-          returnData[1][0] = "No Company with better score";
-          returnData[2][0] = "No Company with better score";
+          returnData[1][0] = "No Company";
+          returnData[2][0] = "No Company";
         case 2:
-          returnData[2][0] = "No Company with better score";
+          returnData[2][0] = "No Company";
         default:
           break;
       }

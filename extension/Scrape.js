@@ -51,8 +51,6 @@ function Scrape(TrueOrFalse) {
             }
         )
             .then((response) => {
-                console.log(response.data["recommendations"])
-                console.log(response.data["recommendations"][3][4])
                 if (response.data["recommendations"][0][0] === "error"){
                     document.getElementById("loading-text").innerHTML = "no data found for this company"
                     document.getElementById("loader").style.display = "none";
@@ -75,6 +73,28 @@ function Scrape(TrueOrFalse) {
                     document.getElementById("recommendation-1-score").innerHTML = "ESG: " + response.data["recommendations"][0][4];
                     document.getElementById("recommendation-2-score").innerHTML = "ESG: " + response.data["recommendations"][1][4];
                     document.getElementById("recommendation-3-score").innerHTML = "ESG: " + response.data["recommendations"][2][4];
+                    document.getElementById("recommendation-3-website").style.display = "block";
+                    document.getElementById("recommendation-3-score").style.display = "block";
+                    document.getElementById("recommendation-2-website").style.display = "block";
+                    document.getElementById("recommendation-2-score").style.display = "block";
+                    document.getElementById("recommendation-1-website").style.display = "block";
+                    document.getElementById("recommendation-1-score").style.display = "block";
+
+                    if (response.data["recommendations"][2][0] === "No Company") {
+                        document.getElementById("recommendation-3-image").src = "images/best-company.png";
+                        document.getElementById("recommendation-3-website").style.display = "none";
+                        document.getElementById("recommendation-3-score").style.display = "none";
+                        if (response.data["recommendations"][1][0] === "No Company") {
+                            document.getElementById("recommendation-2-image").src = "images/best-company.png"
+                            document.getElementById("recommendation-2-website").style.display = "none";
+                            document.getElementById("recommendation-2-score").style.display = "none";
+                            if (response.data["recommendations"][0][0] === "No Company") {
+                                document.getElementById("recommendation-1-image").src = "images/best-company.png"
+                                document.getElementById("recommendation-1-website").style.display = "none";
+                                document.getElementById("recommendation-1-score").style.display = "none";
+                            }
+                        }
+                    }
                 }
             })
             .catch((error) => {
