@@ -128,6 +128,7 @@ public final class Main {
 
       //TODO: receive byESG from frontend
       boolean byESG = data.getBoolean("sort");
+      System.out.println(byESG);
       boolean parentCompany = true;
 
       try {
@@ -136,7 +137,8 @@ public final class Main {
         String result = "error";
         returnData[0][0] = result;
       }
-      Map<String, Object> variables = ImmutableMap.of("recommendations", returnData);
+      Boolean buttonPlease = byESG;
+      Map<String, Object> variables = ImmutableMap.of("recommendations", returnData, "buttons", buttonPlease);
       return GSON.toJson(variables);
     }
   }

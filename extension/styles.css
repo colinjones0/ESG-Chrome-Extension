@@ -120,10 +120,10 @@ t1 {
 #score {
     position: absolute;
     font-family: Titillium Web, sans-serif;
-    bottom: 450px;
-    left: 10px;
-    font-weight: 500;
-    font-size: 40px;
+    bottom: 400px;
+    left: 20px;
+    font-weight: 300;
+    font-size: 80px;
     align-items: center;
     letter-spacing: 0.1em;
     color: #333333;
@@ -131,10 +131,12 @@ t1 {
 
 #score-range {
     position: absolute;
-    bottom: 405px;
-    left: 0px;
-    width: 207px;
-    height: 40px;
+    bottom: 420px;
+    left: 130px;
+    /*width: 207px;*/
+    /*height: 40px;*/
+    width: 258px;
+    height: 50px;
     object-fit: contain;
 }
 
@@ -269,6 +271,39 @@ a {
     bottom: 200px;
 }
 
+#Yes {
+    width: 50px;
+    height: 20px;
+    position: absolute;
+    bottom: 152px;
+    left: 250px;
+    border: none;
+    border-radius: 40%;
+    background-color: #E5FFCC;
+}
+
+#No {
+    width: 50px;
+    height: 20px;
+    position: absolute;
+    bottom: 152px;
+    left: 310px;
+    border: none;
+    border-radius: 40%;
+    background-color: #E5FFCC;
+}
+
+#button-text {
+    position: absolute;
+    bottom: 178px;
+    left: 230px;
+    font-family: Titillium Web, sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
 .recommendations-header {
     position: absolute;
     bottom: 175px;
@@ -304,20 +339,6 @@ a {
     visibility: visible;
 }
 
-#radio-buttons {
-    font-family: Titillium Web, sans-serif;
-    position: absolute;
-    bottom: 140px;
-    left: 10px;
-}
-
-#submit {
-    font-family: Titillium Web, sans-serif;
-    background-color: skyblue;
-    position: absolute;
-    left: 200px;
-    font-size: 10px;
-}
 
 #recommendation-1-image {
     position: absolute;
@@ -482,3 +503,4 @@ a {
 .tool-tip:hover .tool-tip-text{
     visibility: visible;
 }
+

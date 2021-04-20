@@ -1,4 +1,3 @@
-<!--<script data-main="Scrape" src="scripts/require.js"></script><!DOCTYPE html>-->
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
@@ -47,10 +46,6 @@
         />
         <a href="https://drive.google.com/file/d/17jYjy-DIvoQNj_iGRa3F2f-DSaFhKcDm/view" target="_blank">score information</a>
     </div>
-    <!--<script src="https://unpkg.com/axios/dist/axios.min.js"></script>-->
-    <script src="node_modules/axios/dist/axios.min.js"></script>
-    <script src="Scrape.js"></script>
-    <!--<script src="Scrape.js"></script>-->
     <div class="second-border"></div>
 
     <!--Related Media Section-->
@@ -85,22 +80,9 @@
             </span>
         </div>
 
-        <form id="radio-buttons">
-            <label for="esg-similarity">
-                ESG & Similarity
-                <input type="radio" name="sorting" id="esg-similarity" value="true" checked>
-            </label>
-
-            <label for="similarity">
-                Similarity
-                <input type="radio" name="sorting" id="similarity" value="false">
-            </label>
-
-            <input id="submit" type="submit" value="Submit">
-
-<!--            <input type="radio" name="options" id="parent-company" value="esg-similarity">-->
-<!--            <label for="parent-company">Parent Company</label>-->
-        </form>
+        <div id = "button-text">Recommend via ESG score?</div>
+        <button id="Yes">Yes</button>
+        <button id="No">No</button>
 
         <div id="recommendation-1-background"></div>
         <img id="recommendation-1-image"/>
@@ -127,6 +109,7 @@
         </div>
     </div>
 </div>
-
+<script src="node_modules/axios/dist/axios.min.js"></script>
+<script src="Scrape.js"></script>
 </body>
 </html>

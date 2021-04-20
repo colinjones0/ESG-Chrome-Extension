@@ -34,8 +34,6 @@ public class TopLevel {
    * Parent companies method.
    */
   public String[][] getParentOwned() {
-
-
     return null;
   }
 

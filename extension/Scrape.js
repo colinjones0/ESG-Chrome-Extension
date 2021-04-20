@@ -1,25 +1,30 @@
-//document.getElementById("score").addEventListener("click", Scrape);
-window.addEventListener("load", Scrape);
-// window.addEventListener("")
+window.onload=function() {
+    Scrape(true); // initial call
+    const yes = document.getElementById("Yes");
+    const no = document.getElementById("No");
+    yes.addEventListener("click", yesClickHandler);
+    no.addEventListener('click', noClickHandler);
 
-document.getElementById("submit").addEventListener("click", Scrape);
+}
 
+function yesClickHandler() {
+    Scrape(true);
+}
+
+function noClickHandler() {
+    Scrape(false);
+}
 
 /**
  * This class handles web scraping
- * @returns {JSX.Element}
+ * @returns null
  * @constructor
  */
-function Scrape() {
-
-        /* gets the url of the page we are on*/
-    let sort = false;
-    if (document.getElementById("esg-similarity").checked) {
-        sort = true;
-    }
+function Scrape(TrueOrFalse) {
+    console.log(TrueOrFalse);
 
     let currPage = null;
-
+    /* gets the url of the page we are on */
     function getUrl() {
         return new Promise(resolve => {
             chrome.tabs.query({active: true, currentWindow: true}, tabs => {
@@ -36,7 +41,7 @@ function Scrape() {
             "http://localhost:4567/findCompany",
             {
                 currPage: newPage,
-                sort: sort,
+                sort: TrueOrFalse,
             },
             {
                 headers: {
@@ -70,13 +75,7 @@ function Scrape() {
                     document.getElementById("recommendation-1-score").innerHTML = "ESG: " + response.data["recommendations"][0][4];
                     document.getElementById("recommendation-2-score").innerHTML = "ESG: " + response.data["recommendations"][1][4];
                     document.getElementById("recommendation-3-score").innerHTML = "ESG: " + response.data["recommendations"][2][4];
-                    if (sort === true) {
-                        document.getElementById("esg-similarity").checked = true;
-                    } else {
-                        document.getElementById("similarity").checked = true;
-                    }
                 }
-                return response.data["recommendations"]
             })
             .catch((error) => {
                 if (error.response) {
@@ -95,7 +94,6 @@ function Scrape() {
                     console.log('Error', error.message);
                 }
         })
-
     }
     asyncRequest();
 }
